@@ -25,8 +25,14 @@ Write caption files in this simple format; `tools/linkedin_format.py` turns `**.
 - For tax posts, check the key facts against current FTA / Ministry of Finance guidance with a web search. If something on the poster looks wrong or out of date, do NOT publish: skip the post, keep it in the queue, and report the problem.
 - If a deadline on the poster has already passed on the posting date, do not publish it; report it instead.
 
-## Core hashtags (pick 3–5)
-#UAECorporateTax #UAEVAT #CFO #Odoo #ERP #DigitalTransformation #SMEsUAE #Entrepreneurship #Automation #SaaS
+## Hashtags (pick 3–5, matching the country of the post)
+First decide the post's country from the poster: UAE (FTA, Ministry of Finance, AED, EmaraTax, Corporate Tax/VAT in the UAE) or Pakistan (FBR, PKR, IRIS, IPO Pakistan, Pakistani law).
+
+- **UAE posts: UAE hashtags only.** #UAECorporateTax #UAEVAT #SMEsUAE #UAEBusiness #FTA
+- **Pakistan posts: Pakistan hashtags only.** #PakistanTax #FBR #SMEsPakistan #PakistanBusiness #OverseasPakistanis (the last one only when the post is about overseas Pakistanis)
+- **General hashtags (can be added to either):** #CFO #Odoo #ERP #DigitalTransformation #Entrepreneurship #Automation #SaaS
+
+Never put a UAE hashtag on a Pakistan post or a Pakistan hashtag on a UAE post. If a post covers both countries, use only general hashtags plus one from each country set.
 
 ## Example structure (from approved posts in this repository)
 **6 employee benefits where you can now recover VAT.**
