@@ -1,20 +1,16 @@
-Paid in crypto? Here's how the FTA wants it valued.
+**Paid in crypto? Here's how the FTA wants it valued.**
 
 Directive on Tax Transactions No. 3 of 2026 sets one method for VAT.
 
 It covers supplies of digital currency and supplies paid for in digital currency.
 
-The method:
+**The method:**
 
-1. Choose 3 platforms from the FTA's list.
-
-2. Use the same 3 for the whole calendar year.
-
-3. Take each platform's rate at the date and time of supply or payment, as applicable.
-
-4. Convert to AED using the average of the 3 rates.
-
-5. Keep a record of each rate.
+▶ Choose 3 platforms from the FTA's list.
+▶ Use the same 3 for the whole calendar year.
+▶ Take each platform's rate at the date and time of supply or payment, as applicable.
+▶ Convert to AED using the average of the 3 rates.
+▶ Keep a record of each rate.
 
 The platforms named: Binance FZE, Bybit Fintech FZE, Deribit FZE, Bitget and Payward FZCO.
 

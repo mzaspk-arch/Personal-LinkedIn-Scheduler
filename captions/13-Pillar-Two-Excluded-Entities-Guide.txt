@@ -1,18 +1,14 @@
-Exempt from Corporate Tax doesn't mean exempt from Top-up Tax.
+**Exempt from Corporate Tax doesn't mean exempt from Top-up Tax.**
 
 The FTA's guide TTGEIE1 explains which entities sit outside the Domestic Minimum Top-up Tax.
 
-Key points:
+**Key points:**
 
-1. Excluded Entities include international organisations, non-profits, pension funds, and investment funds or REIVs that are the Ultimate Parent Entity.
-
-2. Subsidiaries can qualify at 95%+ ownership with holding activities, or 85%+ with substantially all income excluded.
-
-3. Ownership is measured by value, not share count.
-
-4. Corporate Tax exemption and Excluded Entity status are separate tests.
-
-5. Excluded entities don't register or file, but their revenue still counts towards the EUR 750m threshold.
+▶ Excluded Entities include international organisations, non-profits, pension funds, and investment funds or REIVs that are the Ultimate Parent Entity.
+▶ Subsidiaries can qualify at 95%+ ownership with holding activities, or 85%+ with substantially all income excluded.
+▶ Ownership is measured by value, not share count.
+▶ Corporate Tax exemption and Excluded Entity status are separate tests.
+▶ Excluded entities don't register or file, but their revenue still counts towards the EUR 750m threshold.
 
 ✅ Test each UAE entity against Pillar Two separately from its Corporate Tax status.
 

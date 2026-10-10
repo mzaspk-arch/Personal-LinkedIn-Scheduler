@@ -1,18 +1,14 @@
-Choosing an e-invoicing provider? Check these rules first.
+**Choosing an e-invoicing provider? Check these rules first.**
 
 Ministerial Decision No. 64 of 2025, amended by Ministerial Decision No. 56 of 2026, sets who can be accredited.
 
-What a provider must show:
+**What a provider must show:**
 
-1. New: its e-invoicing product must have operated for at least 2 years.
-
-2. Active Peppol certification, with OpenPeppol conformance tests passed.
-
-3. Paid-up capital of AED 50,000, plus ISO 22301 and ISO/IEC 27001.
-
-4. Insurance: professional indemnity AED 2.5m, crime AED 5m, cyber fraud AED 5m.
-
-5. Accreditation lasts 2 years, with renewal at least 70 Business Days before expiry.
+▶ **New:** its e-invoicing product must have operated for at least 2 years.
+▶ Active Peppol certification, with OpenPeppol conformance tests passed.
+▶ Paid-up capital of AED 50,000, plus ISO 22301 and ISO/IEC 27001.
+▶ **Insurance:** professional indemnity AED 2.5m, crime AED 5m, cyber fraud AED 5m.
+▶ Accreditation lasts 2 years, with renewal at least 70 Business Days before expiry.
 
 ✅ Only work with providers accredited by the Ministry of Finance.
 

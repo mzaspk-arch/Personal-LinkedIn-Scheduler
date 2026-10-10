@@ -1,18 +1,14 @@
-"We're in a Free Zone, so we're covered." Not necessarily.
+**"We're in a Free Zone, so we're covered." Not necessarily.**
 
 Public Clarification TAXP010 shows Corporate Tax, VAT and Excise Tax each define their zones differently.
 
-Key points:
+**Key points:**
 
-1. A VAT Designated Zone isn't automatically a Designated Zone for Corporate Tax.
-
-2. A Corporate Tax Designated Zone must be both a VAT Designated Zone and a Corporate Tax Free Zone.
-
-3. The 0% rate on qualifying distribution income applies only in or from a Corporate Tax Designated Zone.
-
-4. An Excise Designated Zone needs security controls, customs supervision and a Warehouse Keeper.
-
-5. A Qualifying Free Zone Person that breaches the conditions loses its status for that period and the next four.
+▶ A VAT Designated Zone isn't automatically a Designated Zone for Corporate Tax.
+▶ A Corporate Tax Designated Zone must be both a VAT Designated Zone and a Corporate Tax Free Zone.
+▶ The 0% rate on qualifying distribution income applies only in or from a Corporate Tax Designated Zone.
+▶ An Excise Designated Zone needs security controls, customs supervision and a Warehouse Keeper.
+▶ A Qualifying Free Zone Person that breaches the conditions loses its status for that period and the next four.
 
 ✅ Check your zone's status separately for each tax.
 

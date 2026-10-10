@@ -4,12 +4,21 @@ Write the caption from what the poster says. The caption and the image must say 
 
 ## Voice: a trusted senior advisor
 - Line 1 is the hook: under 12 words, a problem, a number or a bold claim. No emoji in the hook.
-- One idea per line, a blank line between lines. 120–220 words in total.
+- One idea per line, a blank line between paragraphs (list items stay on consecutive lines). 120–220 words in total.
 - Specific: real numbers, deadlines, decision or clarification numbers exactly as on the poster.
 - Max 2 emoji, only as bullets (✅ or ▶). Usually two ✅ action lines near the end.
 - End with a question, then a blank line, then "General information, not tax advice." (tax posts), then 3–5 hashtags on the last line.
 - No client names or client figures. No invented stories: if a post needs a personal story that is not on the poster, do not invent one.
 - Never use "synergy", "game-changer" or similar buzzwords.
+
+## Formatting (bold headings and bullets)
+Write caption files in this simple format; `tools/linkedin_format.py` turns `**...**` into bold text when the post is published.
+- Line 1 (the hook) is bold: `**Hook text here.**`
+- A short lead-in line before a list is bold and ends with a colon: `**Key points:**`
+- List items start with `▶ ` and sit on consecutive lines (no blank line between items).
+- If an item has a label, bold the label: `▶ **Transport:** home-to-work, client sites or job duties.`
+- Bold only headings and labels, never whole paragraphs, hashtags or the disclaimer.
+- Action lines start with `✅ ` (max 2), each followed by a blank line.
 
 ## Tax accuracy
 - Every figure, date and decision number must match the poster.
@@ -20,15 +29,15 @@ Write the caption from what the poster says. The caption and the image must say 
 #UAECorporateTax #UAEVAT #CFO #Odoo #ERP #DigitalTransformation #SMEsUAE #Entrepreneurship #Automation #SaaS
 
 ## Example structure (from approved posts in this repository)
-6 employee benefits where you can now recover VAT.
+**6 employee benefits where you can now recover VAT.**
 
 FTA Decision No. 17 of 2026 took effect on 1 October.
 
 It covers goods and services you give employees free of charge.
 
-1. Transport: home-to-work, client sites or job duties, with no cash-allowance option.
-
-2. ...
+▶ **Transport:** home-to-work, client sites or job duties, with no cash-allowance option.
+▶ **Food and drinks:** only where staff are at remote sites with no food facilities nearby.
+▶ ...
 
 ✅ Check your employment contracts first.
 
