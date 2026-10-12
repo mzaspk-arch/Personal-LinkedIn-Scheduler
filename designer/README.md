@@ -21,5 +21,7 @@ Three variations rotate automatically so the feed doesn't look repetitive (or se
 - `panel` — the list or number sits on a steel-blue panel
 
 ## Weekly designed posts
-Claude's designed news posts are saved in `posters/dated/` with the posting date at the start of the name
-(e.g. `2026-10-20-UAE-Input-VAT-Checks.png`). On that date they are posted instead of the next queued poster.
+Zubair's own posters in `posters/` always go first. Every Sunday Claude counts them: when fewer than 6 are left,
+it designs posters for the remaining days of the coming week (Monday to Saturday). Designed posters are saved in
+`posters/dated/` with the posting date at the start of the name (e.g. `2026-12-10-UAE-Input-VAT-Checks.png`)
+and are posted on that date.
