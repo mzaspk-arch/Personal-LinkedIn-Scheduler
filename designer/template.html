@@ -80,7 +80,7 @@ const S = window.SPEC;
   const svg = document.getElementById('net'), pts = [];
   const V = S.variant || ['top','left','panel'][seed % 3];
   document.body.classList.add('v-'+V); window.VARIANT = V;
-  const box = V==='left' ? [520,760,600,560] : [560,-40,560,520];
+  const box = V==='left' ? [560,640,560,420] : [560,-40,560,520];
   for (let i=0;i<26;i++){ const x = box[0] + rnd()*box[2], y = box[1] + rnd()*box[3]; pts.push([x,y]); }
   let s = '';
   pts.forEach((p,i)=>{ pts.forEach((q,j)=>{ if(j>i){ const d=Math.hypot(p[0]-q[0],p[1]-q[1]); if(d<190) s+=`<line x1="${p[0]}" y1="${p[1]}" x2="${q[0]}" y2="${q[1]}" stroke="#fff" stroke-opacity=".08" stroke-width="1.5"/>`; }}); s+=`<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="#fff" fill-opacity=".08"/>`; });
