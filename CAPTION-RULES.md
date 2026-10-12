@@ -2,6 +2,14 @@
 
 Write the caption from what the poster says. The caption and the image must say the same thing.
 
+## Value first (every post must teach something)
+The goal is that a reader learns something useful in 30 seconds and wants to follow Zubair for more.
+- Lead with the reader's problem or the change that affects them, not with news for its own sake.
+- Give practical, specific knowledge: what changed, who it affects, the deadline or amount, and what to do now.
+- Explain one idea well rather than many ideas briefly. Translate legal wording into plain business language.
+- End with 1–2 clear action steps and a question that invites people to share their experience.
+- Helpful, not salesy: no hard selling; mention Zubair's services in at most 2 of every 10 posts.
+
 ## Voice: a trusted senior advisor
 - Line 1 is the hook: under 12 words, a problem, a number or a bold claim. No emoji in the hook.
 - One idea per line, a blank line between paragraphs (list items stay on consecutive lines). 120–220 words in total.

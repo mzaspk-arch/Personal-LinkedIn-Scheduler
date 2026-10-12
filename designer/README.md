@@ -21,7 +21,7 @@ Three variations rotate automatically so the feed doesn't look repetitive (or se
 - `panel` — the list or number sits on a steel-blue panel
 
 ## Weekly designed posts
-Zubair's own posters in `posters/` always go first. Every Sunday Claude counts them: when fewer than 6 are left,
-it designs posters for the remaining days of the coming week (Monday to Saturday). Designed posters are saved in
-`posters/dated/` with the posting date at the start of the name (e.g. `2026-12-10-UAE-Input-VAT-Checks.png`)
-and are posted on that date.
+Zubair's own posters in `posters/` always go first. There are 12 posting slots a week (Monday to Saturday,
+11 AM = AM and 5 PM = PM). Every Sunday Claude counts his posters: when fewer than 12 are left, it designs
+posters for the slots they don't cover. AM slots are UAE topics; PM slots are Pakistan tax or SaaS/ERP/digital topics.
+Designed posters are saved in `posters/dated/` named `<YYYY-MM-DD>-<AM|PM>-<Topic>.png` and posted in that slot.

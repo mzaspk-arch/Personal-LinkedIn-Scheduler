@@ -1,7 +1,7 @@
 # Personal LinkedIn Scheduler
 
-Zubair Akbar's LinkedIn poster queue. A Claude scheduled task posts one poster every
-Monday to Saturday at about 11:00 AM (Dubai time). No posts on Sunday.
+Zubair Akbar's LinkedIn poster queue. Claude scheduled tasks post twice a day, Monday to Saturday,
+at about 11:00 AM and 5:00 PM (Dubai time). No posts on Sunday.
 
 ## How to add posters
 1. Put the PNG in the `posters` folder (1080 × 1350).
