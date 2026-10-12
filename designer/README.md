@@ -12,3 +12,14 @@ Claude designs posters in Zubair's personal brand style (Personal Brand Kit) and
 
 Formats: MythVsFact, Checklist, LessonLearned, BuildInPublic, HotTake.
 LessonLearned and BuildInPublic need a real story or a real number from Zubair; Claude never invents them.
+
+## Background variations
+Every poster keeps the same brand base (grey gradient, slate bar, one light-blue line, same footer).
+Three variations rotate automatically so the feed doesn't look repetitive (or set "variant" in the spec):
+- `top` — glow at the top centre, network lines top right
+- `left` — glow top left, network lines bottom right
+- `panel` — the list or number sits on a steel-blue panel
+
+## Weekly designed posts
+Claude's designed news posts are saved in `posters/dated/` with the posting date at the start of the name
+(e.g. `2026-10-20-UAE-Input-VAT-Checks.png`). On that date they are posted instead of the next queued poster.

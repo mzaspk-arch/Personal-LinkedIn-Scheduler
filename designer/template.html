@@ -21,6 +21,9 @@ html,body{width:1080px;height:1350px;overflow:hidden;background:var(--charcoal)}
   background:radial-gradient(ellipse 900px 760px at 50% 26%, var(--mid-grey) 0%, #6E6E6E 38%, #4A4A4A 70%, var(--charcoal) 100%);
   font-family:Inter,system-ui,sans-serif;color:var(--white)}
 #net{position:absolute;inset:0}
+body.v-left #canvas{background:radial-gradient(ellipse 820px 700px at 12% 14%, var(--mid-grey) 0%, #6E6E6E 36%, #4A4A4A 68%, var(--charcoal) 100%)}
+body.v-panel #canvas{background:radial-gradient(ellipse 1000px 620px at 50% 8%, var(--mid-grey) 0%, #666 40%, #454545 72%, var(--charcoal) 100%)}
+body.v-panel #main ul, body.v-panel #main .metric{background:rgba(63,95,134,.55);border-radius:8px;padding:30px 34px}
 #page{position:absolute;inset:var(--margin);display:flex;flex-direction:column}
 .top{display:flex;flex-direction:column;gap:8px}
 .pillar{font:600 26px/32px Inter;letter-spacing:.16em;color:var(--studio-grey);text-transform:uppercase}
@@ -75,7 +78,10 @@ const S = window.SPEC;
   let seed = 0; for (const c of (S.id||'x')) seed = (seed*31 + c.charCodeAt(0)) >>> 0;
   const rnd = () => (seed = (seed*1664525 + 1013904223) >>> 0) / 4294967296;
   const svg = document.getElementById('net'), pts = [];
-  for (let i=0;i<26;i++){ const x = 560 + rnd()*560, y = -40 + rnd()*520; pts.push([x,y]); }
+  const V = S.variant || ['top','left','panel'][seed % 3];
+  document.body.classList.add('v-'+V); window.VARIANT = V;
+  const box = V==='left' ? [520,760,600,560] : [560,-40,560,520];
+  for (let i=0;i<26;i++){ const x = box[0] + rnd()*box[2], y = box[1] + rnd()*box[3]; pts.push([x,y]); }
   let s = '';
   pts.forEach((p,i)=>{ pts.forEach((q,j)=>{ if(j>i){ const d=Math.hypot(p[0]-q[0],p[1]-q[1]); if(d<190) s+=`<line x1="${p[0]}" y1="${p[1]}" x2="${q[0]}" y2="${q[1]}" stroke="#fff" stroke-opacity=".08" stroke-width="1.5"/>`; }}); s+=`<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="#fff" fill-opacity=".08"/>`; });
   svg.innerHTML = s;
