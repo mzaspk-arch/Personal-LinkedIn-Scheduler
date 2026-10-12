@@ -1,0 +1,26 @@
+{
+ "format": "HotTake",
+ "pillar": "DIGITAL TRANSFORMATION",
+ "source": "UAE e-invoicing · Ministerial Decision No. 64 of 2025",
+ "disclaimer": false,
+ "headline": [
+  "E-INVOICING IS",
+  "AN ERP PROJECT,"
+ ],
+ "highlight": "NOT A TAX PROJECT",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "Your invoices must leave your **ERP** in a structured format.",
+    "An **accredited provider** must connect to that system.",
+    "Bad master data shows up **on every invoice**."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "id": "S5-HotTake-E-Invoicing"
+}

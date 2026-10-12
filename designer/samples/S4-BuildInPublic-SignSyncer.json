@@ -1,0 +1,27 @@
+{
+ "format": "BuildInPublic",
+ "pillar": "SAAS",
+ "source": "SignSyncer · Sample layout — real number needed",
+ "disclaimer": false,
+ "headline": [
+  "WE SHIPPED",
+  "ONE-CLICK"
+ ],
+ "highlight": "SIGNATURE ROLLOUT",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Why: IT teams were updating email signatures **one mailbox at a time**."
+  },
+  {
+   "type": "metric",
+   "value": "[N]",
+   "label": "[mailboxes updated in the first week]"
+  },
+  {
+   "type": "closing",
+   "text": "What should we build next?"
+  }
+ ],
+ "id": "S4-BuildInPublic-SignSyncer"
+}

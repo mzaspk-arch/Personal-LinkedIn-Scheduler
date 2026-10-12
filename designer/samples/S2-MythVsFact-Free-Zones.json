@@ -1,0 +1,25 @@
+{
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "FTA Public Clarification TAXP010",
+ "headline": [
+  "IN A FREE ZONE?",
+  "YOU MAY STILL"
+ ],
+ "highlight": "OWE TAX",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "We're in a Free Zone, so we're covered."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A **VAT Designated Zone** isn't automatically one for Corporate Tax.",
+    "**0%** applies only to **Qualifying Income**.",
+    "Breach the conditions and you lose QFZP status for **5 periods**."
+   ]
+  }
+ ],
+ "id": "S2-MythVsFact-Free-Zones"
+}

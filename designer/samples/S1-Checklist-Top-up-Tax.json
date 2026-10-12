@@ -1,0 +1,27 @@
+{
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "FTA Decision No. 12 of 2026 · Domestic Minimum Top-up Tax",
+ "headline": [
+  "TOP-UP TAX:",
+  "REGISTER BY"
+ ],
+ "highlight": "30 NOVEMBER 2026",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "For UAE entities of multinational groups with a Fiscal Year ended **before 30 April 2026**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Revenue test:** EUR 750m+ in 2 of the last 4 years",
+    "**Separate** from Corporate Tax registration",
+    "Register **even if Top-up Tax is zero**",
+    "Late registration: **AED 10,000** per entity",
+    "Decide which entity **files for the group**"
+   ]
+  }
+ ],
+ "id": "S1-Checklist-Top-up-Tax"
+}
