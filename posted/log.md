@@ -7,3 +7,4 @@
 | 2026-10-13 AM | 03-VAT-Decree-Law-Amendments-VATP046.png | https://www.linkedin.com/feed/update/urn:li:share:7515666889184956416/ |
 | 2026-10-13 PM | 04-VAT-Digital-Currency-Conversion.png | https://www.linkedin.com/feed/update/urn:li:share:7515757151567564800/ |
 | 2026-10-14 AM | 05-VAT-Judicial-Expert-Services.png | https://www.linkedin.com/feed/update/urn:li:share:7516028709653479425/ |
+| 2026-10-14 PM | 06-VAT-Life-Insurance-Fees.png | https://www.linkedin.com/feed/update/urn:li:share:7516119480931012608/ |
