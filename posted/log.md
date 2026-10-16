@@ -10,3 +10,4 @@
 | 2026-10-14 PM | 06-VAT-Life-Insurance-Fees.png | https://www.linkedin.com/feed/update/urn:li:share:7516119480931012608/ |
 | 2026-10-15 AM | 07-E-Invoicing-Service-Provider-Accreditation.png | https://www.linkedin.com/feed/update/urn:li:share:7516391244005249024/ |
 | 2026-10-15 PM | 08-CT-Director-and-Officer-Connected-Persons.png | https://www.linkedin.com/feed/update/urn:li:share:7516481929194676224/ |
+| 2026-10-16 AM | 09-CT-AT1-Instruments-Banks.png | https://www.linkedin.com/feed/update/urn:li:share:7516753847709491200/ |
