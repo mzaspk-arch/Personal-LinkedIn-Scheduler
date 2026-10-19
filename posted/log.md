@@ -13,3 +13,4 @@
 | 2026-10-16 AM | 09-CT-AT1-Instruments-Banks.png | https://www.linkedin.com/feed/update/urn:li:share:7516753847709491200/ |
 | 2026-10-16 PM | 10-Free-Zones-vs-Designated-Zones-TAXP010.png | https://www.linkedin.com/feed/update/urn:li:share:7516844283107209216/ |
 | 2026-10-19 AM | 11-Pillar-Two-Top-up-Tax-Registration-Deadlines.png | https://www.linkedin.com/feed/update/urn:li:share:7517841186146156544/ |
+| 2026-10-19 PM | 12-Pillar-Two-Scope-and-Registration-Guide.png | https://www.linkedin.com/feed/update/urn:li:share:7517931570670903296/ |
