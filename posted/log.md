@@ -14,3 +14,4 @@
 | 2026-10-16 PM | 10-Free-Zones-vs-Designated-Zones-TAXP010.png | https://www.linkedin.com/feed/update/urn:li:share:7516844283107209216/ |
 | 2026-10-19 AM | 11-Pillar-Two-Top-up-Tax-Registration-Deadlines.png | https://www.linkedin.com/feed/update/urn:li:share:7517841186146156544/ |
 | 2026-10-19 PM | 12-Pillar-Two-Scope-and-Registration-Guide.png | https://www.linkedin.com/feed/update/urn:li:share:7517931570670903296/ |
+| 2026-10-20 AM | 13-Pillar-Two-Excluded-Entities-Guide.png | https://www.linkedin.com/feed/update/urn:li:share:7518203150084898816/ |
