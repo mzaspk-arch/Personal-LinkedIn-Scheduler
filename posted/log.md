@@ -16,3 +16,4 @@
 | 2026-10-19 PM | 12-Pillar-Two-Scope-and-Registration-Guide.png | https://www.linkedin.com/feed/update/urn:li:share:7517931570670903296/ |
 | 2026-10-20 AM | 13-Pillar-Two-Excluded-Entities-Guide.png | https://www.linkedin.com/feed/update/urn:li:share:7518203150084898816/ |
 | 2026-10-20 PM | 14-Excise-Tobacco-and-E-Liquid-Minimum-Price.png | https://www.linkedin.com/feed/update/urn:li:share:7518293751186968576/ |
+| 2026-10-21 AM | 15-Tax-Procedures-Executive-Regulation-Amendments.png | https://www.linkedin.com/feed/update/urn:li:share:7518565663695904768/ |
