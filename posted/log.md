@@ -19,3 +19,4 @@
 | 2026-10-21 AM | 15-Tax-Procedures-Executive-Regulation-Amendments.png | https://www.linkedin.com/feed/update/urn:li:share:7518565663695904768/ |
 | 2026-10-21 PM | 16-Private-Clarifications-Guide.png | https://www.linkedin.com/feed/update/urn:li:share:7518656240139526144/ |
 | 2026-10-22 PM | 17-FTA-Clarifications-Policy-and-APAs.png | https://www.linkedin.com/feed/update/urn:li:share:7519019049473961986/ |
+| 2026-10-23 AM | 18-Seized-and-Abandoned-Goods-Disposal.png | https://www.linkedin.com/feed/update/urn:li:share:7519290428370673664/ |
