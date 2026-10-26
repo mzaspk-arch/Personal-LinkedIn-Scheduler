@@ -24,3 +24,4 @@
 | 2026-10-24 AM | 24. PP-Refund.png | https://www.linkedin.com/feed/update/urn:li:share:7519652965117485056/ |
 | 2026-10-24 PM | 26. PP-APA-Post-Pg-1.png, 26. PP-APA-Post-Pg-2.png | https://www.linkedin.com/feed/update/urn:li:ugcPost:7519743176484626432/ |
 | 2026-10-26 AM | 28. PP-Labaih-Initiative.png | https://www.linkedin.com/feed/update/urn:li:share:7520378754016227329/ |
+| 2026-10-26 PM | 29. PP-UAE-Excise-Tax.png | https://www.linkedin.com/feed/update/urn:li:share:7520468370232827904/ |
