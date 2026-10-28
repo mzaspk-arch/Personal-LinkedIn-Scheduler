@@ -28,3 +28,4 @@
 | 2026-10-27 AM | 30. PP-Did-You-Know.png | https://www.linkedin.com/feed/update/urn:li:share:7520740292161847296/ |
 | 2026-10-27 PM | 32. PP-Zero-Vat.png | https://www.linkedin.com/feed/update/urn:li:share:7520830618453118976/ |
 | 2026-10-28 AM | 33. PP-Audit.png | https://www.linkedin.com/feed/update/urn:li:share:7521102552680144897/ |
+| 2026-10-28 PM | 34. PP-E-invoicing.png | https://www.linkedin.com/feed/update/urn:li:share:7521194484035002368/ |
