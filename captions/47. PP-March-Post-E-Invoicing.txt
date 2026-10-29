@@ -1,0 +1,29 @@
+**E-invoicing becomes mandatory in the UAE from 1 January 2027.**
+
+That is about two months away for the largest businesses.
+
+A PDF sent by email will no longer count as a compliant tax invoice once your phase starts.
+
+**The phased go-live dates:**
+▶ **Revenue of AED 50 million or more:** 1 January 2027
+▶ **Revenue below AED 50 million:** 1 July 2027, with an Accredited Service Provider appointed by 31 March 2027
+▶ **Government entities:** 1 October 2027
+
+**Getting ready means three things:**
+▶ **Tax portal setup:** your registration details and the provider that will exchange invoices for you.
+▶ **Digital reporting:** invoices issued in a structured format and reported to the FTA through that provider.
+▶ **Regulatory alignment:** invoice fields, credit notes and approvals that match the new rules.
+
+The hardest part is rarely the software.
+
+It is clean customer master data, consistent tax codes and an ERP that can send the required fields.
+
+✅ Confirm your phase and your provider deadline this week.
+
+✅ Run a test batch of real invoices through your system before go-live.
+
+Is your business already working with an Accredited Service Provider?
+
+General information, not tax advice.
+
+#UAEVAT #FTA #SMEsUAE #ERP #DigitalTransformation
