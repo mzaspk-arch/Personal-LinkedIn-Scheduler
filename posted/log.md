@@ -32,3 +32,4 @@
 | 2026-10-29 AM | 35. PP-UAE-Tax-Compliance.png | https://www.linkedin.com/feed/update/urn:li:share:7521464831862939648/ |
 | 2026-10-29 PM | 40. PP-Myth-Fact.png | https://www.linkedin.com/feed/update/urn:li:share:7521561528878379008/ |
 | 2026-10-30 AM | 41. PP-Excise-Duty.png | https://www.linkedin.com/feed/update/urn:li:share:7521827668372373504/ |
+| 2026-10-30 PM | 47. PP-March-Post-E-Invoicing.png | https://www.linkedin.com/feed/update/urn:li:share:7521917820343934976/ |
