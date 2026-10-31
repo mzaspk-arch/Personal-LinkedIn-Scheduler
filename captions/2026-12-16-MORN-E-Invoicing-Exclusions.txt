@@ -1,0 +1,27 @@
+**Not every invoice has to be an e-invoice. Know the exclusions.**
+
+The UAE e-invoicing mandate covers B2B and B2G supplies. Some transactions are excluded, which matters when you scope your project.
+
+**Main exclusions:**
+▶ **Government:** sovereign activities of government entities.
+▶ **Airlines:** international passenger transport where an electronic ticket or electronic miscellaneous document is issued.
+▶ **Financial services:** those exempt from VAT, and zero-rated financial services. Standard-rated financial services stay in scope.
+▶ **Imported services** taxed under a foreign reverse charge.
+▶ **Air cargo:** international transport of goods with an airway bill, excluded for 24 months.
+▶ **B2C:** sales to consumers are outside the mandate for now.
+
+**Still in scope:**
+▶ Provisional or advance billing, which needs an e-invoice, with later changes made by credit note or a further e-invoice.
+▶ Non-resident businesses registered for UAE VAT that must issue tax invoices.
+
+Get the scope right first. Over-scoping wastes budget, and under-scoping creates penalties.
+
+✅ List your invoice types and mark each one in or out of scope.
+
+✅ Check that pro forma documents are purely informational.
+
+Which of your transactions were you unsure about?
+
+General information, not tax advice.
+
+#UAEVAT #ERP #DigitalTransformation

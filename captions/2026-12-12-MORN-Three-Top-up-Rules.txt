@@ -1,0 +1,26 @@
+**Under Pillar Two, low-taxed profit gets taxed somewhere.**
+
+The global minimum tax has three charging rules. They work in a fixed order.
+
+**1. Domestic minimum top-up tax (DMTT)**
+The country where the profit is earned collects the top-up first. The UAE has one, so Top-up Tax on UAE profit is paid in the UAE.
+
+**2. Income Inclusion Rule (IIR)**
+If a country has no domestic top-up, the country of the parent company can collect it. A qualifying DMTT generally takes priority.
+
+**3. Undertaxed Profits Rule (UTPR)**
+If neither applies, other countries where the group operates can collect the top-up, even from entities with no link to the low-taxed profit.
+
+The UAE has a DMTT but no IIR. So a UAE-parented group with low-taxed subsidiaries abroad may face top-up tax collected by other countries.
+
+That is why the UAE chose to collect first: if the UAE does not, someone else will.
+
+✅ Map every country your group operates in and which of the three rules it applies.
+
+✅ Agree an internal policy on which entity bears the cost if another country collects.
+
+Has your group mapped which country collects its top-up tax?
+
+General information, not tax advice.
+
+#UAECorporateTax #CFO #FTA

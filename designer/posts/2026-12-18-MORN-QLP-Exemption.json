@@ -1,0 +1,25 @@
+{
+ "id": "2026-12-18-MORN-QLP-Exemption",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "layout": "right",
+ "theme": "light",
+ "source": "Cabinet Decision No. 34 of 2025 · Qualifying Limited Partnerships",
+ "headline": [
+  "LIMITED",
+  "PARTNERSHIPS CAN"
+ ],
+ "highlight": "BE TAX EXEMPT",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Investment business** as the main activity",
+    "Other income **5% or less** of revenue",
+    "**No UAE property** income",
+    "Not set up mainly to **avoid tax**",
+    "Apply to the **FTA**"
+   ]
+  }
+ ]
+}

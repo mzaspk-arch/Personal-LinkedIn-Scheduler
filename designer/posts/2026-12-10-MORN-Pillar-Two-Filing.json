@@ -1,0 +1,25 @@
+{
+ "id": "2026-12-10-MORN-Pillar-Two-Filing",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "layout": "block",
+ "theme": "light",
+ "source": "Ministerial Decision No. 133 of 2026 · Cabinet Decision No. 142 of 2024",
+ "headline": [
+  "TOP-UP TAX",
+  "FILING: FIRST"
+ ],
+ "highlight": "DUE 30 JUNE 2027",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "FY ending **31 Dec 2025** is the first year",
+    "First year: **18 months** after FY end",
+    "Later years: **15 months**",
+    "Tax paid in **AED** on the due date",
+    "One local entity can **file for all**"
+   ]
+  }
+ ]
+}

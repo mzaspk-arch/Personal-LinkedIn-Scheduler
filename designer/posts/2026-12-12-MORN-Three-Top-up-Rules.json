@@ -1,0 +1,27 @@
+{
+ "id": "2026-12-12-MORN-Three-Top-up-Rules",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "layout": "right",
+ "theme": "light",
+ "source": "Pillar Two · How the charging rules interact",
+ "headline": [
+  "IF THE UAE",
+  "DOESN'T COLLECT,"
+ ],
+ "highlight": "SOMEONE ELSE WILL",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Low-taxed UAE profit just stays untaxed."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Domestic top-up (DMTT):** the UAE collects first.",
+    "**Parent rule (IIR):** the parent's country can collect.",
+    "**Backstop (UTPR):** other group countries can collect."
+   ]
+  }
+ ]
+}

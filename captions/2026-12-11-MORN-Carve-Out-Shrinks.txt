@@ -1,0 +1,27 @@
+**Your Pillar Two carve-out gets smaller every year until 2033.**
+
+The substance-based income exclusion reduces the profit that Top-up Tax applies to. It is a percentage of eligible payroll plus a percentage of eligible tangible assets in each country.
+
+During the transition, both percentages fall each year:
+
+▶ **2025:** 9.6% of payroll and 7.6% of tangible assets.
+▶ **2026:** 9.4% and 7.4%.
+▶ **2027:** 9.2% and 7.2%.
+▶ **2028:** 9.0% and 7.0%.
+▶ **2033 onwards:** 5% and 5%.
+
+The rate depends on when the fiscal year starts.
+
+**What it means:** with the same staff and the same assets, the carve-out shrinks and the Top-up Tax rises, even if profit stays flat. For a UAE entity with AED 40 million of payroll, the payroll carve-out alone falls from AED 3.84 million in 2025 to AED 2 million from 2033.
+
+Real substance in the UAE still helps. It just helps less each year.
+
+✅ Project your carve-out to 2033 in your Pillar Two model, not just this year's figure.
+
+✅ Make sure payroll and fixed-asset data are tagged by entity and country.
+
+Is your Pillar Two forecast based on this year's rates only?
+
+General information, not tax advice.
+
+#UAECorporateTax #CFO #FTA

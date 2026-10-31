@@ -1,0 +1,26 @@
+{
+ "id": "2026-12-09-MORN-QFZP-Distribution-AUP",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "layout": "classic",
+ "variant": "panel",
+ "theme": "dark",
+ "source": "FTA Decision No. 6 of 2026 · Tax periods from 1 Jan 2026",
+ "headline": [
+  "FREE ZONE",
+  "DISTRIBUTORS NEED"
+ ],
+ "highlight": "AN AUDITOR'S REPORT",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "Customers **resell** or process the goods",
+    "Goods entered via a **Designated Zone**",
+    "External auditor, **ISRS 4400**",
+    "Due **30 days after** the CT return deadline",
+    "Missing report: **condition not met**"
+   ]
+  }
+ ]
+}

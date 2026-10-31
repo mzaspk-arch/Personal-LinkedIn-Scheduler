@@ -1,0 +1,23 @@
+**Forming a Tax Group does not erase earlier intra-group tax deductions.**
+
+Here is a simple example of how Aggregated Financial Statements (AFS) treat an old impairment.
+
+**The story in four steps:**
+▶ **Year 1:** F LLC wholly owns G LLC and lends it money. They are separate taxpayers.
+▶ **Impairment:** F LLC impairs the loan in its own accounts. Subject to the conditions, the loss is deductible for Corporate Tax.
+▶ **Tax Group:** F LLC and G LLC then form a Tax Group. At formation, the loan is not eliminated in the AFS, because the loss was already deducted.
+▶ **Reversal:** later, F LLC reverses the impairment. The reversal is taxable for the Tax Group, up to the loss previously deducted. After that, the loan is eliminated in the AFS.
+
+**The principle:** a deduction taken outside the group can come back as income inside it.
+
+The same thinking applies to other items that pre-date the group, so check them before joining entities together.
+
+✅ Before forming a Tax Group, list intra-group loans, impairments and provisions between the members.
+
+✅ Note which were already deducted for Corporate Tax.
+
+Did your team review pre-group balances before forming your Tax Group?
+
+General information, not tax advice.
+
+#UAECorporateTax #CFO #FTA

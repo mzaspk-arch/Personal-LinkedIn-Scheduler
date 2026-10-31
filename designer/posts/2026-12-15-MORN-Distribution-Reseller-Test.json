@@ -1,0 +1,25 @@
+{
+ "id": "2026-12-15-MORN-Distribution-Reseller-Test",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "layout": "block",
+ "theme": "light",
+ "source": "FTA Private Clarifications · Distribution from a Designated Zone",
+ "headline": [
+  "FREE ZONE",
+  "DISTRIBUTION:"
+ ],
+ "highlight": "WHO USES THE GOODS?",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "Customer **resells**: can qualify",
+    "Customer **keeps and uses**: does not",
+    "Buying from others too: **still fine**",
+    "**Pricing** does not decide it",
+    "Keep **KYC and resale** evidence"
+   ]
+  }
+ ]
+}

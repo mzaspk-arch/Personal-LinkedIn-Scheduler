@@ -1,0 +1,28 @@
+{
+ "id": "2026-12-19-MORN-Tax-Group-Loan-Impairment",
+ "format": "MythVsFact",
+ "pillar": "FINANCE",
+ "layout": "ghost",
+ "kicker": "AFS",
+ "theme": "light",
+ "source": "Tax Group Aggregated Financial Statements · Worked example",
+ "headline": [
+  "OLD IMPAIRMENTS",
+  "CAN COME BACK"
+ ],
+ "highlight": "AS TAXABLE INCOME",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Forming a Tax Group wipes out old intra-group items."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Loss deducted **before** the group was formed.",
+    "At formation, the loan is **not eliminated** in the AFS.",
+    "A later **reversal is taxable**, up to the loss deducted."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "2026-12-11-MORN-Carve-Out-Shrinks",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "layout": "ghost",
+ "kicker": "5%",
+ "theme": "dark",
+ "source": "Pillar Two · Substance-based income exclusion, transition rates",
+ "headline": [
+  "YOUR PILLAR TWO",
+  "CARVE-OUT"
+ ],
+ "highlight": "SHRINKS EVERY YEAR",
+ "blocks": [
+  {
+   "type": "list",
+   "glyph": "▶",
+   "items": [
+    "**2025:** 9.6% of payroll, 7.6% of assets",
+    "**2026:** 9.4% and 7.4%",
+    "**2028:** 9.0% and 7.0%",
+    "**2033 onwards:** 5% and 5%"
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Same people, same assets, **more Top-up Tax** each year."
+  }
+ ]
+}

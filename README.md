@@ -13,7 +13,7 @@ No posts on Sunday.
 The MORN slot never takes posters from your own queue, so adding a series does not push your posters back.
 
 ### Current series in the MORN slot
-**UAE Tax 2026–27** (themes from PwC's Annual Tax Conference 2026): 30 posts, 2 November to 8 December 2026
+**UAE Tax 2026–27** (themes from PwC's Annual Tax Conference 2026): 40 posts, 2 November to 19 December 2026
 (no posts on 2–3 December, UAE National Day). Specs are in `designer/posts/*-MORN-*.json`, captions in `captions/`.
 To skip one, delete its PNG from `posters/dated/` and its caption from `captions/`. To edit one, change its
 caption file, or change the spec and re-render with `python3 designer/render.py <spec> --out posters/dated`.

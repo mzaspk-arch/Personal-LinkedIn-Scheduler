@@ -1,0 +1,28 @@
+{
+ "id": "2026-12-14-MORN-QFZP-TP-Cure",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "layout": "edge",
+ "kicker": "TP",
+ "theme": "dark",
+ "source": "FTA Private Clarifications · Qualifying Free Zone Persons",
+ "headline": [
+  "ONE TP SLIP",
+  "NEED NOT COST"
+ ],
+ "highlight": "YOUR 0% RATE",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "One non-arm's-length entry ends our QFZP status."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A proper **TP adjustment in the CT return** can fix it.",
+    "Keep a **TP policy, benchmark** and agreements.",
+    "Show the **reconciliation** and management approval."
+   ]
+  }
+ ]
+}

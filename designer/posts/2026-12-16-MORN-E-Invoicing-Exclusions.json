@@ -1,0 +1,26 @@
+{
+ "id": "2026-12-16-MORN-E-Invoicing-Exclusions",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "layout": "ghost",
+ "kicker": "B2C",
+ "theme": "dark",
+ "source": "UAE e-invoicing · Excluded transactions",
+ "headline": [
+  "NOT EVERY",
+  "INVOICE MUST BE"
+ ],
+ "highlight": "AN E-INVOICE",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Sovereign** government activities",
+    "**Air passenger** tickets (e-ticket/EMD)",
+    "**Exempt or zero-rated** financial services",
+    "**Air cargo** with airway bill: 24 months",
+    "**B2C** sales, for now"
+   ]
+  }
+ ]
+}

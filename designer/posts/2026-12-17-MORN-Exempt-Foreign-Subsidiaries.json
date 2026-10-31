@@ -1,0 +1,27 @@
+{
+ "id": "2026-12-17-MORN-Exempt-Foreign-Subsidiaries",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "layout": "block",
+ "theme": "dark",
+ "source": "Cabinet Decision No. 55 of 2025 · Retrospective from 1 June 2023",
+ "headline": [
+  "FOREIGN-INCORPORATED",
+  "SUBSIDIARIES CAN"
+ ],
+ "highlight": "ALSO BE EXEMPT",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Only UAE-incorporated subsidiaries of exempt owners qualify."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Wholly owned and controlled by an **Exempt Person**.",
+    "Does its work, **holds assets** for it, or ancillary tasks.",
+    "Applies back to **1 June 2023**."
+   ]
+  }
+ ]
+}
