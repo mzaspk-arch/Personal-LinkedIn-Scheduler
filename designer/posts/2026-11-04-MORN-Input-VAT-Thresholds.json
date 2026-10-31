@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-04-MORN-Input-VAT-Thresholds",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "FTA Decision No. 13 of 2026 · Effective 1 October 2026",
+ "headline": [
+  "THREE NUMBERS",
+  "NOW DECIDE"
+ ],
+ "highlight": "YOUR INPUT VAT",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Verify the supplier **and** the supply before you deduct."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Under AED 10,000:** checks may be skipped",
+    "**Over AED 100,000/year:** no exception",
+    "**Over AED 375,000:** check the bank account too",
+    "Verify **new suppliers** before the first claim",
+    "Re-verify **every 12 months**"
+   ]
+  }
+ ]
+}

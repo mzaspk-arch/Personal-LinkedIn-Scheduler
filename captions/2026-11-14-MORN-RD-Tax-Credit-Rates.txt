@@ -1,0 +1,26 @@
+**UAE R&D can now earn a tax credit up to 50%.**
+
+The R&D tax credit applies for tax periods starting on or after 1 January 2026, under Cabinet Decision No. 215 of 2025 and Ministerial Decision No. 24 of 2026.
+
+**How the rates work:**
+▶ **15%** on qualifying spend up to AED 1 million, with at least 2 R&D staff.
+▶ **35%** on spend between AED 1 million and AED 2 million, with at least 6 R&D staff.
+▶ **50%** on spend between AED 2 million and AED 5 million, with at least 14 R&D staff.
+
+If a staff condition is missed, the rate drops to the tier where both conditions are met.
+
+**Example:** AED 900,000 of qualifying spend with 3 R&D staff gives a credit of AED 135,000.
+
+Other key points: at least AED 500,000 per project, a 30% uplift on qualifying staff costs, and the credit is not refundable in this first phase.
+
+For software businesses like the ones I build, this changes the maths of hiring developers in the UAE.
+
+✅ Separate R&D staff time and costs in your payroll and project records now.
+
+✅ Track R&D headcount, because the staff test decides the rate.
+
+Is your business doing work that could qualify as R&D?
+
+General information, not tax advice.
+
+#UAECorporateTax #SaaS #Entrepreneurship

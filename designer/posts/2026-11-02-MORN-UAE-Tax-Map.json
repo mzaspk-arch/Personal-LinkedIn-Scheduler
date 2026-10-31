@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-02-MORN-UAE-Tax-Map",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "UAE tax framework · 2018 to 2027",
+ "headline": [
+  "THE UAE TAX",
+  "MAP IS NOW"
+ ],
+ "highlight": "FULLY DRAWN",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**2018:** VAT at **5%**",
+    "**2023:** Corporate Tax at **9%**",
+    "**2025:** Top-up Tax at **15%** for large groups",
+    "**2026:** R&D tax credit up to **50%**",
+    "**2027:** mandatory **e-invoicing** begins"
+   ]
+  }
+ ]
+}

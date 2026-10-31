@@ -1,0 +1,30 @@
+**How a 9% tax rate becomes a 15% tax bill.**
+
+Here is a simplified UAE Top-up Tax calculation for one entity in a large multinational group, financial year 2025.
+
+**The facts:**
+▶ Pillar Two income: AED 300 million.
+▶ Covered taxes: AED 27 million.
+▶ Eligible payroll: AED 40 million.
+▶ Eligible tangible assets: AED 50 million.
+
+**The steps:**
+▶ **Effective tax rate:** 27 ÷ 300 = 9%.
+▶ **Top-up percentage:** 15% minus 9% = 6%.
+▶ **Substance carve-out (2025 rates):** 9.6% of payroll (AED 3.84m) plus 7.6% of assets (AED 3.8m) = AED 7.64m.
+▶ **Excess profit:** AED 300m minus AED 7.64m = AED 292.36m.
+▶ **Top-up Tax:** 6% of AED 292.36m = AED 17.54 million.
+
+The real calculation starts from adjusted accounting profit and adjusted taxes, not from the tax return.
+
+The carve-out rewards real people and real assets in the UAE, but its rates fall every year.
+
+✅ Run a first estimate on your 2025 figures now.
+
+✅ Check whether a safe harbour could remove the full calculation.
+
+Has your finance team built its Pillar Two model yet?
+
+General information, not tax advice.
+
+#UAECorporateTax #CFO #FTA

@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-19-MORN-E-Invoicing-Penalties",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "Ministry of Finance · Revised e-invoicing penalties, Oct 2026",
+ "headline": [
+  "E-INVOICING",
+  "FINES NOW HAVE"
+ ],
+ "highlight": "A CAP",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "First breach: **AED 5,000**",
+    "Plus **AED 5,000** each month it continues",
+    "Capped at **AED 50,000** in 12 months",
+    "System-failure notice fine: **removed**",
+    "Same breach, same person: **one penalty**"
+   ]
+  }
+ ]
+}

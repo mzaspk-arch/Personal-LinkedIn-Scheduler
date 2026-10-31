@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-18-MORN-Tax-Group-AFS",
+ "format": "MythVsFact",
+ "pillar": "FINANCE",
+ "source": "Ministerial Decision No. 84 of 2025 · Tax Group accounts",
+ "headline": [
+  "YOUR IFRS",
+  "ACCOUNTS ARE"
+ ],
+ "highlight": "NOT TAX GROUP AFS",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Our consolidated IFRS accounts will cover the Tax Group."
+  },
+  {
+   "type": "list",
+   "items": [
+    "AFS **aggregate** members: no goodwill, no NCI.",
+    "Only **UAE resident** members, presented in **AED**.",
+    "From periods starting **1 Jan 2025**, AFS must be **audited**."
+   ]
+  }
+ ]
+}

@@ -25,3 +25,8 @@ Zubair's own posters in `posters/` always go first. There are 12 posting slots a
 11 AM = AM and 5 PM = PM). Every Sunday Claude counts his posters: when fewer than 12 are left, it designs
 posters for the slots they don't cover. AM slots are UAE topics; PM slots are Pakistan tax or SaaS/ERP/digital topics.
 Designed posters are saved in `posters/dated/` named `<YYYY-MM-DD>-<AM|PM>-<Topic>.png` and posted in that slot.
+
+## Series (MORN slot, about 8:30 AM)
+Themed series are planned in one go and saved as `posters/dated/<YYYY-MM-DD>-MORN-<Topic>.png`, with the spec in
+`posts/` and the caption in `captions/` under the same name. The MORN slot only posts these files; it never uses
+Zubair's queue. The weekly design run does not count MORN files and does not design for that slot.

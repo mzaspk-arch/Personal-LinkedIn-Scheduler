@@ -1,0 +1,28 @@
+**Input VAT recovery now starts in procurement, not tax.**
+
+Here is a common setup in a UAE business with hundreds of suppliers:
+
+Procurement registers suppliers.
+Accounts payable processes invoices and payments.
+Tax prepares the VAT return.
+
+Under FTA Decision No. 13 of 2026, input tax can be deducted only after the supplier and the supply have been verified.
+
+So who owns the checks?
+
+**My view:**
+▶ **Procurement** should verify the supplier at onboarding, when documents are easiest to get.
+▶ **Accounts payable** should confirm each supply: business reason, fair price, goods received and payment to the actual supplier.
+▶ **Tax** should set the policy and review the evidence, not try to rebuild it months later.
+
+If the evidence does not exist on the day of the deduction, it is very hard to create later.
+
+✅ Write down who does each check, by name, not by department.
+
+✅ Build the checks into your supplier onboarding form.
+
+Agree or disagree? Who owns supplier verification in your business?
+
+General information, not tax advice.
+
+#UAEVAT #CFO #SMEsUAE

@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-23-MORN-Supplier-Red-Flags",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "FTA Decision No. 13 of 2026 · Supplier risk indicators",
+ "headline": [
+  "5 SUPPLIER",
+  "RED FLAGS TO"
+ ],
+ "highlight": "ESCALATE NOW",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "Frequent changes of **address or key staff**",
+    "Prices **out of line** with the market",
+    "Payment by **cash or to third parties**",
+    "**Offshore** payment routes",
+    "TRN or licence **does not match**"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-06-MORN-Input-VAT-Procurement",
+ "format": "HotTake",
+ "pillar": "STRATEGY",
+ "source": "Opinion · FTA Decision No. 13 of 2026",
+ "headline": [
+  "INPUT VAT IS",
+  "NOW A"
+ ],
+ "highlight": "PROCUREMENT JOB",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Procurement** onboards the supplier, so verification starts there.",
+    "**Accounts payable** must confirm you pay the actual supplier.",
+    "**Tax** cannot rebuild missing evidence when the FTA asks."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ]
+}

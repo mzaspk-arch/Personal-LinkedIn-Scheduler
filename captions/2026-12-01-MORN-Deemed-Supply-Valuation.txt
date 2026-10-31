@@ -1,0 +1,26 @@
+**The FTA now sets a step-by-step method for valuing deemed supplies.**
+
+When a business uses services for non-business purposes or gives them away, VAT may be due as a deemed supply under Article 37 of the VAT Law. An FTA directive now sets out how to value it.
+
+**An illustration (20% margin, 80% input-taxed cost ratio):**
+▶ **Step 1:** start with the open market value of the service, say AED 100,000.
+▶ **Step 2:** remove the profit margin. AED 100,000 ÷ 1.20 = AED 83,333.
+▶ **Step 3:** apply the ratio of input-taxed costs to total costs. 80% of AED 83,333 = AED 66,667.
+▶ **Step 4:** apply 5% VAT. The VAT due is AED 3,333.
+
+**Watch for:**
+▶ The method covers services only, not deemed supplies of goods.
+▶ The FTA can compare your margin with your sector.
+▶ A loss year or negative margin needs a documented position.
+
+Prescribed methods leave less room for judgement, and more room for audit testing.
+
+✅ Keep the working papers for every deemed supply calculation.
+
+✅ Use the most current cost data you can for the ratio.
+
+Does your business give away or privately use any services it normally sells?
+
+General information, not tax advice.
+
+#UAEVAT #CFO #FTA

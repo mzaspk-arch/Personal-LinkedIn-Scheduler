@@ -1,0 +1,27 @@
+{
+ "id": "2026-12-01-MORN-Deemed-Supply-Valuation",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "FTA Directive · Value of deemed supplies of services",
+ "headline": [
+  "VALUING A",
+  "DEEMED SUPPLY"
+ ],
+ "highlight": "IN 4 STEPS",
+ "blocks": [
+  {
+   "type": "list",
+   "glyph": "▶",
+   "items": [
+    "Start at **market value:** AED 100,000",
+    "Remove a 20% margin: **÷ 1.20 = AED 83,333**",
+    "Input-taxed cost ratio: **80% = AED 66,667**",
+    "VAT at **5% = AED 3,333**"
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Services only. Keep the working papers."
+  }
+ ]
+}

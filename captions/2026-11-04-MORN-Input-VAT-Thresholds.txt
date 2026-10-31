@@ -1,0 +1,22 @@
+**Three numbers now decide whether you can claim input VAT.**
+
+Since 1 October 2026, FTA Decision No. 13 requires you to verify the supplier and the supply before you deduct input tax.
+
+A valid tax invoice on its own is no longer enough.
+
+**The thresholds (excluding VAT):**
+▶ **AED 10,000:** individual supplies below this may skip the checks.
+▶ **AED 100,000:** if supplies from one supplier exceed this in 12 months, or are expected to, the small-supply exception no longer applies.
+▶ **AED 375,000:** above this, add enhanced checks, including the supplier's UAE bank account and a review of public information.
+
+Checks are needed when you first engage a supplier, and again where it has not been verified in the previous 12 months.
+
+✅ Run a report of suppliers by 12-month spend and sort them into these three bands.
+
+✅ Give each band an owner and a simple checklist.
+
+How many of your suppliers sit above AED 100,000 a year?
+
+General information, not tax advice.
+
+#UAEVAT #SMEsUAE #CFO #FTA

@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-28-MORN-Free-Zone-Substance",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "FTA Private Clarifications · Qualifying Free Zone Persons",
+ "headline": [
+  "A FREE ZONE",
+  "COMPANY WITH"
+ ],
+ "highlight": "NO STAFF CAN FAIL",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Our Free Zone company only collects rent, so it needs no staff."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Passive income still needs **adequate substance**.",
+    "Related-party staff count only if you **bear the cost and control** them.",
+    "Non-qualifying revenue: under **AED 5m or 5%**, whichever is lower."
+   ]
+  }
+ ]
+}

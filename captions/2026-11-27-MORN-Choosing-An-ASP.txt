@@ -1,0 +1,22 @@
+**Choosing an e-invoicing provider is a long-term decision. Choose carefully.**
+
+Every UAE business in scope must appoint an Accredited Service Provider (ASP). Businesses with revenue below AED 50 million have until 31 March 2027.
+
+The cheapest quote is rarely the cheapest option.
+
+**What to check:**
+▶ **Experience:** live Peppol and e-invoicing projects, not only a UAE accreditation.
+▶ **ERP fit:** a tested connector for your system, whether Odoo, SAP, Microsoft Dynamics or a local ERP, and who maintains it.
+▶ **Security:** data protection certifications and clear terms on where data is stored.
+▶ **Service:** response times, support hours and how rejected invoices are handled.
+▶ **Commercials:** transparent pricing per invoice or per year, and what happens when volumes grow.
+
+Ask for a live demo using your own invoice types, including credit notes and advance payments.
+
+✅ Shortlist three ASPs and test each with ten real invoices.
+
+✅ Agree in writing who fixes integration errors: the ASP, your ERP partner or your team.
+
+Have you started comparing ASPs yet?
+
+#UAEVAT #ERP #Odoo #DigitalTransformation

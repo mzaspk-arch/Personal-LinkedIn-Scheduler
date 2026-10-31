@@ -1,7 +1,21 @@
 # Personal LinkedIn Scheduler
 
-Zubair Akbar's LinkedIn poster queue. Claude scheduled tasks post twice a day, Monday to Saturday,
-at about 11:00 AM and 5:00 PM (Dubai time). No posts on Sunday.
+Zubair Akbar's LinkedIn poster queue. Claude scheduled tasks post Monday to Saturday (Dubai time).
+No posts on Sunday.
+
+| Slot | Time | What is posted |
+|---|---|---|
+| MORN | about 8:30 AM | Only designed series posts in `posters/dated/` named `<date>-MORN-...`. If there is none for the day, nothing is posted. |
+| AM | about 11:00 AM | A dated `<date>-AM-...` post if there is one, otherwise your next queued poster. |
+| PM | about 5:00 PM | A dated `<date>-PM-...` post if there is one, otherwise your next queued poster. |
+
+The MORN slot never takes posters from your own queue, so adding a series does not push your posters back.
+
+### Current series in the MORN slot
+**UAE Tax 2026–27** (themes from PwC's Annual Tax Conference 2026): 30 posts, 2 November to 8 December 2026
+(no posts on 2–3 December, UAE National Day). Specs are in `designer/posts/*-MORN-*.json`, captions in `captions/`.
+To skip one, delete its PNG from `posters/dated/` and its caption from `captions/`. To edit one, change its
+caption file, or change the spec and re-render with `python3 designer/render.py <spec> --out posters/dated`.
 
 ## How to add posters
 1. Put the PNG in the `posters` folder (1080 × 1350).

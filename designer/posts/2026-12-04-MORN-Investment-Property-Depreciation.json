@@ -1,0 +1,23 @@
+{
+ "id": "2026-12-04-MORN-Investment-Property-Depreciation",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "Ministerial Decision No. 173 of 2025 · Tax periods from 1 Jan 2025",
+ "headline": [
+  "FAIR VALUE",
+  "PROPERTY CAN"
+ ],
+ "highlight": "STILL DEPRECIATE",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "IAS 40 property held **at fair value**",
+    "**Realisation basis** election made",
+    "Lower of **4% of cost** or tax value",
+    "Buildings only, **not land**",
+    "Election is **irrevocable**"
+   ]
+  }
+ ]
+}

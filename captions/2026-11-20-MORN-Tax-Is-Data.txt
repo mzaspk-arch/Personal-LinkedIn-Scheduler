@@ -1,0 +1,24 @@
+**The biggest UAE tax risk in 2027 is bad data.**
+
+Look at what the main changes of 2026 have in common:
+
+▶ **Pillar Two** needs payroll, tangible asset and tax data per entity, adjusted from the accounts.
+▶ **E-invoicing** needs complete customer, supplier and line-level VAT data on every invoice, in a set format.
+▶ **FTA Decision No. 13** needs supplier and supply evidence before you deduct input tax.
+▶ **Apportionment** will soon depend on the value of your outputs, by category.
+
+None of these can be fixed at year end with a spreadsheet.
+
+My view: the finance teams that do well will treat their ERP and their tax position as one project. Clean master data, clear owners and records created at the time of the transaction.
+
+That is where accounting and technology now meet.
+
+✅ Pick one data set this month, such as supplier master data, and clean it properly.
+
+✅ Give your ERP administrator a seat in tax planning meetings.
+
+Agree or disagree? Is your biggest tax challenge the rules, or the data?
+
+General information, not tax advice.
+
+#CFO #ERP #DigitalTransformation #UAEVAT

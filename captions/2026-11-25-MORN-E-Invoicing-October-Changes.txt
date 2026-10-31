@@ -1,0 +1,21 @@
+**E-invoice data no longer has to be stored in the UAE.**
+
+Ministerial Decision No. 197 of 2026, effective 1 October 2026, made several practical changes to the e-invoicing rules before go-live.
+
+**What changed:**
+▶ **Data storage:** the requirement to keep e-invoice data inside the UAE has been removed. You must still keep records for the statutory period and make them available to the FTA on request.
+▶ **Timing:** e-invoices and e-credit notes must be issued and transmitted within 14 business days of the transaction.
+▶ **VAT groups:** transactions between registered members of the same VAT group are excluded from mandatory e-invoicing until 31 December 2028. Other group companies are not covered.
+▶ **System failures:** the duty to notify the FTA within two business days has been removed.
+
+This opens the door to cloud ERPs and ASPs hosted outside the UAE, but check the contract terms on access and retention.
+
+✅ Ask your ERP and ASP where your invoice data is stored, and for how long.
+
+✅ Confirm which group companies are actually inside your VAT group.
+
+Did any of these changes affect your e-invoicing plan?
+
+General information, not tax advice.
+
+#UAEVAT #ERP #DigitalTransformation

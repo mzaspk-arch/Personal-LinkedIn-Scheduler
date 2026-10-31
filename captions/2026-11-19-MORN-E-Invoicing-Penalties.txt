@@ -1,0 +1,23 @@
+**E-invoicing fines are now capped, but they still add up.**
+
+At the end of October 2026 the Ministry of Finance announced revised e-invoicing penalties, replacing Cabinet Decision No. 106 of 2025.
+
+**What changed:**
+▶ **Implementation breaches** by an issuer or recipient: AED 5,000 for the first violation, plus AED 5,000 for each month or part of a month it continues.
+▶ **Cap:** a maximum of AED 50,000 for these breaches in any 12 consecutive months.
+▶ **System failures:** the penalty for not notifying the FTA of a system failure has been removed.
+▶ **No double penalties:** where the same person is issuer and recipient for the same violation, only one penalty applies.
+
+Separate penalties can still apply to e-invoices and credit notes not issued and transmitted on time.
+
+A cap is not a budget. Ten months of delay still costs AED 50,000.
+
+✅ Check your go-live date and plan to be ready a month before it.
+
+✅ Keep a log of system outages and how you recovered, even though notification is no longer penalised.
+
+Is your team planning around the cap, or around being ready?
+
+General information, not tax advice.
+
+#UAEVAT #FTA #SMEsUAE

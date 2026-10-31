@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-12-MORN-DMTT-Worked-Example",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "UAE Top-up Tax · Illustrative calculation, FY 2025",
+ "headline": [
+  "HOW A 9% RATE",
+  "BECOMES"
+ ],
+ "highlight": "A 15% TAX BILL",
+ "blocks": [
+  {
+   "type": "list",
+   "glyph": "▶",
+   "items": [
+    "**ETR:** AED 27m ÷ AED 300m = **9%**",
+    "**Top-up rate:** 15% − 9% = **6%**",
+    "**Carve-out:** payroll + assets = **AED 7.64m**",
+    "**Excess profit:** **AED 292.36m** × 6%"
+   ]
+  },
+  {
+   "type": "metric",
+   "value": "17.5M",
+   "label": "AED of Top-up Tax due"
+  }
+ ]
+}

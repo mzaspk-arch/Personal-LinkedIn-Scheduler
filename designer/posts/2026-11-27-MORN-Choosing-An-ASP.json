@@ -1,0 +1,24 @@
+{
+ "id": "2026-11-27-MORN-Choosing-An-ASP",
+ "format": "Checklist",
+ "pillar": "ERP",
+ "source": "UAE e-invoicing · Choosing an Accredited Service Provider",
+ "headline": [
+  "CHOOSING YOUR",
+  "E-INVOICING"
+ ],
+ "highlight": "PROVIDER (ASP)",
+ "disclaimer": false,
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "Proven **Peppol** experience",
+    "Tested with **your ERP**",
+    "**Security** certifications",
+    "Clear **service levels** and support",
+    "Transparent **pricing** that scales"
+   ]
+  }
+ ]
+}

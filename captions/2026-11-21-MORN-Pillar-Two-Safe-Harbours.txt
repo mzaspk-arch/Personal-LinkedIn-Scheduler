@@ -1,0 +1,24 @@
+**Three tests can spare you the full Pillar Two calculation.**
+
+The Transitional CbCR Safe Harbour lets large groups use Country-by-Country Report data to show that no Top-up Tax is due in a jurisdiction. For calendar-year groups it generally covers FY 2025 to FY 2027.
+
+**Pass any one test:**
+▶ **De minimis:** revenue below EUR 10 million and profit before tax below EUR 1 million in that jurisdiction.
+▶ **Simplified ETR:** simplified covered taxes divided by profit before tax is at least 16% for 2025 and 17% for 2026.
+▶ **Routine profit:** profit before tax is at or below the substance-based income exclusion.
+
+**Two warnings:**
+▶ The data must come from a Qualified CbC Report and qualified financial statements.
+▶ "Once out, always out": if you do not use the safe harbour for a jurisdiction in a year, you cannot return to it there later.
+
+A UAE operation paying 9% Corporate Tax will usually fail the ETR test, so the other two tests matter more here.
+
+✅ Run all three tests on your 2025 figures for each jurisdiction.
+
+✅ Document why each test is met or failed.
+
+Has your group mapped which jurisdictions pass a safe harbour?
+
+General information, not tax advice.
+
+#UAECorporateTax #CFO #FTA

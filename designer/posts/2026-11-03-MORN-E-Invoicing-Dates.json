@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-03-MORN-E-Invoicing-Dates",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "UAE e-invoicing · Phased rollout by revenue",
+ "headline": [
+  "E-INVOICING:",
+  "WHICH DATE"
+ ],
+ "highlight": "IS YOURS?",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**AED 50m+ revenue:** live **1 Jan 2027**",
+    "**Under AED 50m:** ASP by **31 Mar 2027**",
+    "**Under AED 50m:** live **1 Jul 2027**",
+    "**Government:** live **1 Oct 2027**",
+    "**B2C sales:** out of scope for now"
+   ]
+  }
+ ]
+}

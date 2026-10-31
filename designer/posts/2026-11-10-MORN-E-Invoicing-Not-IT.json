@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-10-MORN-E-Invoicing-Not-IT",
+ "format": "HotTake",
+ "pillar": "DIGITAL TRANSFORMATION",
+ "source": "Opinion · UAE e-invoicing (Peppol, PINT AE)",
+ "headline": [
+  "E-INVOICING IS",
+  "NOT AN"
+ ],
+ "highlight": "IT PROJECT",
+ "disclaimer": false,
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Data:** your ERP may lack mandatory fields.",
+    "**Process:** approvals, credit notes and exceptions all change.",
+    "**People:** tax, IT and your ASP need one plan."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ]
+}

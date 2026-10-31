@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-25-MORN-E-Invoicing-October-Changes",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "Ministerial Decision No. 197 of 2026 · Effective 1 October 2026",
+ "headline": [
+  "E-INVOICE DATA",
+  "CAN NOW LIVE"
+ ],
+ "highlight": "OUTSIDE THE UAE",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "E-invoice data must be stored inside the UAE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Storage abroad is fine if records stay **available to the FTA**.",
+    "Issue and transmit within **14 business days**.",
+    "VAT group internal invoices excluded until **31 Dec 2028**."
+   ]
+  }
+ ]
+}

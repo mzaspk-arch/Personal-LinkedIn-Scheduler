@@ -1,0 +1,21 @@
+**Treat e-invoicing as an IT project and it will struggle.**
+
+The UAE uses a Peppol-based model with the PINT AE data standard. Invoices move through Accredited Service Providers, and the data goes to the FTA.
+
+The software connection is the easy part.
+
+**Where projects really struggle:**
+▶ **Master data:** many ERPs do not capture every mandatory field, such as complete buyer details and line-level VAT. Fixing customer and supplier records takes months.
+▶ **Process:** invoice approvals, advance payments, credit notes, self-billing and exception handling all need redesign.
+▶ **Integration:** businesses with several systems may need middleware and two-way status updates.
+▶ **Governance:** tax, finance, IT and the ASP need named owners and end-to-end testing.
+
+Seen from both the finance side and the ERP side, the lesson is the same: the data, not the technology, sets the timeline.
+
+✅ Start with a data-quality check on your customer and supplier master files.
+
+✅ Map every invoice type you issue before you choose an ASP.
+
+Agree or disagree? What is the hardest part of e-invoicing for your team?
+
+#UAEVAT #ERP #Odoo #DigitalTransformation

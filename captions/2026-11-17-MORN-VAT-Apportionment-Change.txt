@@ -1,0 +1,26 @@
+**Your VAT recovery ratio is changing, and could move either way.**
+
+Cabinet Decision No. 149 of 2026 changes the standard method of input tax apportionment.
+
+From the first tax year starting on or after 1 October 2027, the ratio will be based on the value of your outputs, not on your input tax.
+
+**Who feels it most:**
+▶ **Banks and insurers** with large exempt income.
+▶ **Holding companies and investment structures** with out-of-scope income.
+▶ **Mixed businesses** where exempt and taxable activities share costs.
+
+**An illustration:** on AED 100,000 of residual input VAT, moving from 60% to 80% recovery means AED 20,000 more recovered. A move the other way costs the same.
+
+Government entities and charities have separate rules.
+
+✅ Model your recovery under both methods using this year's numbers.
+
+✅ Review any special method the FTA approved for you. It may need revisiting.
+
+Source: Cabinet Decision No. 149 of 2026, Ministry of Finance (mof.gov.ae).
+
+Do you know your recovery percentage today, and what it would be under the new method?
+
+General information, not tax advice.
+
+#UAEVAT #CFO #FTA

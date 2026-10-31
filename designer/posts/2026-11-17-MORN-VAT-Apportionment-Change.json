@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-17-MORN-VAT-Apportionment-Change",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "Cabinet Decision No. 149 of 2026 · Input tax apportionment",
+ "headline": [
+  "YOUR VAT",
+  "RECOVERY RATIO"
+ ],
+ "highlight": "IS CHANGING",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "From the first tax year starting on or after **1 October 2027**, the standard method uses the value of your **outputs**."
+  },
+  {
+   "type": "list",
+   "glyph": "▶",
+   "items": [
+    "Hit hardest: **banks, insurers, holding companies**",
+    "Example: **60% → 80%** on AED 100k = **AED 20k**",
+    "Government and charities: **separate rules**",
+    "Model the impact **before 2027**"
+   ]
+  }
+ ]
+}

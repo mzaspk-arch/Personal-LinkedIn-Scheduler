@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-13-MORN-Employee-Benefits-Gaps",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "FTA Decision No. 17 of 2026 · Employee benefits",
+ "headline": [
+  "STAFF BENEFITS:",
+  "WHERE VAT"
+ ],
+ "highlight": "RECOVERY FAILS",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "We pay for staff transport, so the VAT is recoverable."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Offer a **cash alternative** and transport VAT is lost.",
+    "**Temporary housing** for new joiners: up to **30 days**.",
+    "**Parking** for client visits needs receipts and a policy."
+   ]
+  }
+ ]
+}

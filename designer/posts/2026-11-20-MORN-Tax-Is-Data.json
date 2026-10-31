@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-20-MORN-Tax-Is-Data",
+ "format": "HotTake",
+ "pillar": "STRATEGY",
+ "source": "Opinion · UAE tax 2026 to 2027",
+ "headline": [
+  "TAX IS NOW A",
+  "DATA PROBLEM,"
+ ],
+ "highlight": "NOT A LAW PROBLEM",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Pillar Two** needs entity-level tax data.",
+    "**E-invoicing** needs clean master data.",
+    "**Decision 13** needs evidence before the deduction."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ]
+}

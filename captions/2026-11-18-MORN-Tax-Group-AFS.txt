@@ -1,0 +1,24 @@
+**Consolidated IFRS accounts are not the same as Tax Group accounts.**
+
+A UAE Tax Group files one Corporate Tax return based on Aggregated Financial Statements (AFS). For tax periods starting on or after 1 January 2025, every Tax Group needs audited special-purpose AFS.
+
+**How AFS differ from consolidation:**
+▶ **Members only:** only UAE resident Tax Group members are included. Foreign subsidiaries are left out.
+▶ **No acquisition accounting:** no goodwill, bargain-purchase gains or IFRS 3 fair-value uplifts.
+▶ **No NCI:** members' equity is simply aggregated.
+▶ **Investments stay:** the parent's investment is not eliminated against the subsidiary's equity, and impairments stay in.
+▶ **Currency:** presented in AED.
+
+Transactions between members are still eliminated.
+
+To form a Tax Group, members need at least 95% common ownership, the same financial year and the same accounting standards. None can be an Exempt Person or a Qualifying Free Zone Person.
+
+✅ Ask your auditor now about the special-purpose audit timetable.
+
+✅ Build the aggregation working paper alongside your consolidation, not after it.
+
+Is your group preparing AFS for the first time this year?
+
+General information, not tax advice.
+
+#UAECorporateTax #CFO #FTA

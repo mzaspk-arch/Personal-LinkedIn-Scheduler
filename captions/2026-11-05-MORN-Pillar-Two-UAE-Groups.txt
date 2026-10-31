@@ -1,0 +1,25 @@
+**A UAE-focused group can still owe Top-up Tax.**
+
+The UAE's 15% Domestic Minimum Top-up Tax applies to multinational groups with consolidated revenue of EUR 750 million or more in at least two of the four preceding years.
+
+The word that catches local groups out is "multinational".
+
+**What counts:**
+▶ **A foreign subsidiary** that is consolidated makes the group multinational.
+▶ **A foreign branch** that is a permanent establishment does too.
+▶ **A foreign representative office** on its own usually does not.
+▶ **Foreign JVs or minority stakes** that are not consolidated line by line do not.
+
+So a large family group with one small branch abroad can be in scope.
+
+Timing matters: where the first in-scope fiscal year ended before 30 April 2026, Top-up Tax registration is due by 30 November 2026.
+
+✅ List every foreign entity, branch and office in your group, and how each is accounted for.
+
+✅ Test the revenue threshold on consolidated figures for the last four years.
+
+Has your group tested its Pillar Two scope yet?
+
+General information, not tax advice.
+
+#UAECorporateTax #CFO #FTA

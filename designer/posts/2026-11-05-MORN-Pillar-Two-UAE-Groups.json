@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-05-MORN-Pillar-Two-UAE-Groups",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "Cabinet Decision No. 142 of 2024 · UAE Top-up Tax",
+ "headline": [
+  "A UAE-ONLY",
+  "GROUP CAN STILL"
+ ],
+ "highlight": "BE AN MNE",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "We only operate in the UAE, so Top-up Tax isn't for us."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A **foreign subsidiary**, or a foreign **branch** that is a permanent establishment, makes the group multinational.",
+    "A foreign **representative office** or an **unconsolidated** stake usually does not.",
+    "Scope still needs **EUR 750m+** revenue in **2 of the last 4** years."
+   ]
+  }
+ ]
+}

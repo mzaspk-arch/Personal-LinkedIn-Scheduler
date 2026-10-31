@@ -1,0 +1,26 @@
+**Splitting invoices below AED 10,000 will not avoid supplier checks.**
+
+FTA Decision No. 13 of 2026 lets you skip verification for individual supplies below AED 10,000, excluding VAT.
+
+But the exception has a limit.
+
+**A simple example:**
+▶ A supplier sends 13 invoices of AED 8,000 each.
+▶ Each one is below AED 10,000.
+▶ Together they reach AED 104,000 from the same supplier.
+
+Once supplies from one supplier exceed AED 100,000 in 12 months, or are expected to, the small-supply exception no longer applies to that supplier.
+
+So the question is not "how big is this invoice?" but "how much will we buy from this supplier this year?"
+
+Frequent small invoices from one supplier can also look like invoice splitting during an audit.
+
+✅ Track spend per supplier on a rolling 12-month basis, not per invoice.
+
+✅ Verify any supplier you expect to pass AED 100,000 before the next claim.
+
+Does your system show 12-month spend per supplier at a glance?
+
+General information, not tax advice.
+
+#UAEVAT #SMEsUAE #CFO
