@@ -34,3 +34,4 @@
 | 2026-10-30 AM | 41. PP-Excise-Duty.png | https://www.linkedin.com/feed/update/urn:li:share:7521827668372373504/ |
 | 2026-10-30 PM | 47. PP-March-Post-E-Invoicing.png | https://www.linkedin.com/feed/update/urn:li:share:7521917820343934976/ |
 | 2026-10-31 AM | 48. PP-Protect-Your-Brand.png | https://www.linkedin.com/feed/update/urn:li:share:7522189174473658368/ |
+| 2026-10-31 PM | 49. PP-Risk-Management-vs-Internal-Audit.png | https://www.linkedin.com/feed/update/urn:li:share:7522280054899458048/ |
