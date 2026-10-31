@@ -24,5 +24,6 @@
    ]
   }
  ],
- "layout": "right"
+ "layout": "right",
+ "theme": "light"
 }

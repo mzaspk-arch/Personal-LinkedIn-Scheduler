@@ -22,5 +22,6 @@
    ]
   }
  ],
- "layout": "block"
+ "layout": "block",
+ "theme": "light"
 }

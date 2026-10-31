@@ -8,6 +8,7 @@ No posts on Sunday.
 | MORN | about 8:30 AM | Only designed series posts in `posters/dated/` named `<date>-MORN-...`. If there is none for the day, nothing is posted. |
 | AM | about 11:00 AM | A dated `<date>-AM-...` post if there is one, otherwise your next queued poster. |
 | PM | about 5:00 PM | A dated `<date>-PM-...` post if there is one, otherwise your next queued poster. |
+| NEWS | about 1:40 PM and 8:40 PM checks | Breaking official tax/technology updates (UAE, Pakistan, GCC), designed and published immediately when something new qualifies. Rules: `NEWS-RULES.md`. |
 
 The MORN slot never takes posters from your own queue, so adding a series does not push your posters back.
 

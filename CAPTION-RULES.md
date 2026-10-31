@@ -40,6 +40,9 @@ First decide the post's country from the poster: UAE (FTA, Ministry of Finance, 
 - **Pakistan posts: Pakistan hashtags only.** #PakistanTax #FBR #SMEsPakistan #PakistanBusiness #OverseasPakistanis (the last one only when the post is about overseas Pakistanis)
 - **General hashtags (can be added to either):** #CFO #Odoo #ERP #DigitalTransformation #Entrepreneurship #Automation #SaaS
 
+- **Other GCC posts (Saudi Arabia, Oman, Bahrain, Qatar, Kuwait): GCC hashtags only.** #GCCTax #SaudiArabia #ZATCA #Oman #Bahrain #Qatar #Kuwait (pick the country concerned) plus general hashtags.
+- **Technology posts:** general hashtags plus the country set of the country concerned.
+
 Never put a UAE hashtag on a Pakistan post or a Pakistan hashtag on a UAE post. If a post covers both countries, use only general hashtags plus one from each country set.
 
 ## Example structure (from approved posts in this repository)

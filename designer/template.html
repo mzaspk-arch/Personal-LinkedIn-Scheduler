@@ -82,6 +82,26 @@ body.L-right .head{flex-direction:row-reverse}
 body.L-right h1{text-align:right}
 body.L-right #main ul,body.L-right #main .metric{background:rgba(63,95,134,.6);margin-left:-88px;padding:32px 40px 32px 88px;border-radius:0 8px 8px 0;margin-right:90px}
 body.L-right #canvas{background:radial-gradient(ellipse 820px 700px at 92% 12%, var(--mid-grey) 0%, #6E6E6E 36%, #4A4A4A 68%, var(--charcoal) 100%)}
+
+/* ---------- LIGHT theme (spec "theme": "light") ----------
+   Brand light tokens: surface #FFFFFF, ink #151515, ink-muted #5C5C5C, studio-grey #D0D0D0.
+   The ONE highlight line uses steel #3F5F86 (light-blue is unreadable on white). */
+body.T-light{background:#FFFFFF}
+body.T-light #canvas{color:#151515;background:radial-gradient(ellipse 980px 820px at var(--glow,50% 22%), #FFFFFF 0%, #F2F2F2 45%, #E2E2E2 75%, var(--studio-grey) 100%) !important}
+body.T-light.L-ghost{--glow:10% 10%} body.T-light.L-edge{--glow:20% 18%} body.T-light.L-right{--glow:90% 12%} body.T-light.L-block{--glow:85% 95%}
+body.T-light .pillar,body.T-light .source,body.T-light .lead,body.T-light .myth .tag,body.T-light .myth p,body.T-light .metric .l,
+body.T-light .who .w,body.T-light .disc,body.T-light .discline,body.T-light .slide-no{color:#5C5C5C}
+body.T-light .metric .v{color:#151515}
+body.T-light h1 .hl{color:var(--steel)}
+body.T-light li .g{color:var(--slate)}
+body.T-light.v-panel #main ul,body.T-light.v-panel #main .metric,body.T-light.L-right #main ul,body.T-light.L-right #main .metric{background:rgba(63,95,134,.11)}
+body.T-light footer{border-top-color:rgba(21,21,21,.18)}
+body.T-light footer img{box-shadow:0 0 0 1px var(--studio-grey),0 6px 18px rgba(21,21,21,.14)}
+body.T-light.L-ghost #deco .kick{color:rgba(21,21,21,.06)}
+/* Block keeps its dark top block in light theme: headline stays white with the light-blue line */
+body.T-light.L-block .top .pillar,body.T-light.L-block .top .source{color:var(--studio-grey)}
+body.T-light.L-block h1{color:#FFFFFF}
+body.T-light.L-block h1 .hl{color:var(--light-blue)}
 </style>
 </head>
 <body>
@@ -108,12 +128,14 @@ const S = window.SPEC;
   const svg = document.getElementById('net'), pts = [];
   const L = S.layout || 'classic';
   document.body.classList.add('L-'+L);
+  const T = S.theme || 'dark'; document.body.classList.add('T-'+T);
+  const ink = T==='light' ? '#151515' : '#fff';
   const V = L==='classic' ? (S.variant || ['top','left','panel'][seed % 3]) : (L==='ghost' ? 'panel-off' : 'top');
   document.body.classList.add('v-'+V); window.VARIANT = L+'/'+V;
   const box = L==='edge' ? [40,880,560,420] : L==='right' ? [0,-40,520,520] : L==='block' ? [520,-20,560,460] : V==='left' ? [560,640,560,420] : [560,-40,560,520];
   for (let i=0;i<26;i++){ const x = box[0] + rnd()*box[2], y = box[1] + rnd()*box[3]; pts.push([x,y]); }
   let s = '';
-  pts.forEach((p,i)=>{ pts.forEach((q,j)=>{ if(j>i){ const d=Math.hypot(p[0]-q[0],p[1]-q[1]); if(d<190) s+=`<line x1="${p[0]}" y1="${p[1]}" x2="${q[0]}" y2="${q[1]}" stroke="#fff" stroke-opacity=".08" stroke-width="1.5"/>`; }}); s+=`<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="#fff" fill-opacity=".08"/>`; });
+  pts.forEach((p,i)=>{ pts.forEach((q,j)=>{ if(j>i){ const d=Math.hypot(p[0]-q[0],p[1]-q[1]); if(d<190) s+=`<line x1="${p[0]}" y1="${p[1]}" x2="${q[0]}" y2="${q[1]}" stroke="${ink}" stroke-opacity=".08" stroke-width="1.5"/>`; }}); s+=`<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="${ink}" fill-opacity=".08"/>`; });
   svg.innerHTML = s;
 })();
 const esc = t => String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');

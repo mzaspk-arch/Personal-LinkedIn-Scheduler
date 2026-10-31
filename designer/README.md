@@ -39,3 +39,11 @@ Set `"layout"` in the spec. All layouts keep the brand base: palette, Montserrat
 - `block` — a near-black top block with a diagonal cut holding the headline; content on the grey lower half.
 - `right` — headline right-aligned with the accent bar on the right; the list panel runs off the left edge.
 Rotate layouts so that neighbouring posts in the feed never share one.
+
+## Themes
+Set `"theme"` in the spec: `dark` (default, grey gradient) or `light` (white to studio-grey, near-black text,
+highlight line in steel blue #3F5F86 because light blue is unreadable on white). Mix both: roughly one post in three light,
+and never the same layout AND theme as the previous post.
+
+## Breaking news
+See `NEWS-RULES.md`. News posters go to `posters/news/` and are published immediately by the news watcher.

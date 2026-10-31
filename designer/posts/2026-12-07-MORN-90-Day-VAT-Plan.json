@@ -21,5 +21,6 @@
   }
  ],
  "layout": "ghost",
- "kicker": "90"
+ "kicker": "90",
+ "theme": "light"
 }
