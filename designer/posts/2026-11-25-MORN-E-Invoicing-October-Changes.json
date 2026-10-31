@@ -21,5 +21,6 @@
     "VAT group internal invoices excluded until **31 Dec 2028**."
    ]
   }
- ]
+ ],
+ "layout": "block"
 }

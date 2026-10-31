@@ -24,5 +24,7 @@
    "value": "17.5M",
    "label": "AED of Top-up Tax due"
   }
- ]
+ ],
+ "layout": "classic",
+ "variant": "panel"
 }

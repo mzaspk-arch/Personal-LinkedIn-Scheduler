@@ -55,10 +55,38 @@ footer img{width:96px;height:96px;border-radius:50%;border:4px solid var(--white
 .who .n{font:800 32px/40px Montserrat}
 .who .w{font:400 22px/28px Inter;color:var(--studio-grey)}
 .disc{font:400 22px/28px Inter;color:var(--studio-grey);text-align:right;max-width:250px}
+
+/* ---------- Asymmetric layouts (spec "layout"; default "classic") ---------- */
+#deco{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+#deco .slab,#deco .kick{position:absolute}
+/* EDGE: dark vertical slab on the right with a rotated kicker word */
+body.L-edge #deco .slab{top:0;right:0;width:230px;height:100%;background:linear-gradient(180deg,#151515 0%,var(--steel) 100%)}
+body.L-edge #deco .kick{right:30px;bottom:88px;writing-mode:vertical-rl;transform:rotate(180deg);font:800 170px/1 Montserrat;color:rgba(255,255,255,.92);letter-spacing:.02em;white-space:nowrap}
+body.L-edge #page{right:286px}
+body.L-edge footer .disc{display:none}
+.discline{font:400 22px/28px Inter;color:var(--studio-grey);margin-top:18px;flex:none}
+body.L-edge #canvas{background:radial-gradient(ellipse 760px 900px at 20% 18%, var(--mid-grey) 0%, #6A6A6A 36%, #464646 68%, var(--charcoal) 100%)}
+/* GHOST: giant faint kicker bleeding off the bottom-right corner */
+body.L-ghost #deco .kick{right:-36px;bottom:150px;font:800 520px/.78 Montserrat;color:rgba(255,255,255,.1);letter-spacing:-.03em;white-space:nowrap}
+body.L-ghost #main{max-width:760px}
+body.L-ghost #canvas{background:radial-gradient(ellipse 820px 700px at 8% 10%, var(--mid-grey) 0%, #6A6A6A 34%, #454545 66%, var(--charcoal) 100%)}
+/* BLOCK: near-black top block with a diagonal cut, grey lower half */
+body.L-block #deco .slab{left:0;top:0;width:100%;height:var(--blockh,640px);background:linear-gradient(160deg,#151515 0%,#151515 45%,var(--steel) 130%);clip-path:polygon(0 0,100% 0,100% calc(100% - 120px),0 100%)}
+body.L-block #canvas{background:radial-gradient(ellipse 900px 700px at 85% 95%, var(--mid-grey) 0%, #6A6A6A 34%, #484848 66%, var(--charcoal) 100%)}
+body.L-block #content{margin-top:150px}
+body.L-block .bar{background:var(--slate)}
+/* RIGHT: headline right-aligned with the bar on the right; list panel bleeds off the left edge */
+body.L-right .top{align-items:flex-end;text-align:right}
+body.L-right .slide-no{right:auto;left:0}
+body.L-right .head{flex-direction:row-reverse}
+body.L-right h1{text-align:right}
+body.L-right #main ul,body.L-right #main .metric{background:rgba(63,95,134,.6);margin-left:-88px;padding:32px 40px 32px 88px;border-radius:0 8px 8px 0;margin-right:90px}
+body.L-right #canvas{background:radial-gradient(ellipse 820px 700px at 92% 12%, var(--mid-grey) 0%, #6E6E6E 36%, #4A4A4A 68%, var(--charcoal) 100%)}
 </style>
 </head>
 <body>
 <div id="canvas">
+  <div id="deco"><div class="slab"></div><div class="kick" id="kick"></div></div>
   <svg id="net" width="1080" height="1350"></svg>
   <div id="page">
     <div class="top"><div class="pillar" id="pillar"></div><div class="source" id="source"></div><div class="slide-no" id="slideno"></div></div>
@@ -78,9 +106,11 @@ const S = window.SPEC;
   let seed = 0; for (const c of (S.id||'x')) seed = (seed*31 + c.charCodeAt(0)) >>> 0;
   const rnd = () => (seed = (seed*1664525 + 1013904223) >>> 0) / 4294967296;
   const svg = document.getElementById('net'), pts = [];
-  const V = S.variant || ['top','left','panel'][seed % 3];
-  document.body.classList.add('v-'+V); window.VARIANT = V;
-  const box = V==='left' ? [560,640,560,420] : [560,-40,560,520];
+  const L = S.layout || 'classic';
+  document.body.classList.add('L-'+L);
+  const V = L==='classic' ? (S.variant || ['top','left','panel'][seed % 3]) : (L==='ghost' ? 'panel-off' : 'top');
+  document.body.classList.add('v-'+V); window.VARIANT = L+'/'+V;
+  const box = L==='edge' ? [40,880,560,420] : L==='right' ? [0,-40,520,520] : L==='block' ? [520,-20,560,460] : V==='left' ? [560,640,560,420] : [560,-40,560,520];
   for (let i=0;i<26;i++){ const x = box[0] + rnd()*box[2], y = box[1] + rnd()*box[3]; pts.push([x,y]); }
   let s = '';
   pts.forEach((p,i)=>{ pts.forEach((q,j)=>{ if(j>i){ const d=Math.hypot(p[0]-q[0],p[1]-q[1]); if(d<190) s+=`<line x1="${p[0]}" y1="${p[1]}" x2="${q[0]}" y2="${q[1]}" stroke="#fff" stroke-opacity=".08" stroke-width="1.5"/>`; }}); s+=`<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="#fff" fill-opacity=".08"/>`; });
@@ -117,12 +147,26 @@ function overflowing(){
   const lines = [...h1.querySelectorAll('.ln')].some(l => l.getBoundingClientRect().height > lh * 1.5);
   return C.scrollHeight > C.clientHeight + 1 || M.scrollHeight > M.clientHeight + 1 || h1.scrollWidth > h1.clientWidth + 1 || hlWraps || lines;
 }
+document.getElementById('kick').textContent = S.kicker || '';
+if ((S.layout||'')==='edge' && document.getElementById('disc').textContent){ const d=document.createElement('div'); d.className='discline'; d.textContent=document.getElementById('disc').textContent; C.appendChild(d); }
+function sizeDeco(){
+  const L = S.layout || 'classic';
+  if (L==='block'){ // block ends below the headline, plus room for the diagonal
+    const hb = document.querySelector('.head').getBoundingClientRect().bottom;
+    root.setProperty('--blockh', Math.round(hb + 150) + 'px');
+  }
+  if (L==='edge'){ // shrink the rotated kicker until it fits the slab height
+    const k = document.getElementById('kick'); let fs = 170;
+    while (fs > 90 && k.getBoundingClientRect().height > 1350 - 176){ fs -= 6; k.style.fontSize = fs+'px'; }
+  }
+}
 document.fonts.ready.then(()=>{
   for (const [h,hl,b,bl] of steps){
     root.setProperty('--head',h+'px'); root.setProperty('--head-lh',hl+'px');
     root.setProperty('--body',b+'px'); root.setProperty('--body-lh',bl+'px');
     if (!overflowing()){ window.FIT = `headline ${h}px, body ${b}px`; break; }
   }
+  sizeDeco();
   window.READY = true;
 });
 </script>

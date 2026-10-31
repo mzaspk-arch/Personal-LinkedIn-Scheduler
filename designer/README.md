@@ -30,3 +30,12 @@ Designed posters are saved in `posters/dated/` named `<YYYY-MM-DD>-<AM|PM>-<Topi
 Themed series are planned in one go and saved as `posters/dated/<YYYY-MM-DD>-MORN-<Topic>.png`, with the spec in
 `posts/` and the caption in `captions/` under the same name. The MORN slot only posts these files; it never uses
 Zubair's queue. The weekly design run does not count MORN files and does not design for that slot.
+
+## Layouts (asymmetric variations)
+Set `"layout"` in the spec. All layouts keep the brand base: palette, Montserrat/Inter, ONE light-blue line, same footer.
+- `classic` — the original centred stack (uses the `top` / `left` / `panel` background variations).
+- `ghost` — a giant faint number or word (`"kicker"`, e.g. `"50%"`, `"13"`) bleeding off the bottom-right corner; text weighted left.
+- `edge` — a dark-to-steel vertical slab on the right with a rotated `"kicker"` word (e.g. `"30 NOV"`, `"OPINION"`); disclaimer moves above the footer.
+- `block` — a near-black top block with a diagonal cut holding the headline; content on the grey lower half.
+- `right` — headline right-aligned with the accent bar on the right; the list panel runs off the left edge.
+Rotate layouts so that neighbouring posts in the feed never share one.

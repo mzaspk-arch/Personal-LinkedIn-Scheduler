@@ -19,5 +19,7 @@
     "Hold a **benchmarking analysis**"
    ]
   }
- ]
+ ],
+ "layout": "edge",
+ "kicker": "CTP011"
 }

@@ -23,5 +23,7 @@
     "Re-verify **every 12 months**"
    ]
   }
- ]
+ ],
+ "layout": "ghost",
+ "kicker": "3"
 }

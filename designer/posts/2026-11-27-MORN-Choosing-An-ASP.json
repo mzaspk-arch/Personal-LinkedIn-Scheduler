@@ -20,5 +20,7 @@
     "Transparent **pricing** that scales"
    ]
   }
- ]
+ ],
+ "layout": "ghost",
+ "kicker": "ASP"
 }

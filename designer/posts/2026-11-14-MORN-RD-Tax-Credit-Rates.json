@@ -19,5 +19,7 @@
     "Staff costs get a **30% uplift**"
    ]
   }
- ]
+ ],
+ "layout": "ghost",
+ "kicker": "50%"
 }

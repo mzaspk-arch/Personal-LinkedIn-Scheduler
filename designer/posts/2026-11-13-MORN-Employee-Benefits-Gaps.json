@@ -21,5 +21,7 @@
     "**Parking** for client visits needs receipts and a policy."
    ]
   }
- ]
+ ],
+ "layout": "edge",
+ "kicker": "VAT"
 }
