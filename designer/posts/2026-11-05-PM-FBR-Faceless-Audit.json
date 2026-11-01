@@ -1,0 +1,31 @@
+{
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR S.R.O. 1828(I)/2026 · In force 15 October 2026",
+ "headline": [
+  "FBR AUDITS NOW",
+  "RUN THROUGH"
+ ],
+ "highlight": "YOUR IRIS INBOX",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "The **National Faceless Centre** now runs designated audits, section 111 cases and assessments."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Every notice must carry a **DIN** (rule 238)",
+    "Replies go **only through IRIS** (rule 239)",
+    "Audit and assessment sit with **different officers**",
+    "Update your IRIS **email and mobile** now",
+    "Keep records as **searchable digital files**"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "classic",
+ "variant": "panel",
+ "theme": "light",
+ "id": "2026-11-05-PM-FBR-Faceless-Audit"
+}

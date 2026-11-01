@@ -1,0 +1,29 @@
+{
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "FTA · VAT registration rules",
+ "headline": [
+  "THE AED 375K",
+  "VAT TEST IS NOT"
+ ],
+ "highlight": "YOUR YEAR-END",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "We register once yearly revenue passes AED 375,000."
+  },
+  {
+   "type": "list",
+   "items": [
+    "It's any **rolling 12 months** of taxable supplies and imports.",
+    "Expect to pass it in the **next 30 days**? Register now.",
+    "Voluntary registration opens at **AED 187,500**."
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "edge",
+ "kicker": "375K",
+ "theme": "dark",
+ "id": "2026-11-07-AM-VAT-Registration-Test"
+}

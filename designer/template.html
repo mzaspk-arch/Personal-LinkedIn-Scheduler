@@ -145,7 +145,7 @@ document.getElementById('source').textContent = S.source || '';
 if (S.slide) document.getElementById('slideno').textContent = S.slide;
 const h1 = document.getElementById('h1');
 h1.innerHTML = (S.headline||[]).map(l=>`<span class="ln">${esc(l)}</span>`).join('') + (S.highlight?`<span class="hl">${esc(S.highlight)}</span>`:'');
-document.getElementById('disc').textContent = S.disclaimer===false ? '' : (S.disclaimer || 'General information, not tax advice.');
+document.getElementById('disc').textContent = S.disclaimer===false ? '' : ((S.disclaimer===true || !S.disclaimer) ? 'General information, not tax advice.' : S.disclaimer);
 const glyph = S.format==='Checklist' ? '✓' : '▶';
 const C = document.getElementById('content');
 const M = document.createElement('div'); M.id='main'; C.appendChild(M);

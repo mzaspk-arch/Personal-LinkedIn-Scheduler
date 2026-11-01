@@ -1,0 +1,34 @@
+{
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "FTA announcement · 20 October 2026",
+ "headline": [
+  "TOURIST VAT",
+  "REFUNDS NOW TAKE"
+ ],
+ "highlight": "ONE BUSINESS DAY",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "The FTA's new AI platform with Planet is live at **Abu Dhabi, Dubai and Sharjah** airports."
+  },
+  {
+   "type": "lead",
+   "text": "What retailers should know"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Refund time: **1 business day** (was about 9)",
+    "**16,700** retail outlets are connected",
+    "**769** outlets joined in the first 9 months of 2026",
+    "A refund starts with the **tag your store issues**"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "classic",
+ "variant": "panel",
+ "theme": "dark",
+ "id": "2026-11-04-AM-Tourist-VAT-Refunds"
+}

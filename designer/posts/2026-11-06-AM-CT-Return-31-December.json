@@ -1,0 +1,30 @@
+{
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "Corporate Tax Law · FTA Corporate Tax Returns guide",
+ "headline": [
+  "MARCH YEAR-END?",
+  "CORPORATE TAX DUE"
+ ],
+ "highlight": "31 DECEMBER 2026",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Financial year ended **31 March 2026**? The return is due **9 months** after the period ends."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**File and pay** by 31 December 2026",
+    "Audited accounts if revenue is **over AED 50m** or you are a **QFZP**",
+    "Past errors worth up to **AED 10,000** of tax can be fixed in this return",
+    "Pay early: **bank transfers take time** to reach the FTA"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "kicker": "31",
+ "theme": "light",
+ "id": "2026-11-06-AM-CT-Return-31-December"
+}

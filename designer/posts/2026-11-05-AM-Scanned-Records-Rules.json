@@ -1,0 +1,29 @@
+{
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "FTA Decision No. 4 of 2026 · Record keeping",
+ "headline": [
+  "YOUR SCANNED",
+  "RECORDS MUST"
+ ],
+ "highlight": "MATCH THE ORIGINAL",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Any phone photo of the invoice will do."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Copy **every page, in order**. Partial scans are not accepted.",
+    "It must be **clearly legible** on screen, and the FTA gets the **passwords or keys**.",
+    "Outsourced storage? **You stay responsible.** Keep records **5 years** (real estate: 7)."
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "kicker": "5",
+ "theme": "dark",
+ "id": "2026-11-05-AM-Scanned-Records-Rules"
+}

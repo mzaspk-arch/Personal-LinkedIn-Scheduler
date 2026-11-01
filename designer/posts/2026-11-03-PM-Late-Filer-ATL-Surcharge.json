@@ -1,0 +1,33 @@
+{
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "Section 182A · Finance Act 2026 · FBR Circular No. 02 of 2026-27",
+ "headline": [
+  "MISSED 31 OCTOBER?",
+  "FILE NOW, THEN"
+ ],
+ "highlight": "PAY TO REJOIN ATL",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Tax year 2026 returns were due **31 October**. Late filers stay off the ATL until they pay."
+  },
+  {
+   "type": "lead",
+   "text": "The new surcharge"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Individual:** Rs 25,000 (was Rs 1,000)",
+    "**AOP:** Rs 50,000 (was Rs 10,000)",
+    "**Company:** Rs 100,000 (was Rs 20,000)",
+    "**Individuals:** a 6-month no-property undertaking replaces it"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "block",
+ "theme": "light",
+ "id": "2026-11-03-PM-Late-Filer-ATL-Surcharge"
+}

@@ -1,0 +1,29 @@
+{
+ "format": "MythVsFact",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR S.R.O. 1904(I)/2026 · Rule 33U · 26 October 2026",
+ "headline": [
+  "10% TAX CREDIT",
+  "FOR FBR"
+ ],
+ "highlight": "INTEGRATION COSTS",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Buy FBR-compatible software and the credit is yours."
+  },
+  {
+   "type": "list",
+   "items": [
+    "You must be **legally required** to integrate with FBR.",
+    "You need an **FBR activation record** and proof of payment.",
+    "Only **one-time costs** count. Maintenance, internet and salaries don't."
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "kicker": "10%",
+ "theme": "dark",
+ "id": "2026-11-07-PM-FBR-Integration-Tax-Credit"
+}

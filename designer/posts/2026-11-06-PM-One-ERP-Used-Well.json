@@ -1,0 +1,28 @@
+{
+ "format": "HotTake",
+ "pillar": "ERP",
+ "source": "Opinion · ERP for SME owners (Odoo)",
+ "headline": [
+  "ONE ERP USED WELL",
+  "BEATS"
+ ],
+ "highlight": "FIVE APPS HALF-USED",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "Five apps mean **five versions** of the truth.",
+    "Every new app adds a **login, a licence and an export**.",
+    "The real value is **one shared record**, not more modules."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "right",
+ "theme": "dark",
+ "id": "2026-11-06-PM-One-ERP-Used-Well"
+}

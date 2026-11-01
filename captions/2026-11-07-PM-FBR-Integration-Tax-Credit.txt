@@ -1,0 +1,25 @@
+**10% tax credit for FBR integration costs.**
+
+The Finance Act 2026 widened section 64D: if you must integrate with FBR's system, you can claim a tax credit of 10% of the amount you actually invested.
+
+On 26 October 2026, FBR issued Rule 33U (S.R.O. 1904(I)/2026) with the conditions.
+
+Buying "FBR-compatible" software is not enough.
+
+**What the rule requires:**
+▶ **A legal duty:** you must be required under the income tax, sales tax or federal excise law to integrate, for production monitoring or reporting sales.
+▶ **Proof of go-live:** an integration or activation record generated or confirmed by FBR's system, plus the invoice and proof of payment.
+▶ **One-time costs only:** purchase price, installation, configuration and testing count. Maintenance, internet, salaries, training and financing don't.
+▶ **Timing:** claim it once, in the return for the year the system is integrated, against normal tax only.
+
+✅ Keep the vendor invoice, payment proof and FBR activation record in one file.
+
+✅ Ask your vendor to split one-time integration charges from annual support on the invoice.
+
+Source: FBR S.R.O. 1904(I)/2026: https://www.fbr.gov.pk/ShowSROs?Department=Income+Tax
+
+Is your business integrated with FBR's system yet?
+
+General information, not tax advice.
+
+#PakistanTax #FBR #SMEsPakistan #PakistanBusiness

@@ -1,0 +1,29 @@
+{
+ "format": "HotTake",
+ "pillar": "DIGITAL TRANSFORMATION",
+ "source": "Opinion · Automation for SME owners",
+ "headline": [
+  "AUTOMATE A",
+  "BROKEN PROCESS?"
+ ],
+ "highlight": "IT BREAKS FASTER",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "It copies your process, **gaps included**.",
+    "Staff build **workarounds** the system can't see.",
+    "Map it, fix it, **then** automate it."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "edge",
+ "kicker": "OPINION",
+ "theme": "dark",
+ "id": "2026-11-04-PM-Fix-Process-First"
+}
