@@ -36,3 +36,4 @@
 | 2026-10-31 AM | 48. PP-Protect-Your-Brand.png | https://www.linkedin.com/feed/update/urn:li:share:7522189174473658368/ |
 | 2026-10-31 PM | 49. PP-Risk-Management-vs-Internal-Audit.png | https://www.linkedin.com/feed/update/urn:li:share:7522280054899458048/ |
 | 2026-11-02 MORN | 2026-11-02-MORN-UAE-Tax-Map.png | https://www.linkedin.com/feed/update/urn:li:share:7522876302434054144/ |
+| 2026-11-02 AM | 50. PP-Bookkeeping.png | https://www.linkedin.com/feed/update/urn:li:share:7522914534718693376/ |
