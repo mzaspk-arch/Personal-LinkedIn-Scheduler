@@ -102,6 +102,9 @@ body.T-light.L-ghost #deco .kick{color:rgba(21,21,21,.06)}
 body.T-light.L-block .top .pillar,body.T-light.L-block .top .source{color:var(--studio-grey)}
 body.T-light.L-block h1{color:#FFFFFF}
 body.T-light.L-block h1 .hl{color:var(--light-blue)}
+/* Optional series badge (spec "badge": path under designer/), top-right; top-left in the right layout */
+#badge{position:absolute;top:0;right:0;height:60px;display:none}
+body.L-right #badge{right:auto;left:0}
 </style>
 </head>
 <body>
@@ -109,6 +112,7 @@ body.T-light.L-block h1 .hl{color:var(--light-blue)}
   <div id="deco"><div class="slab"></div><div class="kick" id="kick"></div></div>
   <svg id="net" width="1080" height="1350"></svg>
   <div id="page">
+    <img id="badge" alt="">
     <div class="top"><div class="pillar" id="pillar"></div><div class="source" id="source"></div><div class="slide-no" id="slideno"></div></div>
     <div class="head"><div class="bar"></div><h1 id="h1"></h1></div>
     <div id="content"></div>
@@ -141,6 +145,7 @@ const S = window.SPEC;
 const esc = t => String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 const rich = t => esc(t).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>');
 document.getElementById('pillar').textContent = S.pillar || '';
+if (S.badge){ const bg=document.getElementById('badge'); bg.src=S.badge; bg.style.display='block'; }
 document.getElementById('source').textContent = S.source || '';
 if (S.slide) document.getElementById('slideno').textContent = S.slide;
 const h1 = document.getElementById('h1');

@@ -18,6 +18,11 @@ The MORN slot never takes posters from your own queue, so adding a series does n
 To skip one, delete its PNG from `posters/dated/` and its caption from `captions/`. To edit one, change its
 caption file, or change the spec and re-render with `python3 designer/render.py <spec> --out posters/dated`.
 
+### Current series in the PM slot
+**GKMBA learning series** (Gharebon Ka MBA with Dr. Zeeshan-ul-Hassan Usmani): lessons 02–19, 9 to 28 November 2026,
+one post a day at about 5 PM (Monday to Saturday). Files are named `<date>-PM-GKMBA-<lesson>-<Topic>` in
+`posters/dated/`, `captions/` and `designer/posts/`. The specs use the optional `"badge"` field (top-right series badge).
+
 ## How to add posters
 1. Put the PNG in the `posters` folder (1080 × 1350).
 2. Name it with a number so it sorts after the others, e.g. `19-VAT-Refunds.png`.

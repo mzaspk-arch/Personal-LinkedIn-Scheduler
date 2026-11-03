@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-25-PM-GKMBA-16-The-60-Second-Test",
+ "source": "#GKMBA · Lesson 16",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "NOBODY CAN PAY",
+  "SOMEONE THEY"
+ ],
+ "highlight": "CAN'T FIND",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "No evidence of your work in **60 seconds**? That's a visibility problem, not a pricing one."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Not found:** no profile, no portfolio.",
+    "**Not verified:** nothing to check.",
+    "**Not asking:** waiting to be noticed.",
+    "**Not finishing:** started, never shipped."
+   ]
+  }
+ ],
+ "layout": "edge",
+ "kicker": "60 SEC",
+ "theme": "dark"
+}

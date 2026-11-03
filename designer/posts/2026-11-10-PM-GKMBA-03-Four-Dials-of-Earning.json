@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-10-PM-GKMBA-03-Four-Dials-of-Earning",
+ "source": "#GKMBA · Lesson 03",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "EARNING POWER",
+  "HAS FOUR"
+ ],
+ "highlight": "DIALS",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Value:** solve costlier problems.",
+    "**Proof:** lower the buyer's risk.",
+    "**Reach:** be found by the right people.",
+    "**Leverage:** tools, media, teams, capital."
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Turn them together, and aim for **3X**."
+  }
+ ],
+ "layout": "ghost",
+ "kicker": "4",
+ "theme": "light"
+}

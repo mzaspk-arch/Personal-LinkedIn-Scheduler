@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-09-PM-GKMBA-02-3X-Not-3X-Hours",
+ "source": "#GKMBA · Lesson 02",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "HotTake",
+ "pillar": "STRATEGY",
+ "headline": [
+  "NOBODY TRIPLES",
+  "AN INCOME BY"
+ ],
+ "highlight": "TRIPLING HOURS",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "The GKMBA target: **three times** whatever you earn now, at every income level."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Hours run out:** a week has only 168.",
+    "**That road ends** in burnout, not wealth.",
+    "**The method:** change the market and the leverage."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "layout": "block",
+ "theme": "dark"
+}

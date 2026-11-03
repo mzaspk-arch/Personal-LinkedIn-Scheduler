@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-28-PM-GKMBA-19-Somebody-Must-Pay-You",
+ "source": "#GKMBA · Lesson 19",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "WEEK ONE HAS",
+  "ONE GRADED TASK:"
+ ],
+ "highlight": "GET PAID",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Any amount counts:** money must move.",
+    "**Stage 0–1:** sell or take a paid task.",
+    "**Stage 2–3:** charge for a free favour.",
+    "**Stage 4:** reprice one client upward."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "What would you charge for first?"
+  }
+ ],
+ "layout": "ghost",
+ "kicker": "PAID",
+ "theme": "light"
+}

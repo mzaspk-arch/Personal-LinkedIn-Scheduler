@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-20-PM-GKMBA-12-Demand-Proof-Rarity",
+ "source": "#GKMBA · Lesson 12",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "THE MARKET PAYS",
+  "FOR SCARCITY,"
+ ],
+ "highlight": "NOT DIFFICULTY",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Demand:** are people paying for this today?",
+    "**Proof:** can a stranger verify it in 10 minutes?",
+    "**Rarity:** how few do it as well near you?"
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Score each **1 to 5** and multiply. Start with the top score, not your favourite."
+  }
+ ],
+ "layout": "block",
+ "theme": "dark"
+}

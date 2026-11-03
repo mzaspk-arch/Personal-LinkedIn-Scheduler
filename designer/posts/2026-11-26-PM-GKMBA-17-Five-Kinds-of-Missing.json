@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-26-PM-GKMBA-17-Five-Kinds-of-Missing",
+ "source": "#GKMBA · Lesson 17",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "MOST PEOPLE FIX",
+  "A SHOW GAP BY"
+ ],
+ "highlight": "STUDYING MORE",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Know:** not learned yet.",
+    "**Do:** learned, but slow.",
+    "**Show:** good work, no evidence.",
+    "**Reach:** excellent and unheard of.",
+    "**Fit:** it works, and it drains you."
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Close the gap nearest the money first: **Fit, then Show, then Reach**."
+  }
+ ],
+ "layout": "classic",
+ "variant": "top",
+ "theme": "dark"
+}

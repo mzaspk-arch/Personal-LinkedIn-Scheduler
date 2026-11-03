@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-14-PM-GKMBA-07-Count-Before-You-Price",
+ "source": "#GKMBA · Lesson 07",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "YOU CANNOT PRICE",
+  "WHAT YOU HAVE"
+ ],
+ "highlight": "NEVER COUNTED",
+ "blocks": [
+  {
+   "type": "lead",
+   "text": "Three questions most people can't answer"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Real monthly income:** every source, last month.",
+    "**Hours it took:** commute, overtime, Sunday calls.",
+    "**What someone pays for:** not what you enjoy."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Can you answer all three today?"
+  }
+ ],
+ "layout": "classic",
+ "variant": "left",
+ "theme": "dark"
+}

@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-21-PM-GKMBA-13-Every-Rung-Sells-Hours",
+ "source": "#GKMBA · Lesson 13",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "HotTake",
+ "pillar": "STRATEGY",
+ "headline": [
+  "EVERY RUNG",
+  "SO FAR STILL"
+ ],
+ "highlight": "SELLS HOURS",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Driver, accountant, data scientist: all sell hours, at different prices."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Climbing** raises the price of an hour.",
+    "**It never** removes the ceiling.",
+    "**The break:** what you own earns for you."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "layout": "ghost",
+ "kicker": "24",
+ "theme": "dark"
+}

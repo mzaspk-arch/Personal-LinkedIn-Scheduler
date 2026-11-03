@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-13-PM-GKMBA-06-No-Certificate",
+ "source": "#GKMBA · Lesson 06",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "A CERTIFICATE",
+  "IS NOT"
+ ],
+ "highlight": "ON THE LIST",
+ "blocks": [
+  {
+   "type": "lead",
+   "text": "What you walk out holding"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Baseline ledger:** your real rate.",
+    "**Positioning line:** one clear sentence.",
+    "**Priced offer:** a number, said calmly.",
+    "**90-day plan:** what happens next."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Graded in receipts, not attendance."
+  }
+ ],
+ "layout": "edge",
+ "kicker": "PROOF",
+ "theme": "dark"
+}

@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-17-PM-GKMBA-09-Five-Stages-of-Earning",
+ "source": "#GKMBA · Lesson 09",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "FIVE STAGES",
+  "OF EARNING."
+ ],
+ "highlight": "NOBODY SKIPS ONE",
+ "blocks": [
+  {
+   "type": "list",
+   "glyph": "▶",
+   "items": [
+    "**0 · Labour:** you sell hours.",
+    "**1 · Skill:** you sell an ability.",
+    "**2 · Proof:** buyers ask for you by name.",
+    "**3 · System:** a team or product delivers.",
+    "**4 · Capital:** ownership earns for you."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Anyone can climb one rung in 90 days."
+  }
+ ],
+ "layout": "right",
+ "theme": "light"
+}

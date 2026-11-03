@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-16-PM-GKMBA-08-Five-Capitals",
+ "source": "#GKMBA · Lesson 08",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "STRATEGY",
+ "headline": [
+  "EVERY RUPEE",
+  "COMES FROM ONE OF"
+ ],
+ "highlight": "FIVE CAPITALS",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Body:** the hours in your day.",
+    "**Skill:** what others can't do as well.",
+    "**Proof:** results a stranger can verify.",
+    "**Network:** people who'd take your call.",
+    "**Capital:** money that earns while you sleep."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Most people run on the first one only."
+  }
+ ],
+ "layout": "block",
+ "theme": "dark"
+}

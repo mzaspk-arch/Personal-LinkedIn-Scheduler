@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-23-PM-GKMBA-14-Freedom-Stage-Arithmetic",
+ "source": "#GKMBA · Lesson 14",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "FINANCE",
+ "headline": [
+  "YOUR SALARY",
+  "DOESN'T SET YOUR"
+ ],
+ "highlight": "FREEDOM STAGE",
+ "blocks": [
+  {
+   "type": "lead",
+   "text": "Two divisions do"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Runway:** savings ÷ monthly essentials.",
+    "**Coverage:** passive income ÷ essentials."
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Under **one month** of runway is survival, whatever the salary. Coverage at **100%** is security."
+  },
+  {
+   "type": "closing",
+   "text": "What is your runway in months?"
+  }
+ ],
+ "layout": "classic",
+ "variant": "panel",
+ "theme": "dark"
+}

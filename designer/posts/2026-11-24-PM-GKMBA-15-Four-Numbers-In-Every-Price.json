@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-24-PM-GKMBA-15-Four-Numbers-In-Every-Price",
+ "source": "#GKMBA · Lesson 15",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "Checklist",
+ "pillar": "FINANCE",
+ "headline": [
+  "EVERY PRICE",
+  "YOU QUOTE HAS"
+ ],
+ "highlight": "FOUR NUMBERS",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Floor:** your true cost. Never below.",
+    "**Anchor:** others' prices. Reference only.",
+    "**Ceiling:** what it's worth to the buyer.",
+    "**Walk-away:** whether you can say no."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Which one do you skip?"
+  }
+ ],
+ "layout": "right",
+ "theme": "light"
+}

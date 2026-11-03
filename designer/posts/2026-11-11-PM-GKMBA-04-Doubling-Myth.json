@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-11-PM-GKMBA-04-Doubling-Myth",
+ "source": "#GKMBA · Lesson 04",
+ "badge": "assets/gkmba-badge.png",
+ "disclaimer": false,
+ "format": "MythVsFact",
+ "pillar": "STRATEGY",
+ "headline": [
+  "DOUBLING PLANS",
+  "BREAK"
+ ],
+ "highlight": "ON SQUARE 30",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Double your income every year and you'll be rich."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**The chessboard:** one grain, doubled every square.",
+    "**Square 30:** about 13 tonnes, owed for one square.",
+    "**Square 64:** about four centuries of world harvest."
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Compounding is real but slow. **Skill** compounds from zero."
+  }
+ ],
+ "layout": "classic",
+ "variant": "panel",
+ "theme": "dark"
+}
