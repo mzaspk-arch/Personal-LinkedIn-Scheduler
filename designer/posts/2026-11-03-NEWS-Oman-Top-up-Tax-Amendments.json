@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-03-NEWS-Oman-Top-up-Tax-Amendments",
+ "format": "Checklist",
+ "pillar": "TAX • GCC",
+ "source": "Just released · Oman Royal Decree No. 101/2026 · Gazette 1 Nov 2026",
+ "headline": [
+  "OMAN TOP-UP TAX:",
+  "NEW DEADLINES AND"
+ ],
+ "highlight": "PENALTIES IN FORCE",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "For **€750m+** groups with an entity in Oman."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Register:** within 120 days of becoming liable",
+    "**Appoint:** a designated reporting entity",
+    "**File and pay:** within 15 months of year-end",
+    "**Late payment:** 1% a month on unpaid tax",
+    "**Records:** keep for 10 years",
+    "**Fines:** up to the higher of 25% of tax or OMR 10,000"
+   ]
+  }
+ ],
+ "layout": "right",
+ "theme": "dark",
+ "disclaimer": true
+}
