@@ -8,6 +8,7 @@ No posts on Sunday.
 | MORN | about 8:30 AM | Only designed series posts in `posters/dated/` named `<date>-MORN-...`. If there is none for the day, nothing is posted. |
 | AM | about 11:00 AM | A dated `<date>-AM-...` post if there is one, otherwise your next queued poster. |
 | PM | about 5:00 PM | A dated `<date>-PM-...` post if there is one, otherwise your next queued poster. |
+| GK | about 6:15 PM (every day) | Only GKMBA series posts named `<date>-GK-...` in `posters/dated/`. |
 | NEWS | about 1:40 PM and 8:40 PM checks | Breaking official tax/technology updates (UAE, Pakistan, GCC), designed and published immediately when something new qualifies. Rules: `NEWS-RULES.md`. |
 
 The MORN slot never takes posters from your own queue, so adding a series does not push your posters back.
@@ -18,10 +19,11 @@ The MORN slot never takes posters from your own queue, so adding a series does n
 To skip one, delete its PNG from `posters/dated/` and its caption from `captions/`. To edit one, change its
 caption file, or change the spec and re-render with `python3 designer/render.py <spec> --out posters/dated`.
 
-### Current series in the PM slot
-**GKMBA learning series** (Gharebon Ka MBA with Dr. Zeeshan-ul-Hassan Usmani): lessons 02–19, 9 to 28 November 2026,
-one post a day at about 5 PM (Monday to Saturday). Files are named `<date>-PM-GKMBA-<lesson>-<Topic>` in
-`posters/dated/`, `captions/` and `designer/posts/`. The specs use the optional `"badge"` field (top-right series badge).
+### GKMBA series (GK slot, about 6:15 PM, every day)
+**GKMBA learning series** (Gharebon Ka MBA with Dr. Zeeshan-ul-Hassan Usmani): lessons 02–19, 4 to 21 November 2026,
+one post a day at about 6:15 PM, Sundays included. Files are named `<date>-GK-GKMBA-<lesson>-<Topic>` in
+`posters/dated/`, `captions/` and `designer/posts/`, and are posted by their own scheduled task, so the 5 PM slot
+is not affected. The specs use the optional `"badge"` field (top-right series badge).
 
 ## How to add posters
 1. Put the PNG in the `posters` folder (1080 × 1350).
