@@ -40,3 +40,4 @@
 | 2026-11-02 PM | 52. PP-FTA-Decision-no-13.png | https://www.linkedin.com/feed/update/urn:li:share:7523012290594467840/ |
 | 2026-11-03 MORN | 2026-11-03-MORN-E-Invoicing-Dates.png | https://www.linkedin.com/feed/update/urn:li:share:7523238879190122496/ |
 | 2026-11-03 NEWS | 2026-11-03-NEWS-Oman-Top-up-Tax-Amendments.png | https://www.linkedin.com/feed/update/urn:li:share:7523319059728465920/ |
+| 2026-11-03 PM | 2026-11-03-PM-Late-Filer-ATL-Surcharge.png | https://www.linkedin.com/feed/update/urn:li:share:7523367163231952898/ |
