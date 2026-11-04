@@ -49,12 +49,23 @@ li .g{color:var(--light-blue);flex:none;width:34px;font-weight:700}
 .metric .v{font-family:Montserrat;font-weight:800;font-size:120px;line-height:1;color:var(--white)}
 .metric .l{font-size:var(--body);line-height:var(--body-lh);color:var(--studio-grey);max-width:520px}
 .closing{font-family:Montserrat;font-weight:700;font-size:34px;line-height:48px;flex:none}
-footer{margin-top:28px;padding-top:28px;border-top:1px solid rgba(255,255,255,.22);display:flex;align-items:center;gap:24px}
-footer img{width:96px;height:96px;border-radius:50%;border:4px solid var(--white);object-fit:cover;flex:none}
-.who{display:flex;flex-direction:column;gap:2px;flex:1;min-width:0}
+/* Footer (approved Nov 2026): photo | name / websites (zubairakbar.com first) / "Follow me @zubairakbarpk" + 6 social icons */
+footer{margin-top:24px;padding-top:26px;border-top:1px solid rgba(255,255,255,.22);display:flex;align-items:center;gap:24px;flex:none}
+footer .ph{width:120px;height:120px;border-radius:50%;border:4px solid var(--white);flex:none;
+  background:url(assets/headshot.jpg) 50% 32% / 140% auto no-repeat}
+.who{display:flex;flex-direction:column;flex:1;min-width:0;white-space:nowrap}
 .who .n{font:800 32px/40px Montserrat}
-.who .w{font:400 22px/28px Inter;color:var(--studio-grey)}
-.disc{font:400 22px/28px Inter;color:var(--studio-grey);text-align:right;max-width:250px}
+.who .w{font:400 22px/30px Inter;color:var(--studio-grey);margin-top:2px}
+.who .w b{font-weight:600;color:var(--white)}
+.who .w i{font-style:normal;opacity:.6;margin:0 6px}
+.who .fl{display:flex;align-items:center;margin-top:8px;font:400 22px/28px Inter;color:var(--studio-grey)}
+.who .fl b{font-weight:600;color:var(--white);margin-left:6px}
+.icons{display:flex;gap:9px;margin-left:16px;color:var(--white)}
+.icons .ic{width:32px;height:32px;border:2px solid currentColor;border-radius:50%;display:flex;align-items:center;justify-content:center;flex:none}
+.icons svg{width:15px;height:15px;fill:currentColor}
+/* Edge: the slab stops above the footer so the footer runs the full width */
+body.L-edge footer{margin-right:-198px}
+.disc{display:none}
 
 /* ---------- Asymmetric layouts (spec "layout"; default "classic") ---------- */
 #deco{position:absolute;inset:0;pointer-events:none;overflow:hidden}
@@ -63,8 +74,7 @@ footer img{width:96px;height:96px;border-radius:50%;border:4px solid var(--white
 body.L-edge #deco .slab{top:0;right:0;width:230px;height:100%;background:linear-gradient(180deg,#151515 0%,var(--steel) 100%)}
 body.L-edge #deco .kick{right:30px;bottom:88px;writing-mode:vertical-rl;transform:rotate(180deg);font:800 170px/1 Montserrat;color:rgba(255,255,255,.92);letter-spacing:.02em;white-space:nowrap}
 body.L-edge #page{right:286px}
-body.L-edge footer .disc{display:none}
-.discline{font:400 22px/28px Inter;color:var(--studio-grey);margin-top:18px;flex:none}
+.discline{font:400 22px/28px Inter;color:var(--studio-grey);margin-top:14px;flex:none}
 body.L-edge #canvas{background:radial-gradient(ellipse 760px 900px at 20% 18%, var(--mid-grey) 0%, #6A6A6A 36%, #464646 68%, var(--charcoal) 100%)}
 /* GHOST: giant faint kicker bleeding off the bottom-right corner */
 body.L-ghost #deco .kick{right:-36px;bottom:150px;font:800 520px/.78 Montserrat;color:rgba(255,255,255,.1);letter-spacing:-.03em;white-space:nowrap}
@@ -90,13 +100,15 @@ body.T-light{background:#FFFFFF}
 body.T-light #canvas{color:#151515;background:radial-gradient(ellipse 980px 820px at var(--glow,50% 22%), #FFFFFF 0%, #F2F2F2 45%, #E2E2E2 75%, var(--studio-grey) 100%) !important}
 body.T-light.L-ghost{--glow:10% 10%} body.T-light.L-edge{--glow:20% 18%} body.T-light.L-right{--glow:90% 12%} body.T-light.L-block{--glow:85% 95%}
 body.T-light .pillar,body.T-light .source,body.T-light .lead,body.T-light .myth .tag,body.T-light .myth p,body.T-light .metric .l,
-body.T-light .who .w,body.T-light .disc,body.T-light .discline,body.T-light .slide-no{color:#5C5C5C}
+body.T-light .who .w,body.T-light .who .fl,body.T-light .disc,body.T-light .discline,body.T-light .slide-no{color:#5C5C5C}
 body.T-light .metric .v{color:#151515}
 body.T-light h1 .hl{color:var(--steel)}
 body.T-light li .g{color:var(--slate)}
 body.T-light.v-panel #main ul,body.T-light.v-panel #main .metric,body.T-light.L-right #main ul,body.T-light.L-right #main .metric{background:rgba(63,95,134,.11)}
 body.T-light footer{border-top-color:rgba(21,21,21,.18)}
-body.T-light footer img{box-shadow:0 0 0 1px var(--studio-grey),0 6px 18px rgba(21,21,21,.14)}
+body.T-light footer .ph{box-shadow:0 0 0 1px var(--studio-grey),0 6px 18px rgba(21,21,21,.14)}
+body.T-light .who .w b,body.T-light .who .fl b{color:#151515}
+body.T-light .icons{color:#151515}
 body.T-light.L-ghost #deco .kick{color:rgba(21,21,21,.06)}
 /* Block keeps its dark top block in light theme: headline stays white with the light-blue line */
 body.T-light.L-block .top .pillar,body.T-light.L-block .top .source{color:var(--studio-grey)}
@@ -117,8 +129,19 @@ body.L-right #badge{right:auto;left:0}
     <div class="head"><div class="bar"></div><h1 id="h1"></h1></div>
     <div id="content"></div>
     <footer>
-      <img src="assets/headshot.jpg" alt="">
-      <div class="who"><div class="n">Zubair Akbar</div><div class="w">xpertgroupglobal.com | accentureon.com</div><div class="w">in/zubairakbarpk</div></div>
+      <div class="ph"></div>
+      <div class="who">
+        <div class="n">Zubair Akbar</div>
+        <div class="w"><b>zubairakbar.com</b><i>|</i>accentureon.com<i>|</i>xpertgroupglobal.com</div>
+        <div class="fl">Follow me <b>@zubairakbarpk</b><span class="icons">
+          <span class="ic" title="LinkedIn"><svg viewBox="0 0 24 24"><rect x="3.6" y="9" width="3.6" height="11.4"/><circle cx="5.4" cy="5.3" r="2.1"/><path d="M9.6 9h3.4v1.6c.5-.9 1.7-1.9 3.6-1.9 3.6 0 4.2 2.3 4.2 5.3v6.4h-3.6v-5.7c0-1.4 0-3.1-1.9-3.1s-2.2 1.5-2.2 3v5.8H9.6z"/></svg></span>
+          <span class="ic" title="Facebook"><svg viewBox="0 0 24 24"><path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></svg></span>
+          <span class="ic" title="Instagram"><svg viewBox="0 0 24 24"><path d="M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.3876-2.1228C21.2982 1.33 20.628.9208 19.8378.6165 19.074.321 18.2017.1197 16.9244.0645 15.6471.0093 15.236-.005 11.977.0014 8.718.0076 8.31.0215 7.0301.0839m.1402 21.6932c-1.17-.0509-1.8053-.2453-2.2287-.408-.5606-.216-.96-.4771-1.3819-.895-.422-.4178-.6811-.8186-.9-1.378-.1644-.4234-.3624-1.058-.4171-2.228-.0595-1.2645-.072-1.6442-.079-4.848-.007-3.2037.0053-3.583.0607-4.848.05-1.169.2456-1.805.408-2.2282.216-.5613.4762-.96.895-1.3816.4188-.4217.8184-.6814 1.3783-.9003.423-.1651 1.0575-.3614 2.227-.4171 1.2655-.06 1.6447-.072 4.848-.079 3.2033-.007 3.5835.005 4.8495.0608 1.169.0508 1.8053.2445 2.228.408.5608.216.96.4754 1.3816.895.4217.4194.6816.8176.9005 1.3787.1653.4217.3617 1.056.4169 2.2263.0602 1.2655.0739 1.645.0796 4.848.0058 3.203-.0055 3.5834-.061 4.848-.051 1.17-.245 1.8055-.408 2.2294-.216.5604-.4763.96-.8954 1.3814-.419.4215-.8181.6811-1.3783.9-.4224.1649-1.0577.3617-2.2262.4174-1.2656.0595-1.6448.072-4.8493.079-3.2045.007-3.5825-.006-4.848-.0608M16.953 5.5864A1.44 1.44 0 1 0 18.39 4.144a1.44 1.44 0 0 0-1.437 1.4424M5.8385 12.012c.0067 3.4032 2.7706 6.1557 6.173 6.1493 3.4026-.0065 6.157-2.7701 6.1506-6.1733-.0065-3.4032-2.771-6.1565-6.174-6.1498-3.403.0067-6.156 2.771-6.1496 6.1738M8 12.0077a4 4 0 1 1 4.008 3.9921A3.9996 3.9996 0 0 1 8 12.0077"/></svg></span>
+          <span class="ic" title="X"><svg viewBox="0 0 24 24"><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></svg></span>
+          <span class="ic" title="YouTube"><svg viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></span>
+          <span class="ic" title="WhatsApp"><svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg></span>
+        </span></div>
+      </div>
       <div class="disc" id="disc"></div>
     </footer>
   </div>
@@ -175,7 +198,8 @@ function overflowing(){
   return C.scrollHeight > C.clientHeight + 1 || M.scrollHeight > M.clientHeight + 1 || h1.scrollWidth > h1.clientWidth + 1 || hlWraps || lines;
 }
 document.getElementById('kick').textContent = S.kicker || '';
-if ((S.layout||'')==='edge' && document.getElementById('disc').textContent){ const d=document.createElement('div'); d.className='discline'; d.textContent=document.getElementById('disc').textContent; C.appendChild(d); }
+// Disclaimer sits on its own line above the footer in every layout (the footer is full width).
+if (document.getElementById('disc').textContent){ const d=document.createElement('div'); d.className='discline'; d.textContent=document.getElementById('disc').textContent; C.appendChild(d); }
 function sizeDeco(){
   const L = S.layout || 'classic';
   if (L==='block'){ // block ends below the headline, plus room for the diagonal
@@ -183,8 +207,10 @@ function sizeDeco(){
     root.setProperty('--blockh', Math.round(hb + 150) + 'px');
   }
   if (L==='edge'){ // shrink the rotated kicker until it fits the slab height
-    const k = document.getElementById('kick'); let fs = 170;
-    while (fs > 90 && k.getBoundingClientRect().height > 1350 - 176){ fs -= 6; k.style.fontSize = fs+'px'; }
+    const ft = Math.round(document.querySelector('footer').getBoundingClientRect().top);
+    document.querySelector('#deco .slab').style.height = (ft - 24) + 'px';
+    const k = document.getElementById('kick'); k.style.bottom = (1350 - ft + 24 + 40) + 'px'; let fs = 170;
+    while (fs > 90 && k.getBoundingClientRect().height > ft - 24 - 120){ fs -= 6; k.style.fontSize = fs+'px'; }
   }
 }
 document.fonts.ready.then(()=>{
