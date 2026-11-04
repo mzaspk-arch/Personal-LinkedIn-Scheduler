@@ -18,7 +18,7 @@ The footer is fixed in `template.html`; post specs never change it.
 - Faint rule across the full width, then the round headshot: 120 px circle, 4 px white ring,
   framing `50% 32% / 140% auto` from `assets/headshot.jpg`.
 - Line 1: **Zubair Akbar** — Montserrat ExtraBold 32 px.
-- Line 2: **zubairakbar.com** (white, semibold) | xpertgroupglobal.com | accentureon.com — Inter 22 px, studio-grey.
+- Line 2: **zubairakbar.com** (white, semibold) | accentureon.com | xpertgroupglobal.com — Inter 22 px, studio-grey.
 - Line 3: Follow me **@zubairakbarpk** followed by six outline-circle icons in this order:
   LinkedIn, Facebook, Instagram, X, YouTube, WhatsApp (32 px circles, 2 px ring, white on dark, near-black on light).
 - The tax disclaimer sits on its own line just above the footer rule, never inside the footer.
