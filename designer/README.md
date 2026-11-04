@@ -3,7 +3,7 @@
 Claude designs posters in Zubair's personal brand style (Personal Brand Kit) and adds them to the queue.
 
 - `template.html` — the brand layout: grey gradient, faint network lines, slate bar, Montserrat headline in capitals
-  with ONE light-blue line, Inter body, round headshot footer, disclaimer.
+  with ONE light-blue line, Inter body, disclaimer line, and the standard footer (below).
 - `render.py` — turns a post spec (JSON) into a 1080 × 1350 PNG. Run: `python3 designer/render.py designer/posts/<file>.json`
   It stops with an error if the text does not fit; shorten the text and run again.
 - `posts/` — the specs Claude wrote (kept so a poster can be re-rendered after an edit).
@@ -12,6 +12,18 @@ Claude designs posters in Zubair's personal brand style (Personal Brand Kit) and
 
 Formats: MythVsFact, Checklist, LessonLearned, BuildInPublic, HotTake.
 LessonLearned and BuildInPublic need a real story or a real number from Zubair; Claude never invents them.
+
+## Footer (standard on every poster — approved November 2026)
+The footer is fixed in `template.html`; post specs never change it.
+- Faint rule across the full width, then the round headshot: 120 px circle, 4 px white ring,
+  framing `50% 32% / 140% auto` from `assets/headshot.jpg`.
+- Line 1: **Zubair Akbar** — Montserrat ExtraBold 32 px.
+- Line 2: **zubairakbar.com** (white, semibold) | xpertgroupglobal.com | accentureon.com — Inter 22 px, studio-grey.
+- Line 3: Follow me **@zubairakbarpk** followed by six outline-circle icons in this order:
+  LinkedIn, Facebook, Instagram, X, YouTube, WhatsApp (38 px circles, 2 px ring, white on dark, near-black on light).
+- The tax disclaimer sits on its own line just above the footer rule, never inside the footer.
+- `edge` layout: the dark slab stops above the footer so the footer runs the full width.
+These six social icons are the only icons allowed on a poster.
 
 ## Background variations
 Every poster keeps the same brand base (grey gradient, slate bar, one light-blue line, same footer).
