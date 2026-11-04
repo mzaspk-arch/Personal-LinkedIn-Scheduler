@@ -20,7 +20,7 @@ The footer is fixed in `template.html`; post specs never change it.
 - Line 1: **Zubair Akbar** — Montserrat ExtraBold 32 px.
 - Line 2: **zubairakbar.com** (white, semibold) | xpertgroupglobal.com | accentureon.com — Inter 22 px, studio-grey.
 - Line 3: Follow me **@zubairakbarpk** followed by six outline-circle icons in this order:
-  LinkedIn, Facebook, Instagram, X, YouTube, WhatsApp (38 px circles, 2 px ring, white on dark, near-black on light).
+  LinkedIn, Facebook, Instagram, X, YouTube, WhatsApp (32 px circles, 2 px ring, white on dark, near-black on light).
 - The tax disclaimer sits on its own line just above the footer rule, never inside the footer.
 - `edge` layout: the dark slab stops above the footer so the footer runs the full width.
 These six social icons are the only icons allowed on a poster.
