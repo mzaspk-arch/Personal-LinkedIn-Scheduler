@@ -43,3 +43,4 @@
 | 2026-11-03 PM | 2026-11-03-PM-Late-Filer-ATL-Surcharge.png | https://www.linkedin.com/feed/update/urn:li:share:7523367163231952898/ |
 | 2026-11-04 MORN | 2026-11-04-MORN-Input-VAT-Thresholds.png | https://www.linkedin.com/feed/update/urn:li:share:7523601216329703424/ |
 | 2026-11-04 AM | 2026-11-04-AM-Tourist-VAT-Refunds.png | https://www.linkedin.com/feed/update/urn:li:share:7523638874104008704/ |
+| 2026-11-04 PM | 2026-11-04-PM-Fix-Process-First.png | https://www.linkedin.com/feed/update/urn:li:share:7523729576598958080/ |
