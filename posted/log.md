@@ -47,3 +47,4 @@
 | 2026-11-04 GK | 2026-11-04-GK-GKMBA-02-3X-Not-3X-Hours.png | https://www.linkedin.com/feed/update/urn:li:share:7523749808264871936/ |
 | 2026-11-05 MORN | 2026-11-05-MORN-Pillar-Two-UAE-Groups.png | https://www.linkedin.com/feed/update/urn:li:share:7523963592975609857/ |
 | 2026-11-05 AM | 2026-11-05-AM-Scanned-Records-Rules.png | https://www.linkedin.com/feed/update/urn:li:share:7524001266394542080/ |
+| 2026-11-05 NEWS | 2026-11-05-NEWS-Qatar-Pillar-Two-Registration-Extension.png | https://www.linkedin.com/feed/update/urn:li:share:7524044066234413056/ |
