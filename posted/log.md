@@ -49,3 +49,4 @@
 | 2026-11-05 AM | 2026-11-05-AM-Scanned-Records-Rules.png | https://www.linkedin.com/feed/update/urn:li:share:7524001266394542080/ |
 | 2026-11-05 NEWS | 2026-11-05-NEWS-Qatar-Pillar-Two-Registration-Extension.png | https://www.linkedin.com/feed/update/urn:li:share:7524044066234413056/ |
 | 2026-11-05 PM | 2026-11-05-PM-FBR-Faceless-Audit.png | https://www.linkedin.com/feed/update/urn:li:share:7524092135667855362/ |
+| 2026-11-05 GK | 2026-11-05-GK-GKMBA-03-Four-Dials-of-Earning.png | https://www.linkedin.com/feed/update/urn:li:share:7524112504411680768/ |
