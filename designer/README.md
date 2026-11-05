@@ -13,17 +13,29 @@ Claude designs posters in Zubair's personal brand style (Personal Brand Kit) and
 Formats: MythVsFact, Checklist, LessonLearned, BuildInPublic, HotTake.
 LessonLearned and BuildInPublic need a real story or a real number from Zubair; Claude never invents them.
 
+## Logo (standard on every poster — approved November 2026)
+The Rising Ledger logo (Z mark with rising bars + stacked ZUBAIR / AKBAR in Montserrat ExtraBold) is built into
+`template.html`; post specs never need to add it.
+- Placement: top corner opposite the pillar label — top-right in `classic`, `ghost` and `block`; top-left in `right`;
+  at the top of the dark slab in `edge`.
+- Size: 48 px mark, 29 px wordmark. Colours follow the background: white + light-blue on dark,
+  near-black + steel on light (white + light-blue over the dark block/slab in light posts).
+- A series badge (spec `"badge"`, e.g. GKMBA) sits next to the logo, separated by a faint vertical rule.
+- The pillar label and source line automatically keep clear of the logo.
+- Only for a special case, `"logo": false` in a spec hides it.
+
 ## Footer (standard on every poster — approved November 2026)
 The footer is fixed in `template.html`; post specs never change it.
 - Faint rule across the full width, then the round headshot: 120 px circle, 4 px white ring,
   framing `50% 32% / 140% auto` from `assets/headshot.jpg`.
 - Line 1: **Zubair Akbar** — Montserrat ExtraBold 32 px.
 - Line 2: **zubairakbar.com** (white, semibold) | accentureon.com | xpertgroupglobal.com — Inter 22 px, studio-grey.
-- Line 3: Follow me **@zubairakbarpk** followed by six outline-circle icons in this order:
-  LinkedIn, Facebook, Instagram, X, YouTube, WhatsApp (32 px circles, 2 px ring, white on dark, near-black on light).
+- Line 3: Follow me **@zubairakbarpk** followed by seven outline-circle icons in this order:
+  LinkedIn, Facebook, Instagram, X, YouTube, TikTok, WhatsApp (32 px circles, 2 px ring, white on dark, near-black on light).
 - The tax disclaimer sits on its own line just above the footer rule, never inside the footer.
 - `edge` layout: the dark slab stops above the footer so the footer runs the full width.
-These six social icons are the only icons allowed on a poster.
+These seven social icons are the only icons allowed on a poster. All profiles use the handle @zubairakbarpk
+(TikTok: https://www.tiktok.com/@zubairakbarpk, added 5 Nov 2026).
 
 ## Background variations
 Every poster keeps the same brand base (grey gradient, slate bar, one light-blue line, same footer).
