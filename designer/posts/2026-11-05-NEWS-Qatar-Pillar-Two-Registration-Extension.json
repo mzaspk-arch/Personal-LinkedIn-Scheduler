@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-05-NEWS-Qatar-Pillar-Two-Registration-Extension",
+ "format": "Checklist",
+ "pillar": "TAX • GCC",
+ "source": "Just released · Qatar GTA announcement · 4 Nov 2026",
+ "headline": [
+  "QATAR PILLAR TWO:",
+  "REGISTRATION NOW DUE"
+ ],
+ "highlight": "BY 31 JANUARY 2027",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "The General Tax Authority has extended the **Global and Domestic Minimum Tax** registration deadline."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Who:** multinational enterprise groups and joint venture groups",
+    "**Where:** the Dhareeba platform",
+    "**Appoint:** a Designated Local Entity",
+    "**Its role:** registration, notification and return filing",
+    "**New deadline:** 31 January 2027"
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Use the extra time to prepare your group data."
+  }
+ ],
+ "layout": "classic",
+ "theme": "light",
+ "disclaimer": true
+}
