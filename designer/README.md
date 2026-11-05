@@ -13,6 +13,17 @@ Claude designs posters in Zubair's personal brand style (Personal Brand Kit) and
 Formats: MythVsFact, Checklist, LessonLearned, BuildInPublic, HotTake.
 LessonLearned and BuildInPublic need a real story or a real number from Zubair; Claude never invents them.
 
+## Logo (standard on every poster — approved November 2026)
+The Rising Ledger logo (Z mark with rising bars + stacked ZUBAIR / AKBAR in Montserrat ExtraBold) is built into
+`template.html`; post specs never need to add it.
+- Placement: top corner opposite the pillar label — top-right in `classic`, `ghost` and `block`; top-left in `right`;
+  at the top of the dark slab in `edge`.
+- Size: 48 px mark, 29 px wordmark. Colours follow the background: white + light-blue on dark,
+  near-black + steel on light (white + light-blue over the dark block/slab in light posts).
+- A series badge (spec `"badge"`, e.g. GKMBA) sits next to the logo, separated by a faint vertical rule.
+- The pillar label and source line automatically keep clear of the logo.
+- Only for a special case, `"logo": false` in a spec hides it.
+
 ## Footer (standard on every poster — approved November 2026)
 The footer is fixed in `template.html`; post specs never change it.
 - Faint rule across the full width, then the round headshot: 120 px circle, 4 px white ring,

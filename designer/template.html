@@ -114,9 +114,28 @@ body.T-light.L-ghost #deco .kick{color:rgba(21,21,21,.06)}
 body.T-light.L-block .top .pillar,body.T-light.L-block .top .source{color:var(--studio-grey)}
 body.T-light.L-block h1{color:#FFFFFF}
 body.T-light.L-block h1 .hl{color:var(--light-blue)}
-/* Optional series badge (spec "badge": path under designer/), top-right; top-left in the right layout */
-#badge{position:absolute;top:0;right:0;height:60px;display:none}
-body.L-right #badge{right:auto;left:0}
+/* Brand bar (approved Nov 2026): the Rising Ledger logo sits in the top corner opposite the pillar label:
+   top-right normally, top-left in the right layout. An optional series badge (spec "badge") sits beside it,
+   separated by a faint rule. Logo colours follow the background: white + light-blue on dark, near-black + steel on light. */
+#brandbar{position:absolute;top:0;right:0;display:flex;align-items:center;gap:22px;z-index:2}
+body.L-right #brandbar{right:auto;left:0;flex-direction:row-reverse}
+#badge{height:60px;display:none}
+#zalogo{display:flex;align-items:center;gap:12px;color:var(--white)}
+#zalogo svg{width:48px;height:48px;flex:none}
+#zalogo .zm{fill:currentColor} #zalogo .zb{fill:var(--light-blue)}
+#zalogo .zw{display:flex;flex-direction:column;font:800 29px/27px Montserrat;letter-spacing:.01em;white-space:nowrap}
+#brandbar.hasbadge #zalogo{padding-left:22px;border-left:1px solid rgba(255,255,255,.3)}
+body.L-right #brandbar.hasbadge #zalogo{padding-left:0;border-left:0;padding-right:22px;border-right:1px solid rgba(255,255,255,.3)}
+body.T-light #zalogo{color:#151515} body.T-light #zalogo .zb{fill:var(--steel)}
+body.T-light #brandbar.hasbadge #zalogo{border-color:rgba(21,21,21,.2)}
+body.T-light.L-block #zalogo{color:var(--white)} body.T-light.L-block #zalogo .zb{fill:var(--light-blue)}
+body.T-light.L-block #brandbar.hasbadge #zalogo{border-color:rgba(255,255,255,.3)}
+.slide-no{top:70px} body.L-right .slide-no{top:70px}
+/* Edge: the logo sits at the top of the dark slab (white + light-blue in both themes), freeing the narrow header */
+body.L-edge #zalogo{position:absolute;top:6px;right:-262px;color:var(--white)}
+body.L-edge #zalogo .zb{fill:var(--light-blue)}
+body.L-edge #brandbar.hasbadge #zalogo{padding-left:0;border-left:0}
+body.L-edge .slide-no{top:0}
 </style>
 </head>
 <body>
@@ -124,7 +143,7 @@ body.L-right #badge{right:auto;left:0}
   <div id="deco"><div class="slab"></div><div class="kick" id="kick"></div></div>
   <svg id="net" width="1080" height="1350"></svg>
   <div id="page">
-    <img id="badge" alt="">
+    <div id="brandbar"><img id="badge" alt=""><div id="zalogo" aria-label="Zubair Akbar logo"><svg viewBox="12 12 96 96"><path class="zm" d="M12 12H108V30L36 90V108H12V90L84 30H12Z M48 78H72V108H48Z"/><path class="zb" d="M84 64H108V108H84Z"/></svg><div class="zw"><span>ZUBAIR</span><span>AKBAR</span></div></div></div>
     <div class="top"><div class="pillar" id="pillar"></div><div class="source" id="source"></div><div class="slide-no" id="slideno"></div></div>
     <div class="head"><div class="bar"></div><h1 id="h1"></h1></div>
     <div id="content"></div>
@@ -169,7 +188,10 @@ const S = window.SPEC;
 const esc = t => String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 const rich = t => esc(t).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>');
 document.getElementById('pillar').textContent = S.pillar || '';
-if (S.badge){ const bg=document.getElementById('badge'); bg.src=S.badge; bg.style.display='block'; }
+if (S.badge){ const bg=document.getElementById('badge'); bg.src=S.badge; bg.style.display='block'; document.getElementById('brandbar').classList.add('hasbadge'); }
+if (S.logo===false) document.getElementById('zalogo').style.display='none';
+// Keep the pillar label and source line clear of the brand bar.
+{ const bb=document.getElementById('brandbar'), tp=document.querySelector('.top'); const pad=()=>{ const w=bb.offsetWidth+28; if ((S.layout||'classic')==='right') tp.style.paddingLeft=w+'px'; else tp.style.paddingRight=w+'px'; }; pad(); document.fonts && document.fonts.ready.then(pad); const bi=document.getElementById('badge'); if (S.badge) bi.addEventListener('load', pad); }
 document.getElementById('source').textContent = S.source || '';
 if (S.slide) document.getElementById('slideno').textContent = S.slide;
 const h1 = document.getElementById('h1');
