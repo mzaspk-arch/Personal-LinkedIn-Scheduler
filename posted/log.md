@@ -45,3 +45,4 @@
 | 2026-11-04 AM | 2026-11-04-AM-Tourist-VAT-Refunds.png | https://www.linkedin.com/feed/update/urn:li:share:7523638874104008704/ |
 | 2026-11-04 PM | 2026-11-04-PM-Fix-Process-First.png | https://www.linkedin.com/feed/update/urn:li:share:7523729576598958080/ |
 | 2026-11-04 GK | 2026-11-04-GK-GKMBA-02-3X-Not-3X-Hours.png | https://www.linkedin.com/feed/update/urn:li:share:7523749808264871936/ |
+| 2026-11-05 MORN | 2026-11-05-MORN-Pillar-Two-UAE-Groups.png | https://www.linkedin.com/feed/update/urn:li:share:7523963592975609857/ |
