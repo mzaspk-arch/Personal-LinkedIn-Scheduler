@@ -19,11 +19,12 @@ The footer is fixed in `template.html`; post specs never change it.
   framing `50% 32% / 140% auto` from `assets/headshot.jpg`.
 - Line 1: **Zubair Akbar** — Montserrat ExtraBold 32 px.
 - Line 2: **zubairakbar.com** (white, semibold) | accentureon.com | xpertgroupglobal.com — Inter 22 px, studio-grey.
-- Line 3: Follow me **@zubairakbarpk** followed by six outline-circle icons in this order:
-  LinkedIn, Facebook, Instagram, X, YouTube, WhatsApp (32 px circles, 2 px ring, white on dark, near-black on light).
+- Line 3: Follow me **@zubairakbarpk** followed by seven outline-circle icons in this order:
+  LinkedIn, Facebook, Instagram, X, YouTube, TikTok, WhatsApp (32 px circles, 2 px ring, white on dark, near-black on light).
 - The tax disclaimer sits on its own line just above the footer rule, never inside the footer.
 - `edge` layout: the dark slab stops above the footer so the footer runs the full width.
-These six social icons are the only icons allowed on a poster.
+These seven social icons are the only icons allowed on a poster. All profiles use the handle @zubairakbarpk
+(TikTok: https://www.tiktok.com/@zubairakbarpk, added 5 Nov 2026).
 
 ## Background variations
 Every poster keeps the same brand base (grey gradient, slate bar, one light-blue line, same footer).
