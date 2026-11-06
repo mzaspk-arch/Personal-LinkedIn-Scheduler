@@ -52,3 +52,4 @@
 | 2026-11-05 GK | 2026-11-05-GK-GKMBA-03-Four-Dials-of-Earning.png | https://www.linkedin.com/feed/update/urn:li:share:7524112504411680768/ |
 | 2026-11-06 MORN | 2026-11-06-MORN-Input-VAT-Procurement.png | https://www.linkedin.com/feed/update/urn:li:share:7524325846732468224/ |
 | 2026-11-06 AM | 2026-11-06-AM-CT-Return-31-December.png | https://www.linkedin.com/feed/update/urn:li:share:7524363686577270784/ |
+| 2026-11-06 PM | 2026-11-06-PM-One-ERP-Used-Well.png | https://www.linkedin.com/feed/update/urn:li:share:7524454607406870529/ |
