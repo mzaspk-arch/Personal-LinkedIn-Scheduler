@@ -54,3 +54,4 @@
 | 2026-11-06 AM | 2026-11-06-AM-CT-Return-31-December.png | https://www.linkedin.com/feed/update/urn:li:share:7524363686577270784/ |
 | 2026-11-06 PM | 2026-11-06-PM-One-ERP-Used-Well.png | https://www.linkedin.com/feed/update/urn:li:share:7524454607406870529/ |
 | 2026-11-06 GK | 2026-11-06-GK-GKMBA-04-Doubling-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7524475355512856576/ |
+| 2026-11-07 MORN | 2026-11-07-MORN-Small-Business-Relief-2029.png | https://www.linkedin.com/feed/update/urn:li:share:7524688154302537728/ |
