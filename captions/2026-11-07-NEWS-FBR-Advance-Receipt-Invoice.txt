@@ -1,0 +1,27 @@
+**Took a customer advance? Sales tax is due that month.**
+
+FBR issued S.R.O. 2063(I)/2026 on 5 November 2026, substituting Rule 160 of the Sales Tax Rules, 2006.
+
+It covers registered persons who receive advance payments against a supply, in full, in part or in instalments.
+
+**What changes:**
+▶ **Each advance:** issue an advance receipt invoice at the time you receive it.
+▶ **Output tax:** declare it in the return for the tax period in which the advance is received.
+▶ **Instalments:** a separate invoice for each payment, electronically linked to the earlier ones.
+▶ **Final invoice:** issued on supply, referring to the advance invoices. Tax already accounted for is not charged again.
+▶ **Rate:** the rate at receipt applies to the advance; the rate at supply applies to the balance.
+▶ **Changes or cancellations:** adjust under section 9 and Rules 19 to 22, with linked debit and credit notes.
+
+This turns a cash event into a tax event.
+
+✅ Map every customer advance account in your ERP to an advance receipt invoice.
+
+✅ Brief sales and finance teams before your next sales tax return.
+
+Source: https://download1.fbr.gov.pk/SROs/202611512115850979SRO2063dated5-11-2026.pdf
+
+How does your business record customer advances today?
+
+General information, not tax advice.
+
+#PakistanTax #FBR #SMEsPakistan #CFO #ERP

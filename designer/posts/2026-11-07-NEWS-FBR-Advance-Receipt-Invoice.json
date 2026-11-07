@@ -1,0 +1,22 @@
+{
+ "id": "2026-11-07-NEWS-FBR-Advance-Receipt-Invoice",
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "Just released · FBR S.R.O. 2063(I)/2026 · 5 Nov 2026",
+ "headline": ["TOOK AN ADVANCE?", "SALES TAX IS DUE"],
+ "highlight": "IN THAT MONTH",
+ "blocks": [
+  {"type": "text", "text": "FBR has substituted **Rule 160** of the Sales Tax Rules, 2006 for advance payments against supplies."},
+  {"type": "list", "items": [
+   "**Each advance:** issue an advance receipt invoice when you receive it",
+   "**Output tax:** declare it in the return for the period of receipt",
+   "**Instalments:** a separate invoice for each, electronically linked",
+   "**Final invoice:** refers to the advance invoices; no tax charged twice",
+   "**Rate:** at receipt for the advance, at supply for the balance"
+  ]},
+  {"type": "closing", "text": "Check how your ERP records customer advances."}
+ ],
+ "layout": "block",
+ "theme": "dark",
+ "disclaimer": true
+}
