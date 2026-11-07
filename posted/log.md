@@ -58,3 +58,4 @@
 | 2026-11-07 AM | 2026-11-07-AM-VAT-Registration-Test.png | https://www.linkedin.com/feed/update/urn:li:share:7524726297185640448/ |
 | 2026-11-07 PM | 2026-11-07-PM-FBR-Integration-Tax-Credit.png | https://www.linkedin.com/feed/update/urn:li:share:7524816925458128896/ |
 | 2026-11-07 GK | 2026-11-07-GK-GKMBA-05-Four-Income-Engines.png | https://www.linkedin.com/feed/update/urn:li:share:7524836883177037824/ |
+| 2026-11-07 NEWS | 2026-11-07-NEWS-FBR-Advance-Receipt-Invoice.png | https://www.linkedin.com/feed/update/urn:li:share:7524875604303998977/ |
