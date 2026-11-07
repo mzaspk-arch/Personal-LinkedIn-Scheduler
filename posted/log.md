@@ -56,3 +56,4 @@
 | 2026-11-06 GK | 2026-11-06-GK-GKMBA-04-Doubling-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7524475355512856576/ |
 | 2026-11-07 MORN | 2026-11-07-MORN-Small-Business-Relief-2029.png | https://www.linkedin.com/feed/update/urn:li:share:7524688154302537728/ |
 | 2026-11-07 AM | 2026-11-07-AM-VAT-Registration-Test.png | https://www.linkedin.com/feed/update/urn:li:share:7524726297185640448/ |
+| 2026-11-07 PM | 2026-11-07-PM-FBR-Integration-Tax-Credit.png | https://www.linkedin.com/feed/update/urn:li:share:7524816925458128896/ |
