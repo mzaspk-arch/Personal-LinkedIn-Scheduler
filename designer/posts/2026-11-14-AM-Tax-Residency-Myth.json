@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-14-AM-Tax-Residency-Myth",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "Cabinet Decision No. 85 of 2022 · FTA TRC service",
+ "headline": [
+  "A UAE VISA DOESN'T",
+  "MAKE YOU"
+ ],
+ "highlight": "TAX RESIDENT",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "I have a UAE visa, so I'm a UAE tax resident."
+  },
+  {
+   "type": "lead",
+   "text": "You need to meet one test"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**183 days** or more in the UAE in 12 months",
+    "**90 days** or more, plus a visa and a UAE home, job or business",
+    "Your **main home and centre of interests** are in the UAE"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "edge",
+ "theme": "dark",
+ "kicker": "183"
+}

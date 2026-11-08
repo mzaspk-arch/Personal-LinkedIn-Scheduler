@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-11-PM-Property-Advance-Tax",
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Circular No. 02 of 2026-27 · Finance Act 2026",
+ "headline": [
+  "SELLING PROPERTY?",
+  "ADVANCE TAX"
+ ],
+ "highlight": "IS NOW FLAT",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Seller (236C):** **2.75%** of the gross sale price",
+    "**Buyer (236K):** **1.25%** of fair market value",
+    "**Late filers on the ATL:** the higher Tenth Schedule rates are gone",
+    "**Inherited property:** your cost is its **fair market value**"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "edge",
+ "theme": "dark",
+ "kicker": "2.75%"
+}

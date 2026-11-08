@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-11-AM-CT-Loss-Rules",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "FTA Bulletin · Corporate Tax Losses · 25 June 2026",
+ "headline": [
+  "TAX LOSSES WON'T",
+  "WIPE OUT"
+ ],
+ "highlight": "NEXT YEAR'S TAX",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Our tax losses will cover all of next year's profit."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Losses can cut only **75%** of a year's taxable income.",
+    "Losses before **1 June 2023**, or before you became taxable, don't count.",
+    "Ownership changed by **over 50%**? Keep the **same or a similar business**."
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "block",
+ "theme": "dark"
+}

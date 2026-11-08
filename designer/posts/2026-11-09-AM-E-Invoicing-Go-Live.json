@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-09-AM-E-Invoicing-Go-Live",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "FTA announcement · 25 October 2026 · e-Invoicing deadlines",
+ "headline": [
+  "AED 50M+ REVENUE?",
+  "E-INVOICING GOES LIVE"
+ ],
+ "highlight": "1 JANUARY 2027",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "The deadline to appoint an **Accredited Service Provider** was **30 October 2026**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**No ASP yet?** Appoint one now. The penalty is **AED 5,000** a month",
+    "**Contract and integrate** your ERP with the ASP",
+    "**Complete the e-invoicing steps** on EmaraTax",
+    "**Under AED 50m?** ASP by **31 March 2027**, live by **1 July 2027**"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "theme": "light",
+ "kicker": "1 JAN"
+}

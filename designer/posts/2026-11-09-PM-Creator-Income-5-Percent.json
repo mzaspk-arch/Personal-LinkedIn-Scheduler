@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-09-PM-Creator-Income-5-Percent",
+ "format": "MythVsFact",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Circular No. 02 of 2026-27 · Section 154B · Finance Act 2026",
+ "headline": [
+  "YOUTUBE INCOME?",
+  "YOUR BANK NOW"
+ ],
+ "highlight": "DEDUCTS 5%",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "YouTube or TikTok money isn't taxed in Pakistan."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Banks deduct **5%** when **social media platform revenue** reaches your account.",
+    "For residents it is a **minimum tax**. Declare it in your return.",
+    "Non-residents with no PE in Pakistan: it is a **final tax**."
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "right",
+ "theme": "dark"
+}

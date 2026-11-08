@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-10-AM-New-Home-VAT-Refund",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "FTA announcement · 30 October 2026",
+ "headline": [
+  "BUILDING YOUR HOME?",
+  "CLAIM THE VAT BACK"
+ ],
+ "highlight": "WITHIN 12 MONTHS",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "For **UAE nationals** building a **new family home**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Deadline:** 12 months from completion, up from 6",
+    "**Now eligible:** pools, home gyms, staff quarters, smart-home systems",
+    "**Documents:** Family Book, Emirates ID, contract, completion certificate",
+    "**Apply** online or through the FTA's **Maskan** app"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "edge",
+ "theme": "light",
+ "kicker": "12"
+}

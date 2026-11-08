@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-10-PM-Unowned-Spreadsheets",
+ "format": "HotTake",
+ "pillar": "DIGITAL TRANSFORMATION",
+ "source": "Opinion · Digital transformation for SME owners",
+ "headline": [
+  "SPREADSHEETS AREN'T",
+  "THE PROBLEM."
+ ],
+ "highlight": "UNOWNED ONES ARE",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**No owner:** nobody checks the formulas once their builder leaves.",
+    "**No single copy:** files sent by email become five versions of the truth.",
+    "**No priority:** move the sheets that run pricing, payroll or cash first."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "classic",
+ "theme": "dark"
+}

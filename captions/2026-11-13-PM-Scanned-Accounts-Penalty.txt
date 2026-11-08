@@ -1,0 +1,23 @@
+**Scanned accounts now count as blank filings.**
+
+The Finance Act 2026 tightened penalties under section 182 of the Income Tax Ordinance.
+
+FBR set out the changes in Circular No. 02 of 2026-27.
+
+**What to watch:**
+▶ **Scanned accounts:** audited financial statements filed as image files, scanned documents or password-protected files are treated as blank or incomplete.
+▶ **Readable files for companies:** from tax year 2026, financial statements with a company's return must be in an electronically readable file format.
+▶ **Excess withholding credit:** claim more tax credit than was actually deducted and deposited, and the penalty equals the excess.
+▶ **Missing electronic resource:** if FBR requires you to install one and you don't, the penalty is 1% of turnover or Rs 1 million, whichever is higher, for the first default, and Rs 2 million for each later quarterly default.
+
+✅ Ask your auditor for accounts in a readable file, not a scanned PDF.
+
+✅ Match every withholding credit to a certificate or a deposited challan before you file.
+
+Source: FBR Circular No. 02 of 2026-27: https://download1.fbr.gov.pk/Docs/202698139527880CircularNo.2of2026-27.pdf
+
+How does your business submit its financial statements today?
+
+General information, not tax advice.
+
+#PakistanTax #FBR #SMEsPakistan #PakistanBusiness

@@ -1,0 +1,28 @@
+**Tax losses won't wipe out next year's tax.**
+
+A common assumption: "We made losses, so next year's profit is covered."
+
+Under UAE Corporate Tax, that is only partly true.
+
+The FTA's bulletin on Corporate Tax losses (25 June 2026) sets out the rules.
+
+**What the rules say:**
+▶ **75% cap:** losses can offset at most 75% of taxable income in a tax period. Oldest losses go first.
+▶ **No choice:** you must use losses up to that 75% limit. You can't hold them back for later.
+▶ **What doesn't count:** losses before 1 June 2023, or before you became a taxable person, can't be carried forward.
+▶ **Ownership change:** if more than 50% of ownership changes, you keep the losses only if you carry on the same or a similar business.
+▶ **Small Business Relief:** in a year you elect it, carried-forward losses can't be used.
+
+The FTA's example: AED 1,000,000 of taxable income and AED 3,000,000 of losses leaves AED 250,000 taxable.
+
+✅ Keep a tax loss schedule by year, separate from your accounting losses.
+
+✅ Check the loss position before any share sale or new investor comes in.
+
+Source: FTA Basic Tax Information Bulletin, Corporate Tax Losses: https://tax.gov.ae/Datafolder/Files/Pdf/2026/CT-Tax-Bulletin-Corporate-Tax-Losses-EN.pdf
+
+Does your business track tax losses separately from accounting losses?
+
+General information, not tax advice.
+
+#UAECorporateTax #FTA #SMEsUAE #CFO

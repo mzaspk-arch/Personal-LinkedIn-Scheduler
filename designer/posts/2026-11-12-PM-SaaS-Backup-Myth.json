@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-12-PM-SaaS-Backup-Myth",
+ "format": "MythVsFact",
+ "pillar": "SAAS",
+ "source": "SaaS for SME owners · Who protects your data",
+ "headline": [
+  "YOUR SAAS VENDOR",
+  "IS NOT"
+ ],
+ "highlight": "YOUR BACKUP PLAN",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "It's in the cloud, so our data is safe."
+  },
+  {
+   "type": "list",
+   "items": [
+    "The vendor protects the **platform**. You control **who can delete** data.",
+    "Check how long your data is kept **after you cancel**.",
+    "Schedule your own **exports** and test a **restore**."
+   ]
+  }
+ ],
+ "disclaimer": false,
+ "layout": "block",
+ "theme": "dark"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-14-PM-Customise-ERP-Last",
+ "format": "HotTake",
+ "pillar": "ERP",
+ "source": "Opinion · ERP for SME owners (Odoo)",
+ "headline": [
+  "CUSTOMISE",
+  "YOUR ERP LAST,"
+ ],
+ "highlight": "NOT FIRST",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Standard first:** run the out-of-the-box flow for a month before changing it.",
+    "**Configure before you code:** settings and fields often close the gap.",
+    "**Every custom module** must be tested again at each upgrade."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "right",
+ "theme": "light"
+}

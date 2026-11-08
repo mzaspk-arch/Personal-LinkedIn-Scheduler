@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-13-PM-Scanned-Accounts-Penalty",
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Circular No. 02 of 2026-27 · Section 182 · Finance Act 2026",
+ "headline": [
+  "SCANNED ACCOUNTS",
+  "NOW COUNT AS"
+ ],
+ "highlight": "BLANK FILINGS",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Finance Act 2026 tightened **section 182** penalties."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Image or scanned accounts:** treated as blank or incomplete",
+    "**Companies:** accounts in an **electronically readable** file from tax year 2026",
+    "**Excess withholding credit claimed:** penalty equals the excess",
+    "**Required electronic resource missing:** **1% of turnover** or **Rs 1 million**, whichever is higher"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "theme": "dark",
+ "kicker": "182"
+}

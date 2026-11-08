@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-13-AM-Monthly-Close",
+ "format": "HotTake",
+ "pillar": "FINANCE",
+ "source": "Opinion · Finance for UAE SME owners",
+ "headline": [
+  "A MONTHLY CLOSE",
+  "IS NOW A"
+ ],
+ "highlight": "TAX CONTROL",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**E-invoicing:** invoice data reaches the FTA through your ASP. Your books must match.",
+    "**VAT:** reconciled ledgers turn each return into a check, not a rebuild.",
+    "**Corporate Tax:** errors found monthly cost less to fix than at year-end."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "classic",
+ "theme": "light"
+}
