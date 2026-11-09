@@ -60,3 +60,4 @@
 | 2026-11-07 GK | 2026-11-07-GK-GKMBA-05-Four-Income-Engines.png | https://www.linkedin.com/feed/update/urn:li:share:7524836883177037824/ |
 | 2026-11-07 NEWS | 2026-11-07-NEWS-FBR-Advance-Receipt-Invoice.png | https://www.linkedin.com/feed/update/urn:li:share:7524875604303998977/ |
 | 2026-11-08 GK | 2026-11-08-GK-GKMBA-06-No-Certificate.png | https://www.linkedin.com/feed/update/urn:li:share:7525199048312582145/ |
+| 2026-11-09 AM | 2026-11-09-AM-E-Invoicing-Go-Live.png | https://www.linkedin.com/feed/update/urn:li:share:7525450672146640896/ |
