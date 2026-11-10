@@ -62,3 +62,4 @@
 | 2026-11-08 GK | 2026-11-08-GK-GKMBA-06-No-Certificate.png | https://www.linkedin.com/feed/update/urn:li:share:7525199048312582145/ |
 | 2026-11-09 AM | 2026-11-09-AM-E-Invoicing-Go-Live.png | https://www.linkedin.com/feed/update/urn:li:share:7525450672146640896/ |
 | 2026-11-09 GK | 2026-11-09-GK-GKMBA-07-Count-Before-You-Price.png | https://www.linkedin.com/feed/update/urn:li:share:7525561377839738880/ |
+| 2026-11-10 MORN | 2026-11-10-MORN-E-Invoicing-Not-IT.png | https://www.linkedin.com/feed/update/urn:li:share:7525775502364614656/ |
