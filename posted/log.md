@@ -65,3 +65,4 @@
 | 2026-11-10 MORN | 2026-11-10-MORN-E-Invoicing-Not-IT.png | https://www.linkedin.com/feed/update/urn:li:share:7525775502364614656/ |
 | 2026-11-10 AM | 2026-11-10-AM-New-Home-VAT-Refund.png | https://www.linkedin.com/feed/update/urn:li:share:7525813209602371584/ |
 | 2026-11-10 PM | 2026-11-10-PM-Unowned-Spreadsheets.png | https://www.linkedin.com/feed/update/urn:li:share:7525903639215861760/ |
+| 2026-11-10 GK | 2026-11-10-GK-GKMBA-08-Five-Capitals.png | https://www.linkedin.com/feed/update/urn:li:share:7525923981611122688/ |
