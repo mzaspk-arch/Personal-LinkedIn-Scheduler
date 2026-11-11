@@ -69,3 +69,4 @@
 | 2026-11-11 MORN | 2026-11-11-MORN-Split-Invoice-Trap.png | https://www.linkedin.com/feed/update/urn:li:share:7526137895867539456/ |
 | 2026-11-11 AM | 2026-11-11-AM-CT-Loss-Rules.png | https://www.linkedin.com/feed/update/urn:li:share:7526175401166045184/ |
 | 2026-11-11 PM | 2026-11-11-PM-Property-Advance-Tax.png | https://www.linkedin.com/feed/update/urn:li:share:7526266164012982272/ |
+| 2026-11-11 GK | 2026-11-11-GK-GKMBA-09-Five-Stages-of-Earning.png | https://www.linkedin.com/feed/update/urn:li:share:7526286185325813760/ |
