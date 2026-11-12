@@ -73,3 +73,4 @@
 | 2026-11-12 MORN | 2026-11-12-MORN-DMTT-Worked-Example.png | https://www.linkedin.com/feed/update/urn:li:share:7526500191886180352/ |
 | 2026-11-12 AM | 2026-11-12-AM-Private-Clarification.png | https://www.linkedin.com/feed/update/urn:li:share:7526537920015458304/ |
 | 2026-11-12 PM | 2026-11-12-PM-SaaS-Backup-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7526628481405808641/ |
+| 2026-11-12 GK | 2026-11-12-GK-GKMBA-10-Your-Real-Hourly-Rate.png | https://www.linkedin.com/feed/update/urn:li:share:7526648721258917888/ |
