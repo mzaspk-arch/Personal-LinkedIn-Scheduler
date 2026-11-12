@@ -72,3 +72,4 @@
 | 2026-11-11 GK | 2026-11-11-GK-GKMBA-09-Five-Stages-of-Earning.png | https://www.linkedin.com/feed/update/urn:li:share:7526286185325813760/ |
 | 2026-11-12 MORN | 2026-11-12-MORN-DMTT-Worked-Example.png | https://www.linkedin.com/feed/update/urn:li:share:7526500191886180352/ |
 | 2026-11-12 AM | 2026-11-12-AM-Private-Clarification.png | https://www.linkedin.com/feed/update/urn:li:share:7526537920015458304/ |
+| 2026-11-12 PM | 2026-11-12-PM-SaaS-Backup-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7526628481405808641/ |
