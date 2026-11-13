@@ -74,3 +74,4 @@
 | 2026-11-12 AM | 2026-11-12-AM-Private-Clarification.png | https://www.linkedin.com/feed/update/urn:li:share:7526537920015458304/ |
 | 2026-11-12 PM | 2026-11-12-PM-SaaS-Backup-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7526628481405808641/ |
 | 2026-11-12 GK | 2026-11-12-GK-GKMBA-10-Your-Real-Hourly-Rate.png | https://www.linkedin.com/feed/update/urn:li:share:7526648721258917888/ |
+| 2026-11-13 MORN | 2026-11-13-MORN-Employee-Benefits-Gaps.png | https://www.linkedin.com/feed/update/urn:li:share:7526862470280355841/ |
