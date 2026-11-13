@@ -76,3 +76,4 @@
 | 2026-11-12 GK | 2026-11-12-GK-GKMBA-10-Your-Real-Hourly-Rate.png | https://www.linkedin.com/feed/update/urn:li:share:7526648721258917888/ |
 | 2026-11-13 MORN | 2026-11-13-MORN-Employee-Benefits-Gaps.png | https://www.linkedin.com/feed/update/urn:li:share:7526862470280355841/ |
 | 2026-11-13 AM | 2026-11-13-AM-Monthly-Close.png | https://www.linkedin.com/feed/update/urn:li:share:7526900240025620482/ |
+| 2026-11-13 PM | 2026-11-13-PM-Scanned-Accounts-Penalty.png | https://www.linkedin.com/feed/update/urn:li:share:7526991025945403392/ |
