@@ -80,3 +80,4 @@
 | 2026-11-14 MORN | 2026-11-14-MORN-RD-Tax-Credit-Rates.png | https://www.linkedin.com/feed/update/urn:li:share:7527224887132909568/ |
 | 2026-11-14 AM | 2026-11-14-AM-Tax-Residency-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7527262592768286721/ |
 | 2026-11-14 PM | 2026-11-14-PM-Customise-ERP-Last.png | https://www.linkedin.com/feed/update/urn:li:share:7527353314758332416/ |
+| 2026-11-14 GK | 2026-11-14-GK-GKMBA-12-Demand-Proof-Rarity.png | https://www.linkedin.com/feed/update/urn:li:share:7527373274150891521/ |
