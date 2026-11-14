@@ -78,3 +78,4 @@
 | 2026-11-13 AM | 2026-11-13-AM-Monthly-Close.png | https://www.linkedin.com/feed/update/urn:li:share:7526900240025620482/ |
 | 2026-11-13 PM | 2026-11-13-PM-Scanned-Accounts-Penalty.png | https://www.linkedin.com/feed/update/urn:li:share:7526991025945403392/ |
 | 2026-11-14 MORN | 2026-11-14-MORN-RD-Tax-Credit-Rates.png | https://www.linkedin.com/feed/update/urn:li:share:7527224887132909568/ |
+| 2026-11-14 AM | 2026-11-14-AM-Tax-Residency-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7527262592768286721/ |
