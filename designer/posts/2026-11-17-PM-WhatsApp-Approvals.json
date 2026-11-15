@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-17-PM-WhatsApp-Approvals",
+ "format": "HotTake",
+ "pillar": "DIGITAL TRANSFORMATION",
+ "source": "Opinion · Digital transformation for SME owners",
+ "headline": [
+  "APPROVALS ON",
+  "WHATSAPP LEAVE"
+ ],
+ "highlight": "NO AUDIT TRAIL",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Who approved what:** buried in chats, not linked to the invoice or PO.",
+    "**People leave:** phones change and the approval history goes with them.",
+    "**Limits:** nothing stops a payment above the approver's limit."
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Move approvals into your ERP or a workflow tool, with **limits per role**."
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "edge",
+ "theme": "dark",
+ "kicker": "OPINION"
+}

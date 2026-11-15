@@ -1,0 +1,22 @@
+**Approvals on WhatsApp leave no audit trail.**
+
+In many SMEs, payments and purchases are approved with a thumbs-up in a chat.
+
+It feels fast. It is also one of the weakest controls in the business.
+
+**Three reasons:**
+▶ **Who approved what:** the approval sits in a chat, not on the invoice or purchase order. Months later, nobody can find it.
+▶ **People leave:** phones change, chats are deleted and the history goes with them.
+▶ **Limits:** nothing stops a payment above what the approver is allowed to sign off.
+
+Your auditor, your tax authority and your bank all want the same thing: a clear record of who approved what, and when.
+
+Most ERPs and workflow tools already do this, with approval limits per role and a log on every document.
+
+✅ Pick one process this month, such as purchase orders or supplier payments, and move its approvals into your system.
+
+✅ Set a simple limit per role, and send anything above it to the next level.
+
+Agree or disagree? Where do approvals happen in your business today?
+
+#DigitalTransformation #ERP #Automation #Entrepreneurship

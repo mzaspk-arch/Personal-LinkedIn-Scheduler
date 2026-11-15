@@ -1,0 +1,21 @@
+**Before you sign a SaaS contract, read the exit terms.**
+
+Most SME owners compare features and price per user.
+
+Few read what happens when they want to leave, or when the price changes. That is where the surprises are.
+
+**Four checks before you sign:**
+▶ **Data export:** in what format can you export your data, how often, and does it cost extra?
+▶ **Renewal price:** is there a cap on how much the price can rise each year?
+▶ **Auto-renewal:** how many days' notice do you need to give to cancel?
+▶ **Data location:** where is your data hosted, and does that matter for your clients or regulators?
+
+A cheap first year can turn into an expensive lock-in if these answers are missing.
+
+✅ Ask the vendor to answer these four points in writing before you sign.
+
+✅ Put the cancellation notice date in your calendar the day the contract starts.
+
+Which of these four has caught you out before?
+
+#SaaS #DigitalTransformation #Entrepreneurship #Automation

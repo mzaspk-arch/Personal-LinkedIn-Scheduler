@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-19-PM-SaaS-Contract-Checks",
+ "format": "Checklist",
+ "pillar": "SAAS",
+ "source": "SaaS for SME owners · Contract checks",
+ "headline": [
+  "BEFORE YOU SIGN",
+  "A SAAS CONTRACT"
+ ],
+ "highlight": "READ THE EXIT TERMS",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Data export:** what format, how often, what cost?",
+    "**Renewal price:** is there a cap on yearly increases?",
+    "**Auto-renewal:** how many days' notice to cancel?",
+    "**Data location:** where is your data hosted?"
+   ]
+  }
+ ],
+ "disclaimer": false,
+ "layout": "block",
+ "theme": "light"
+}

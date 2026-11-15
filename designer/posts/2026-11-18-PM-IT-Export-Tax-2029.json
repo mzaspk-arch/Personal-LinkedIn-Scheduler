@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-18-PM-IT-Export-Tax-2029",
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Circular No. 02 of 2026-27 · Finance Act 2026",
+ "headline": [
+  "IT EXPORTERS:",
+  "THE 0.25% RATE"
+ ],
+ "highlight": "NOW RUNS TO 2029",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**IT and IT-enabled services exports:** reduced **0.25%** advance tax extended to tax year **2029**",
+    "**Other exports:** advance tax fixed at **1.25%** as minimum tax",
+    "**Extra 1% on exporters** under section 147(6C): abolished",
+    "**Working independently for local clients?** Software developers face **15%** withholding"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "theme": "dark",
+ "kicker": "0.25%"
+}

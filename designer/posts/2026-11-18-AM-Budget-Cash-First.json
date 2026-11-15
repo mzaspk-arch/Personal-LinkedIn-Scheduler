@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-18-AM-Budget-Cash-First",
+ "format": "HotTake",
+ "pillar": "FINANCE",
+ "source": "Opinion · Finance for UAE SME owners",
+ "headline": [
+  "YOUR 2027 BUDGET",
+  "SHOULD START WITH"
+ ],
+ "highlight": "CASH, NOT PROFIT",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Profit counts sales** you haven't collected yet. Cash pays salaries.",
+    "**Tax dates are fixed:** VAT and Corporate Tax leave your account on set dates.",
+    "**A monthly cash forecast** shows the gap before your bank does."
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "right",
+ "theme": "light"
+}

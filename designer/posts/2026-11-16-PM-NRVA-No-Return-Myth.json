@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-16-PM-NRVA-No-Return-Myth",
+ "format": "MythVsFact",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Circular No. 02 of 2026-27 · Finance Act 2026",
+ "headline": [
+  "OVERSEAS PAKISTANI?",
+  "YOUR NRVA MAY"
+ ],
+ "highlight": "NOT NEED A RETURN",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Every Pakistani bank account means filing a return."
+  },
+  {
+   "type": "lead",
+   "text": "No return if your only Pakistan income is"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Profit** on FCVA, FCBVA, NRVA or NRVBA balances",
+    "**Profit on government securities** bought through them",
+    "**Gains or dividends** on PSX shares, funds or property bought this way"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "block",
+ "theme": "dark"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-17-AM-Transfer-Pricing-Myth",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "CT Law Articles 34 & 55 · Ministerial Decision No. 97 of 2023",
+ "headline": [
+  "SMALL COMPANY?",
+  "TRANSFER PRICING"
+ ],
+ "highlight": "STILL APPLIES",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Transfer pricing is only for big multinationals."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Arm's length** applies to every deal with related parties and connected persons, at any size",
+    "**Master and local files** only if your revenue is **AED 200 million+** or your group's is **AED 3.15 billion+**",
+    "Below that, keep **evidence of market prices**. The FTA can still ask for it"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "classic",
+ "theme": "dark"
+}

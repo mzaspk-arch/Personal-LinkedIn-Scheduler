@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-21-PM-Odoo-Free-Myth",
+ "format": "MythVsFact",
+ "pillar": "ERP",
+ "source": "ERP for SME owners · Odoo editions",
+ "headline": [
+  "“ODOO IS FREE”",
+  "IS ONLY"
+ ],
+ "highlight": "HALF THE STORY",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Odoo is free, so our ERP costs nothing."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Community** is open source. **Enterprise** is a paid subscription per user.",
+    "Apps many SMEs need, like **full Accounting**, come with **Enterprise**.",
+    "Budget for **setup, data migration and training**, not just licences."
+   ]
+  }
+ ],
+ "disclaimer": false,
+ "layout": "edge",
+ "theme": "light",
+ "kicker": "MYTH"
+}

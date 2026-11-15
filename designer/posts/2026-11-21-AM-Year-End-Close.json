@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-21-AM-Year-End-Close",
+ "format": "Checklist",
+ "pillar": "FINANCE",
+ "source": "Finance for UAE SME owners · 31 December year-end",
+ "headline": [
+  "31 DECEMBER",
+  "YEAR-END? START"
+ ],
+ "highlight": "YOUR CLOSE NOW",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Stock count:** fix the date and who counts",
+    "**Receivables:** chase overdue balances",
+    "**Reconcile:** bank, VAT and intercompany",
+    "**Auditor:** agree the timetable early"
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Corporate Tax return due: **30 September 2027**."
+  }
+ ],
+ "disclaimer": true,
+ "layout": "right",
+ "theme": "dark"
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-20-AM-Connected-Persons-Myth",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "FTA Public Clarification CTP010 (April 2026) · CT Law Article 36",
+ "headline": [
+  "A JOB TITLE DOESN'T",
+  "DECIDE WHO IS"
+ ],
+ "highlight": "A CONNECTED PERSON",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Only board members count as connected persons."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Officers count:** anyone who makes strategic decisions or can sign deals that bind the company",
+    "**Owners, directors** and their related parties count",
+    "**Pay and benefits** to them are deductible only up to **market value**"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "classic",
+ "theme": "light"
+}

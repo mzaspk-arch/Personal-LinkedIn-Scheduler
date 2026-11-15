@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-20-PM-Salary-Tax-Slabs",
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Circular No. 02 of 2026-27 · Finance Act 2026",
+ "headline": [
+  "SALARIED?",
+  "CHECK YOUR PAYSLIP"
+ ],
+ "highlight": "AGAINST THE NEW SLABS",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Up to Rs 600,000** a year: **0%**",
+    "**Rs 600,000 to 1.2 million:** **1%** of the amount above Rs 600,000",
+    "**Rs 1.2 to 2.2 million:** Rs 6,000 + **11%** of the amount above Rs 1.2 million",
+    "**Salaried above Rs 10 million:** the **9% surcharge** is withdrawn"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "theme": "dark",
+ "kicker": "0%"
+}

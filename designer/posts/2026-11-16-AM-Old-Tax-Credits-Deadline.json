@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-16-AM-Old-Tax-Credits-Deadline",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "Federal Decree-Law No. 17 of 2025 · Ministry of Finance",
+ "headline": [
+  "OLD TAX CREDITS",
+  "WITH THE FTA?"
+ ],
+ "highlight": "CLAIM BY 31 DEC",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "A credit balance must now be refunded or used within **5 years** of the end of its tax period."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**One-year window:** credits whose 5 years ended before 1 Jan 2026, or end during 2026",
+    "**Deadline:** **31 December 2026** to submit the refund request",
+    "**Found an error later?** A voluntary disclosure is allowed within **2 years** of the request"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "theme": "light",
+ "kicker": "31 DEC"
+}
