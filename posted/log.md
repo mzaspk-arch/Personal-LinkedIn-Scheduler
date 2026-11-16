@@ -85,3 +85,4 @@
 | 2026-11-16 MORN | 2026-11-16-MORN-Top-up-Tax-Registration.png | https://www.linkedin.com/feed/update/urn:li:share:7527949864975081472/ |
 | 2026-11-16 AM | 2026-11-16-AM-Old-Tax-Credits-Deadline.png | https://www.linkedin.com/feed/update/urn:li:share:7527987575702237184/ |
 | 2026-11-16 PM | 2026-11-16-PM-NRVA-No-Return-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7528078189949104128/ |
+| 2026-11-16 GK | 2026-11-16-GK-GKMBA-14-Freedom-Stage-Arithmetic.png | https://www.linkedin.com/feed/update/urn:li:share:7528098153196044288/ |
