@@ -86,3 +86,4 @@
 | 2026-11-16 AM | 2026-11-16-AM-Old-Tax-Credits-Deadline.png | https://www.linkedin.com/feed/update/urn:li:share:7527987575702237184/ |
 | 2026-11-16 PM | 2026-11-16-PM-NRVA-No-Return-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7528078189949104128/ |
 | 2026-11-16 GK | 2026-11-16-GK-GKMBA-14-Freedom-Stage-Arithmetic.png | https://www.linkedin.com/feed/update/urn:li:share:7528098153196044288/ |
+| 2026-11-17 MORN | 2026-11-17-MORN-VAT-Apportionment-Change.png | https://www.linkedin.com/feed/update/urn:li:share:7528311982983245824/ |
