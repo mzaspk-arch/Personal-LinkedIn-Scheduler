@@ -93,3 +93,4 @@
 | 2026-11-18 MORN | 2026-11-18-MORN-Tax-Group-AFS.png | https://www.linkedin.com/feed/update/urn:li:share:7528674660805402625/ |
 | 2026-11-18 AM | 2026-11-18-AM-Budget-Cash-First.png | https://www.linkedin.com/feed/update/urn:li:share:7528712397629489152/ |
 | 2026-11-18 PM | 2026-11-18-PM-IT-Export-Tax-2029.png | https://www.linkedin.com/feed/update/urn:li:share:7528802918209224704/ |
+| 2026-11-18 GK | 2026-11-18-GK-GKMBA-16-The-60-Second-Test.png | https://www.linkedin.com/feed/update/urn:li:share:7528823015153938433/ |
