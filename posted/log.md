@@ -90,5 +90,4 @@
 | 2026-11-17 AM | 2026-11-17-AM-Transfer-Pricing-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7528349838304997376/ |
 | 2026-11-17 PM | 2026-11-17-PM-WhatsApp-Approvals.png | https://www.linkedin.com/feed/update/urn:li:share:7528440347786567680/ |
 | 2026-11-17 GK | 2026-11-17-GK-GKMBA-15-Four-Numbers-In-Every-Price.png | https://www.linkedin.com/feed/update/urn:li:share:7528460662319214593/ |
-
 | 2026-11-18 MORN | 2026-11-18-MORN-Tax-Group-AFS.png | https://www.linkedin.com/feed/update/urn:li:share:7528674660805402625/ |
