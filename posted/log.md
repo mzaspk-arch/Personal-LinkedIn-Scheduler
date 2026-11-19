@@ -96,3 +96,4 @@
 | 2026-11-18 GK | 2026-11-18-GK-GKMBA-16-The-60-Second-Test.png | https://www.linkedin.com/feed/update/urn:li:share:7528823015153938433/ |
 | 2026-11-19 MORN | 2026-11-19-MORN-E-Invoicing-Penalties.png | https://www.linkedin.com/feed/update/urn:li:share:7529036771041611776/ |
 | 2026-11-19 AM | 2026-11-19-AM-CT-Registration-Deadlines.png | https://www.linkedin.com/feed/update/urn:li:share:7529074634160238592/ |
+| 2026-11-19 PM | 2026-11-19-PM-SaaS-Contract-Checks.png | https://www.linkedin.com/feed/update/urn:li:share:7529165327515938817/ |
