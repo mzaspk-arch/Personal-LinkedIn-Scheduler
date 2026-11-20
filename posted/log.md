@@ -99,3 +99,4 @@
 | 2026-11-19 PM | 2026-11-19-PM-SaaS-Contract-Checks.png | https://www.linkedin.com/feed/update/urn:li:share:7529165327515938817/ |
 | 2026-11-19 GK | 2026-11-19-GK-GKMBA-17-Five-Kinds-of-Missing.png | https://www.linkedin.com/feed/update/urn:li:share:7529185500419661824/ |
 | 2026-11-20 MORN | 2026-11-20-MORN-Tax-Is-Data.png | https://www.linkedin.com/feed/update/urn:li:share:7529399335646621696/ |
+| 2026-11-20 AM | 2026-11-20-AM-Connected-Persons-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7529436910612770816/ |
