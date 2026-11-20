@@ -101,3 +101,4 @@
 | 2026-11-20 MORN | 2026-11-20-MORN-Tax-Is-Data.png | https://www.linkedin.com/feed/update/urn:li:share:7529399335646621696/ |
 | 2026-11-20 AM | 2026-11-20-AM-Connected-Persons-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7529436910612770816/ |
 | 2026-11-20 NEWS | 2026-11-20-NEWS-UAE-VAT-Total-Loss-Transfer.png | https://www.linkedin.com/feed/update/urn:li:share:7529476589773037568/ |
+| 2026-11-20 PM | 2026-11-20-PM-Salary-Tax-Slabs.png | https://www.linkedin.com/feed/update/urn:li:share:7529527617784516608/ |
