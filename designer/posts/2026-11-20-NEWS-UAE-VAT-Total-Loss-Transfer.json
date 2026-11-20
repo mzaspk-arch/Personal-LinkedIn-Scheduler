@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-20-NEWS-UAE-VAT-Total-Loss-Transfer",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "Just released · FTA VAT Directive No. 6 of 2026 · 18 Nov 2026",
+ "headline": [
+  "TOTAL LOSS?",
+  "HANDING OVER THE WRECK"
+ ],
+ "highlight": "IS NOT A VAT SUPPLY",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Handing a written-off asset to the insurer is a supply, so VAT is due."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Total loss:** can't be economically or safely repaired",
+    "**Settlement:** ownership passes to the insurer under the claim",
+    "**No extra price:** nothing paid beyond the compensation",
+    "**Insurer resells it?** That sale is the insurer's own supply",
+    "**Records:** both sides keep total-loss and claim evidence"
+   ]
+  }
+ ],
+ "layout": "block",
+ "theme": "light",
+ "disclaimer": true
+}
