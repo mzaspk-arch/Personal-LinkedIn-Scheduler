@@ -103,3 +103,4 @@
 | 2026-11-20 NEWS | 2026-11-20-NEWS-UAE-VAT-Total-Loss-Transfer.png | https://www.linkedin.com/feed/update/urn:li:share:7529476589773037568/ |
 | 2026-11-20 PM | 2026-11-20-PM-Salary-Tax-Slabs.png | https://www.linkedin.com/feed/update/urn:li:share:7529527617784516608/ |
 | 2026-11-20 GK | 2026-11-20-GK-GKMBA-18-Nature-Picks-The-Method.png | https://www.linkedin.com/feed/update/urn:li:share:7529547832299646977/ |
+| 2026-11-21 MORN | 2026-11-21-MORN-Pillar-Two-Safe-Harbours.png | https://www.linkedin.com/feed/update/urn:li:share:7529761740079718400/ |
