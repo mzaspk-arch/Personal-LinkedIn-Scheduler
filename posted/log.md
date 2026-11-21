@@ -105,3 +105,4 @@
 | 2026-11-20 GK | 2026-11-20-GK-GKMBA-18-Nature-Picks-The-Method.png | https://www.linkedin.com/feed/update/urn:li:share:7529547832299646977/ |
 | 2026-11-21 MORN | 2026-11-21-MORN-Pillar-Two-Safe-Harbours.png | https://www.linkedin.com/feed/update/urn:li:share:7529761740079718400/ |
 | 2026-11-21 AM | 2026-11-21-AM-Year-End-Close.png | https://www.linkedin.com/feed/update/urn:li:share:7529799319797862400/ |
+| 2026-11-21 NEWS | 2026-11-21-NEWS-Saudi-DMTT-2027.png | https://www.linkedin.com/feed/update/urn:li:share:7529842372474597376/ |
