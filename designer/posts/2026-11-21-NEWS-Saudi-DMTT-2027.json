@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-21-NEWS-Saudi-DMTT-2027",
+ "format": "Checklist",
+ "pillar": "TAX • GCC",
+ "source": "Just released · ZATCA announcement on DMTT · 19 Nov 2026",
+ "headline": [
+  "SAUDI ARABIA'S",
+  "15% TOP-UP TAX STARTS"
+ ],
+ "highlight": "1 JANUARY 2027",
+ "blocks": [
+  {
+   "type": "text",
+   "text": "ZATCA will apply a **Domestic Minimum Top-up Tax (DMTT)** to large multinational groups."
+  },
+  {
+   "type": "lead",
+   "text": "What you need to know"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Who:** entities of MNE groups with revenue of EUR 750M+",
+    "**Test:** EUR 750M in at least 2 of the 4 prior fiscal years",
+    "**What:** top-up when profits are taxed below 15%",
+    "**15% of profit:** a minimum effective rate, not a tax on revenue",
+    "**Out of scope:** purely domestic firms not in a covered group"
+   ]
+  }
+ ],
+ "layout": "block",
+ "theme": "dark",
+ "disclaimer": true
+}
