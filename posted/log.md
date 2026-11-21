@@ -107,3 +107,4 @@
 | 2026-11-21 AM | 2026-11-21-AM-Year-End-Close.png | https://www.linkedin.com/feed/update/urn:li:share:7529799319797862400/ |
 | 2026-11-21 NEWS | 2026-11-21-NEWS-Saudi-DMTT-2027.png | https://www.linkedin.com/feed/update/urn:li:share:7529842372474597376/ |
 | 2026-11-21 PM | 2026-11-21-PM-Odoo-Free-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7529889954697670656/ |
+| 2026-11-21 GK | 2026-11-21-GK-GKMBA-19-Somebody-Must-Pay-You.png | https://www.linkedin.com/feed/update/urn:li:share:7529910205976031232/ |
