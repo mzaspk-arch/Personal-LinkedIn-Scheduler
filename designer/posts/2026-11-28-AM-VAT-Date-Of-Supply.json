@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-28-AM-VAT-Date-Of-Supply",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "VAT Decree-Law Articles 25, 26 and 67",
+ "headline": [
+  "VAT CAN BE DUE",
+  "BEFORE"
+ ],
+ "highlight": "THE CLIENT PAYS",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "We only pay VAT on an invoice once the customer has paid."
+  },
+  {
+   "type": "list",
+   "items": [
+    "VAT is due on the **earliest** of delivery, completed service, payment or invoice",
+    "Issue the tax invoice **within 14 days** of the date of supply",
+    "**Periodic contracts:** earliest of invoice, due date, payment or **one year** after supply"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "right",
+ "theme": "light"
+}

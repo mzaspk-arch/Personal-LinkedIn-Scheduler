@@ -1,0 +1,27 @@
+**Foreign software still carries UAE VAT.**
+
+Your CRM, cloud storage or design tool is billed from abroad with no VAT on the invoice.
+
+That does not mean there is no VAT.
+
+Under Article 48 of the VAT Decree-Law, a business that imports services for its business is treated as making a supply to itself. This is the reverse charge.
+
+**What it means in practice:**
+▶ **You account for the VAT:** at the rate that would apply if a UAE supplier had made the supply.
+▶ **Timing:** declare it in the return for the tax period of the date of supply.
+▶ **Records:** keep the supplier's invoice showing the details and the amount paid.
+▶ **Since 1 January 2026:** you no longer issue a tax invoice to yourself (Federal Decree-Law No. 16 of 2025).
+
+If your business can recover input tax under the normal rules, this VAT is generally recoverable too. If not, it becomes a real cost.
+
+✅ List every overseas subscription paid by company card or bank transfer.
+
+✅ Check each one appears as reverse charge in your VAT return.
+
+Source: VAT Decree-Law and Executive Regulation, Article 48 (tax.gov.ae).
+
+Do your overseas subscriptions show up in your VAT return?
+
+General information, not tax advice.
+
+#UAEVAT #SMEsUAE #FTA #SaaS

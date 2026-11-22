@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-23-PM-Non-ATL-Costs",
+ "format": "MythVsFact",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Withholding Tax Rate Card · Tax Year 2027 (Finance Act 2026)",
+ "headline": [
+  "OFF THE ATL?",
+  "WITHHOLDING TAX"
+ ],
+ "highlight": "DOUBLES OR WORSE",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Staying off the Active Taxpayers' List only costs a little."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Independent professionals:** **15%** withheld on the ATL, **30%** off it",
+    "**New car, 1301–1600cc:** advance tax of **2%** of value, or **6%** off the ATL",
+    "**Cash withdrawals:** **0.8%** advance tax, charged only to people off the ATL"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "edge",
+ "theme": "dark",
+ "kicker": "2X"
+}

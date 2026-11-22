@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-24-PM-Clean-Data-Before-ERP",
+ "format": "HotTake",
+ "pillar": "ERP",
+ "source": "ERP for SME owners · Data migration",
+ "headline": [
+  "YOUR ERP WILL FAIL",
+  "ON DIRTY DATA,"
+ ],
+ "highlight": "NOT ON SOFTWARE",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Duplicate customers** and suppliers break reports from day one",
+    "**Wrong opening balances:** nobody trusts the numbers",
+    "Clean-up needs a **named owner** before go-live"
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "classic",
+ "theme": "dark"
+}

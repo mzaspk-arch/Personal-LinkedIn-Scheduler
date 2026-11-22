@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-23-AM-VAT-Bad-Debt-Relief",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "VAT Decree-Law Article 64 · FTA Public Clarification VATP024",
+ "headline": [
+  "UNPAID INVOICE?",
+  "YOU CAN RECLAIM"
+ ],
+ "highlight": "THE VAT YOU PAID",
+ "blocks": [
+  {
+   "type": "lead",
+   "text": "All four must be true"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**VAT charged and paid** to the FTA in your return",
+    "**Written off** as a bad debt in your accounts",
+    "**More than 6 months** since the date of supply",
+    "**Customer notified** of the amount written off"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "classic",
+ "theme": "dark"
+}

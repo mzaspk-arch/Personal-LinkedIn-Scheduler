@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-27-PM-Savings-Withholding",
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Withholding Tax Rate Card · Tax Year 2027 · Sections 150 and 151",
+ "headline": [
+  "HOW MUCH TAX",
+  "COMES OFF YOUR"
+ ],
+ "highlight": "SAVINGS PROFIT?",
+ "blocks": [
+  {
+   "type": "lead",
+   "text": "Rates on the ATL"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Bank deposit profit:** **20%**",
+    "**Corporate sukuk, individuals:** **10%**, or **12.5%** above Rs 1 million return",
+    "**Dividends, general case:** **15%**",
+    "**Debt-heavy mutual funds:** **25%**"
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Off the ATL, each of these rates **doubles**."
+  }
+ ],
+ "disclaimer": true,
+ "layout": "edge",
+ "theme": "dark",
+ "kicker": "20%"
+}

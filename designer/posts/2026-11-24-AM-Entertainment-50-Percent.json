@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-24-AM-Entertainment-50-Percent",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "Corporate Tax Law Article 32 · Federal Decree-Law No. 47 of 2022",
+ "headline": [
+  "CLIENT DINNERS",
+  "ARE ONLY"
+ ],
+ "highlight": "50% DEDUCTIBLE",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Client entertainment is a business cost, so it is fully deductible."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**50% cap** on entertaining clients and partners",
+    "Covers **meals, accommodation, transport, admission fees**",
+    "Must still be **wholly and exclusively** for business"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "block",
+ "theme": "light"
+}

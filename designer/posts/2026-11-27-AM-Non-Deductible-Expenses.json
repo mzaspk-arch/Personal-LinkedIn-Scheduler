@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-27-AM-Non-Deductible-Expenses",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "Corporate Tax Law Article 33 · Federal Decree-Law No. 47 of 2022",
+ "headline": [
+  "5 COSTS THAT",
+  "CORPORATE TAX"
+ ],
+ "highlight": "WILL NOT DEDUCT",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Fines and penalties**, except compensation for damages or breach of contract",
+    "**Donations** to bodies that are not Qualifying Public Benefit Entities",
+    "**Dividends** and profit distributions to owners",
+    "**Corporate Tax** and recoverable input VAT",
+    "**Bribes** or other illicit payments"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "right",
+ "theme": "dark"
+}

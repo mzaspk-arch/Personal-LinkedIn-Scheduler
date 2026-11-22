@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-26-PM-Quarterly-Access-Review",
+ "format": "Checklist",
+ "pillar": "SAAS",
+ "source": "SaaS security for SME owners · Access control",
+ "headline": [
+  "4 ACCESS CHECKS",
+  "YOUR SAAS NEEDS"
+ ],
+ "highlight": "EVERY QUARTER",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Leavers removed** from every app on their last day",
+    "**No shared logins:** one named user for each person",
+    "**Two-factor login** switched on for every user",
+    "**Admin rights** kept to the few people who need them"
+   ]
+  }
+ ],
+ "disclaimer": false,
+ "layout": "block",
+ "theme": "dark"
+}

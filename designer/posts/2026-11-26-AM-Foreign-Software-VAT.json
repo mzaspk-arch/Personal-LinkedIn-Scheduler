@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-26-AM-Foreign-Software-VAT",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "VAT Decree-Law Article 48 · VAT Executive Regulation Article 48",
+ "headline": [
+  "FOREIGN SOFTWARE",
+  "STILL CARRIES"
+ ],
+ "highlight": "UAE VAT",
+ "blocks": [
+  {
+   "type": "myth",
+   "text": "Our overseas software supplier charges no VAT, so there is nothing to report."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A VAT-registered business **accounts for the VAT itself** under the reverse charge",
+    "Report it in the return covering the **date of supply**",
+    "Keep the **supplier's invoice**. Since **1 January 2026**, no self-invoice is needed"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "classic",
+ "theme": "light"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-25-PM-Rent-Tax-Slabs",
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "FBR Withholding Tax Rate Card · Tax Year 2027 · Section 155",
+ "headline": [
+  "RENTING OUT PROPERTY?",
+  "KNOW THE"
+ ],
+ "highlight": "TAX YEAR 2027 SLABS",
+ "blocks": [
+  {
+   "type": "lead",
+   "text": "Individuals and AOPs, gross annual rent"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Up to Rs 300,000:** nil",
+    "**Up to Rs 600,000:** **5%** of the excess",
+    "**Up to Rs 2 million:** Rs 15,000 + **10%** of excess",
+    "**Over Rs 2 million:** Rs 155,000 + **25%** of excess"
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Companies: **15%** on the ATL, **30%** off it."
+  }
+ ],
+ "disclaimer": true,
+ "layout": "right",
+ "theme": "light"
+}

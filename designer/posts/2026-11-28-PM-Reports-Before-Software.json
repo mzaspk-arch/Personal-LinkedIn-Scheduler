@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-28-PM-Reports-Before-Software",
+ "format": "HotTake",
+ "pillar": "DIGITAL TRANSFORMATION",
+ "source": "Digital transformation for SME owners · Choosing software",
+ "headline": [
+  "CHOOSE SOFTWARE BY",
+  "THE REPORTS YOU NEED,"
+ ],
+ "highlight": "NOT THE DEMO",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "List the **numbers you check every week** before you see any demo",
+    "Ask the vendor to **build those reports** with your own data",
+    "Unused features still **cost licences and training**"
+   ]
+  },
+  {
+   "type": "closing",
+   "text": "Agree or disagree?"
+  }
+ ],
+ "disclaimer": false,
+ "layout": "classic",
+ "theme": "dark"
+}

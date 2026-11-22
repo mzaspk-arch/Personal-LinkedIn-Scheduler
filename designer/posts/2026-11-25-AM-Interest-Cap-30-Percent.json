@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-25-AM-Interest-Cap-30-Percent",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "CT Law Article 30 · Ministerial Decision No. 126 of 2023 · FTA Guide CTGIDL1",
+ "headline": [
+  "BORROWING HEAVILY?",
+  "YOUR INTEREST"
+ ],
+ "highlight": "MAY BE CAPPED",
+ "blocks": [
+  {
+   "type": "list",
+   "items": [
+    "**Net interest up to AED 12 million** a year: no cap applies",
+    "**Above that:** deduct the higher of **AED 12 million** or **30% of adjusted EBITDA**",
+    "**Disallowed interest** carries forward for **10 tax periods**",
+    "Interest on debt agreed **before 9 December 2022** is outside the rule"
+   ]
+  }
+ ],
+ "disclaimer": true,
+ "layout": "ghost",
+ "theme": "dark",
+ "kicker": "30%"
+}
