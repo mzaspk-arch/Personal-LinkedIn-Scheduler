@@ -109,3 +109,4 @@
 | 2026-11-21 PM | 2026-11-21-PM-Odoo-Free-Myth.png | https://www.linkedin.com/feed/update/urn:li:share:7529889954697670656/ |
 | 2026-11-21 GK | 2026-11-21-GK-GKMBA-19-Somebody-Must-Pay-You.png | https://www.linkedin.com/feed/update/urn:li:share:7529910205976031232/ |
 | 2026-11-23 MORN | 2026-11-23-MORN-Supplier-Red-Flags.png | https://www.linkedin.com/feed/update/urn:li:share:7530486535809490944/ |
+| 2026-11-23 AM | 2026-11-23-AM-VAT-Bad-Debt-Relief.png | https://www.linkedin.com/feed/update/urn:li:share:7530524150201806848/ |
