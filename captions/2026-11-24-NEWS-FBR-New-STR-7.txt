@@ -1,0 +1,28 @@
+**FBR just replaced your sales tax return format.**
+
+FBR issued S.R.O. 2271(I)/2026 on 23 November 2026.
+
+It substitutes Form STR-7, Annex-A (domestic purchase invoices) and Annex-C (domestic sales invoices) under rule 14 of the Sales Tax Rules, 2006.
+
+In plain terms: FBR now wants more detail behind every invoice you report.
+
+**New details to report:**
+▶ **Purchases:** your supplier's return-filing status and the HS code.
+▶ **Input tax:** a reason for any input tax that is not creditable.
+▶ **Sales:** buyer registration, where the sale originates and its destination.
+▶ **Special rates:** the SRO or Schedule reference for exempt, zero-rated or reduced-rate supplies.
+▶ **Barcode:** a field on both annexes.
+
+If your accounting system cannot export these fields, your team will be typing them by hand at month-end.
+
+✅ Compare your invoice data and ERP export with the new Annex-A and Annex-C columns.
+
+✅ Clean up supplier and customer master data (registration numbers, HS codes, provinces) before your next return.
+
+Source: https://download1.fbr.gov.pk/SROs/2026112315111835527SRO2271.pdf
+
+Is your system ready to capture these fields, or will this be manual work?
+
+General information, not tax advice.
+
+#PakistanTax #FBR #SMEsPakistan #ERP

@@ -1,0 +1,24 @@
+{
+ "id": "2026-11-24-NEWS-FBR-New-STR-7",
+ "format": "Checklist",
+ "pillar": "TAX • PAKISTAN",
+ "source": "Just released · FBR S.R.O. 2271(I)/2026 · 23 Nov 2026",
+ "headline": ["FBR REPLACES", "YOUR SALES TAX"],
+ "highlight": "RETURN FORMAT",
+ "blocks": [
+  {"type": "text", "text": "**S.R.O. 2271(I)/2026** substitutes Form **STR-7**, **Annex-A** (purchases) and **Annex-C** (sales) under the Sales Tax Rules, 2006."},
+  {"type": "lead", "text": "New details to report"},
+  {"type": "list", "items": [
+    "**Purchases:** supplier return status and HS code",
+    "**Input tax:** a reason for any non-creditable input",
+    "**Sales:** buyer registration, origin and destination",
+    "**Special rates:** SRO or Schedule reference",
+    "**Barcode:** a field on both annexes"
+  ]},
+  {"type": "closing", "text": "Update your ERP export before the next return."}
+ ],
+ "layout": "edge",
+ "theme": "dark",
+ "kicker": "STR-7",
+ "disclaimer": true
+}
