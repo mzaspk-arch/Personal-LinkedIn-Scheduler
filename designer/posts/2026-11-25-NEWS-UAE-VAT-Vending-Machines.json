@@ -1,0 +1,21 @@
+{
+ "id": "2026-11-25-NEWS-UAE-VAT-Vending-Machines",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "Just released · FTA VAT Directive No. 8 of 2026 · 19 Nov 2026",
+ "headline": ["VENDING MACHINES?", "NO TAX INVOICE"],
+ "highlight": "IF YOUR RECORDS HOLD",
+ "blocks": [
+  {"type": "lead", "text": "Keep, as a minimum, for every supply"},
+  {"type": "list", "items": [
+    "**What:** a description of the goods or services",
+    "**How much:** total consideration received and VAT charged",
+    "**When:** the date of supply under **Article 26(2)**"
+  ]},
+  {"type": "text", "text": "**Vending machine:** automated self-service, no human input by the supplier. Restocking or maintenance doesn't count."},
+  {"type": "text", "text": "**Third-party operator?** Payment is deemed collected on the earlier of the operator's confirmation or the day after **30 days** from its collection."}
+ ],
+ "layout": "right",
+ "theme": "light",
+ "disclaimer": true
+}
