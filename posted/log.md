@@ -115,3 +115,4 @@
 | 2026-11-24 AM | 2026-11-24-AM-Entertainment-50-Percent.png | https://www.linkedin.com/feed/update/urn:li:share:7530886651196141569/ |
 | 2026-11-24 PM | 2026-11-24-PM-Clean-Data-Before-ERP.png | https://www.linkedin.com/feed/update/urn:li:share:7530977293511479296/ |
 | 2026-11-24 NEWS | 2026-11-24-NEWS-FBR-New-STR-7.png | https://www.linkedin.com/feed/update/urn:li:share:7531034914880757761/ |
+| 2026-11-25 MORN | 2026-11-25-MORN-E-Invoicing-October-Changes.png | https://www.linkedin.com/feed/update/urn:li:share:7531211138366377984/ |
