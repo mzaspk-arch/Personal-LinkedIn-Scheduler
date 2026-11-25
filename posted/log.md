@@ -118,3 +118,4 @@
 | 2026-11-25 MORN | 2026-11-25-MORN-E-Invoicing-October-Changes.png | https://www.linkedin.com/feed/update/urn:li:share:7531211138366377984/ |
 | 2026-11-25 AM | 2026-11-25-AM-Interest-Cap-30-Percent.png | https://www.linkedin.com/feed/update/urn:li:share:7531248986175787008/ |
 | 2026-11-25 NEWS | 2026-11-25-NEWS-UAE-VAT-Vending-Machines.png | https://www.linkedin.com/feed/update/urn:li:share:7531291677878054913/ |
+| 2026-11-25 PM | 2026-11-25-PM-Rent-Tax-Slabs.png | https://www.linkedin.com/feed/update/urn:li:share:7531339601949552640/ |
