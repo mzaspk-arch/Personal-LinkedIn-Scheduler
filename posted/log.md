@@ -117,3 +117,4 @@
 | 2026-11-24 NEWS | 2026-11-24-NEWS-FBR-New-STR-7.png | https://www.linkedin.com/feed/update/urn:li:share:7531034914880757761/ |
 | 2026-11-25 MORN | 2026-11-25-MORN-E-Invoicing-October-Changes.png | https://www.linkedin.com/feed/update/urn:li:share:7531211138366377984/ |
 | 2026-11-25 AM | 2026-11-25-AM-Interest-Cap-30-Percent.png | https://www.linkedin.com/feed/update/urn:li:share:7531248986175787008/ |
+| 2026-11-25 NEWS | 2026-11-25-NEWS-UAE-VAT-Vending-Machines.png | https://www.linkedin.com/feed/update/urn:li:share:7531291677878054913/ |
