@@ -121,3 +121,4 @@
 | 2026-11-25 PM | 2026-11-25-PM-Rent-Tax-Slabs.png | https://www.linkedin.com/feed/update/urn:li:share:7531339601949552640/ |
 | 2026-11-26 MORN | 2026-11-26-MORN-Downward-TP-Adjustments.png | https://www.linkedin.com/feed/update/urn:li:share:7531573593835487232/ |
 | 2026-11-26 AM | 2026-11-26-AM-Foreign-Software-VAT.png | https://www.linkedin.com/feed/update/urn:li:share:7531611524004507648/ |
+| 2026-11-26 PM | 2026-11-26-PM-Quarterly-Access-Review.png | https://www.linkedin.com/feed/update/urn:li:share:7531702113970868224/ |
