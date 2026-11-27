@@ -124,3 +124,4 @@
 | 2026-11-26 PM | 2026-11-26-PM-Quarterly-Access-Review.png | https://www.linkedin.com/feed/update/urn:li:share:7531702113970868224/ |
 | 2026-11-27 MORN | 2026-11-27-MORN-Choosing-An-ASP.png | https://www.linkedin.com/feed/update/urn:li:share:7531935991998222336/ |
 | 2026-11-27 AM | 2026-11-27-AM-Non-Deductible-Expenses.png | https://www.linkedin.com/feed/update/urn:li:share:7531973695288963072/ |
+| 2026-11-27 NEWS | 2026-11-27-NEWS-UAE-E-Invoicing-Guidelines-2-1.png | https://www.linkedin.com/feed/update/urn:li:share:7532016432298000384/ |
