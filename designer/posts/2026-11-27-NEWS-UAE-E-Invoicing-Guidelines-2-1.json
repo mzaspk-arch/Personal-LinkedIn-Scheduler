@@ -1,0 +1,22 @@
+{
+ "id": "2026-11-27-NEWS-UAE-E-Invoicing-Guidelines-2-1",
+ "format": "Checklist",
+ "pillar": "TAX • UAE",
+ "source": "Just released · MoF E-Invoicing Guidelines v2.1 · 25 Nov 2026",
+ "headline": ["380 OR 480?", "MOF CLARIFIES YOUR"],
+ "highlight": "E-INVOICE TYPE",
+ "blocks": [
+  {"type": "lead", "text": "What version 2.1 says"},
+  {"type": "list", "items": [
+    "**Code 380:** invoices with taxable supplies where UAE VAT applies",
+    "**Code 480:** out-of-scope, or entirely VAT-exempt and/or non-VAT supplies",
+    "**Outside VAT is not outside e-invoicing:** only Chapter 7 exclusions remove it",
+    "**Retention credit notes:** reason code **DL8.61.1.C** may be used",
+    "**Reverse charge lines:** report the GTIN where the item uses one"
+  ]},
+  {"type": "text", "text": "Revenue **AED 50M+**? Go-live is **1 January 2027**. Check your ERP code mapping now."}
+ ],
+ "layout": "classic",
+ "theme": "dark",
+ "disclaimer": true
+}
