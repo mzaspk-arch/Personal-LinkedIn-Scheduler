@@ -1,0 +1,20 @@
+{
+ "id": "2026-11-28-NEWS-UAE-CT-Loss-Transfer-Ownership",
+ "format": "MythVsFact",
+ "pillar": "TAX • UAE",
+ "source": "Just released · FTA CTP013 & CTP014 · 27 Nov 2026",
+ "headline": ["TWO 50% OWNERS", "CAN'T SHARE"],
+ "highlight": "TAX LOSSES",
+ "blocks": [
+  {"type": "myth", "text": "Same two owners, so our companies can move losses between them."},
+  {"type": "list", "items": [
+    "**One owner, 75%+:** a single person must hold 75% of both. No adding owners together.",
+    "**From day one:** 75% must hold from the start of the loss period to the end of the period it is used.",
+    "**New or bought companies:** ownership mid-year can block that year's transfer."
+  ]}
+ ],
+ "layout": "ghost",
+ "kicker": "75%",
+ "theme": "light",
+ "disclaimer": true
+}
