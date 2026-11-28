@@ -127,3 +127,4 @@
 | 2026-11-27 NEWS | 2026-11-27-NEWS-UAE-E-Invoicing-Guidelines-2-1.png | https://www.linkedin.com/feed/update/urn:li:share:7532016432298000384/ |
 | 2026-11-27 PM | 2026-11-27-PM-Savings-Withholding.png | https://www.linkedin.com/feed/update/urn:li:share:7532064518202396675/ |
 | 2026-11-28 MORN | 2026-11-28-MORN-Free-Zone-Substance.png | https://www.linkedin.com/feed/update/urn:li:share:7532298397328904192/ |
+| 2026-11-28 AM | 2026-11-28-AM-VAT-Date-Of-Supply.png | https://www.linkedin.com/feed/update/urn:li:share:7532336071582449664/ |
